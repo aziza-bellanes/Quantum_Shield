@@ -1,0 +1,719 @@
+appId,title,genre,tag,score,installs,total_domains,scanned_domains,any_tls13,any_tls12,pqc_capable,pqc_domains,pqc_groups
+com.google.android.apps.walletnfcrel,Google Wallet,Finance,finance,4.291328,1000000000,2,2,True,False,True,pay.google.com;policies.google.com,X25519MLKEM768
+com.strava,"Strava: Run, Bike, Hike",Health & Fitness,health_fitness,4.481104,50000000,2,2,True,False,True,strava.com;support.strava.com,X25519MLKEM768
+com.myfitnesspal.android,MyFitnessPal: Food & Fitness,Health & Fitness,health_fitness,4.452881,100000000,1,1,True,False,True,myfitnesspal.com,X25519MLKEM768
+com.alltrails.alltrails,"AllTrails: Hike, Bike & Run",Health & Fitness,health_fitness,4.643866,10000000,1,1,True,False,True,alltrails.com,X25519MLKEM768
+org.iggymedia.periodtracker,Flo Period & Pregnancy Tracker,Health & Fitness,health_fitness,4.6678987,100000000,1,1,True,False,True,flo.health,X25519MLKEM768
+com.google.android.apps.fitness,Google Fit: Activity Tracking,Health & Fitness,health_fitness,3.4538653,100000000,2,2,True,False,True,google.com,X25519MLKEM768
+com.hevy,Hevy - Gym Log Workout Tracker,Health & Fitness,health_fitness,4.922353,1000000,5,5,True,False,True,facebook.com;hevyapp.com;instagram.com;iubenda.com;twitter.com,X25519MLKEM768
+com.fourtechnologies.mynetdiary.ad,Calorie Counter - MyNetDiary,Health & Fitness,health_fitness,4.778364,5000000,1,1,True,False,False,,x25519
+com.cronometer.android.gold,Calorie Counter by Cronometer,Health & Fitness,health_fitness,4.4946237,1000000,1,1,True,False,False,,x25519
+com.calm.android,"Calm - Sleep, Meditate, Relax",Health & Fitness,health_fitness,4.309406,50000000,1,1,True,False,True,calm.com,X25519MLKEM768
+com.fitbit.FitbitMobile,Fitbit,Health & Fitness,health_fitness,3.8591838,100000000,1,1,True,False,False,,
+com.walkfit.weightloss.steptracker.pedometer,Weight Loss Walking: WalkFit,Health & Fitness,health_fitness,4.6167665,10000000,4,4,True,False,True,contact-us.welltech.com;legal.walkfit.pro;legal.walkfit.welltech.com,X25519MLKEM768
+com.resmed.myair,myAir™ by Resmed,Medical,medical,3.990099,1000000,2,2,True,False,True,myair.resmed.com,X25519MLKEM768
+com.popularapp.periodcalendar,Period Calendar Period Tracker,Health & Fitness,health_fitness,4.879837,100000000,1,1,False,True,False,,
+com.everfit,Everfit,Health & Fitness,health_fitness,4.52,100000,1,1,False,True,False,,
+com.fitbod.fitbod,Fitbod: Workout & Gym Planner,Health & Fitness,health_fitness,4.66,1000000,1,1,True,False,True,fitbod.me,X25519MLKEM768
+com.northcube.sleepcycle,Sleep Cycle: Sleep Tracker,Health & Fitness,health_fitness,4.2894735,10000000,2,2,True,False,True,sleepcycle.com;support.sleepcycle.com,X25519MLKEM768
+com.nike.plusgps,Nike Run Club - Running Coach,Health & Fitness,health_fitness,4.2854033,50000000,1,1,True,False,True,nike.com,X25519MLKEM768
+de.komoot.android,"komoot - hike, bike & run",Health & Fitness,health_fitness,4.46,10000000,1,1,True,False,True,komoot.com,X25519MLKEM768
+com.lyfta,Lyfta: Gym Log Workout Tracker,Health & Fitness,health_fitness,4.78,1000000,1,1,True,False,True,lyfta.app,X25519MLKEM768
+com.runtastic.android,adidas Running: Run Tracker,Health & Fitness,health_fitness,4.60989,50000000,2,2,True,False,False,,x25519
+com.hrd.iam,I am - Daily affirmations,Health & Fitness,health_fitness,4.7697163,5000000,2,2,True,False,False,,x25519
+com.endel.endel,"Endel: Focus, Relax & Sleep",Health & Fitness,health_fitness,4.35,1000000,2,2,True,False,True,endel.io;endel.zendesk.com,X25519MLKEM768
+com.inbody2014.inbody,InBody,Health & Fitness,health_fitness,3.2340426,5000000,2,2,True,False,False,,
+com.fiton.android,FitOn Workouts & Fitness Plans,Health & Fitness,health_fitness,4.435185,5000000,2,2,False,True,True,app.fitonapp.com,X25519MLKEM768
+je.fit,JEFIT Gym Workout Tracker,Health & Fitness,health_fitness,4.3229165,5000000,1,1,False,True,False,,
+io.privado.android,PrivadoVPN - VPN App & Proxy,Tools,vpn,3.6101694,1000000,1,1,True,False,True,privadovpn.com,X25519MLKEM768
+com.hrd.motivation,Motivation - Daily quotes,Health & Fitness,health_fitness,4.821429,5000000,2,2,True,False,False,,x25519
+com.myzone.myzoneble,Myzone,Health & Fitness,health_fitness,4.319672,500000,2,2,True,True,True,myzone.org,X25519MLKEM768
+homeworkout.fitness.app,Workout Planner Gym Log・Fit AI,Health & Fitness,health_fitness,4.56,1000000,1,1,True,False,False,,
+com.c25k,C25K® Couch to 5K: Run Trainer,Health & Fitness,health_fitness,4.7397957,5000000,2,2,True,False,False,,
+com.ins.smarthomemini,INS LifeGuardian,Medical,medical,4.5882354,1000,2,2,True,False,False,,
+com.ridewithgps.mobile,Ride with GPS: Bike Navigation,Health & Fitness,health_fitness,4.49,1000000,1,1,True,False,False,,
+com.urbandroid.lux,Twilight: Blue light filter,Health & Fitness,health_fitness,4.649254,10000000,4,4,True,False,True,en.wikipedia.org;sites.google.com,X25519MLKEM768
+com.onepeloton.callisto,Peloton - Fitness & Workouts,Health & Fitness,health_fitness,3.9896908,1000000,1,1,True,False,True,onepeloton.com,X25519MLKEM768
+com.welltory.client.android,Welltory: Heart Rate Monitor,Health & Fitness,health_fitness,4.47,1000000,1,1,False,False,False,,
+com.schwab.mobile,Schwab Mobile,Finance,finance,4.7777777,1000000,4,4,True,True,True,google.com;theocc.com,X25519MLKEM768
+com.mdev.intervaltimer,"Interval Timer: Workout, HIIT",Health & Fitness,health_fitness,4.8727274,100000,2,2,True,False,True,docs.google.com;instagram.com,X25519MLKEM768
+com.sillens.shapeupclub,Lifesum: AI Calorie Counter,Health & Fitness,health_fitness,4.2672954,10000000,1,1,True,False,True,lifesum.com,X25519MLKEM768
+com.zumba.consumerapp,Zumba - Dance Fitness Workout,Health & Fitness,health_fitness,4.8152175,500000,1,1,True,False,True,zumba.com,X25519MLKEM768
+nz.co.kiwibank.mobile,Kiwibank Mobile Banking,Finance,finance,4.054348,1000000,1,1,True,False,False,,x25519
+com.centr.app,Centr: Personal Fitness App,Health & Fitness,health_fitness,4.4419355,1000000,1,1,True,False,False,,
+com.duolaning.proteintracker,Protein Tracker - DailyProtein,Health & Fitness,health_fitness,4.6666665,100000,1,1,True,False,False,,
+com.aligntech.myinvisalign.apac,My Invisalign,Medical,medical,4.12,50000,2,2,False,True,False,,
+se.perigee.android.seven,Seven - 7 Minute Workout,Health & Fitness,health_fitness,4.71,10000000,1,1,False,True,False,,
+com.lmt.sleeppatientapp,prisma APP,Medical,medical,3.4444444,100000,2,2,True,False,False,,
+com.google.android.apps.walletnfcrel,Google Wallet,Finance,finance,4.291328,1000000000,2,2,True,False,True,pay.google.com;policies.google.com,X25519MLKEM768
+com.commbank.netbank,CommBank,Finance,finance,3.7898817,10000000,1,1,False,True,False,,
+au.com.hotdoc.android.hotdoc,HotDoc,Medical,medical,4.5842366,1000000,1,1,True,False,False,,x25519
+com.paypal.android.p2pmobile,"PayPal - Pay, Send, Save",Finance,finance,4.110885,100000000,1,1,True,False,False,,
+com.transferwise.android,Wise: International Transfers,Finance,finance,4.8063035,10000000,1,1,False,False,False,,
+com.technore.xrptunnelplus,X-rp Tunnel Plus,Tools,vpn,4.207921,100000,2,2,True,False,True,aliavpn.xyz;aztunnel.blogspot.com,X25519MLKEM768
+org.westpac.bank,Westpac,Finance,finance,3.293181,5000000,1,1,False,False,False,,
+com.anz.lotus,ANZ Plus,Finance,finance,4.7270865,1000000,1,1,True,False,False,,
+com.anz.android.gomoney,ANZ Australia,Finance,finance,4.31766,1000000,2,2,True,False,False,,
+com.nordvpn.android,NordVPN – fast VPN for privacy,Tools,vpn,4.5810184,100000000,2,2,True,False,True,my.nordaccount.com;nordvpn.com,X25519MLKEM768
+au.com.nab.mobile,NAB Mobile Banking,Finance,finance,4.5764084,1000000,1,1,True,False,False,,
+io.yuka.android,Yuka - Food & Cosmetic Scanner,Health & Fitness,health_fitness,4.6686745,10000000,3,3,True,False,False,,
+com.revolut.revolut,"Revolut: Spend, send and save",Finance,finance,4.6092105,50000000,1,1,True,False,True,revolut.com,X25519MLKEM768
+au.gov.ato.ATOTax,Australian Taxation Office,Finance,finance,3.2472324,1000000,1,1,True,False,False,,x25519
+au.com.macquarie.banking,Macquarie Mobile Banking,Finance,finance,3.17,500000,2,2,False,True,False,,
+ch.protonvpn.android,VPN Proton: Fast & Secure VPN,Tools,vpn,4.588889,50000000,2,2,True,False,False,,
+com.brave.browser,"Brave Private Web Browser, VPN",Communication,vpn,4.742949,100000000,1,1,True,False,True,brave.com,X25519MLKEM768
+com.symantec.mobilesecurity,Norton360 Antivirus & Security,Tools,vpn,4.580636,50000000,2,2,True,False,False,,
+com.australiansuper.android.australiansuper,AustralianSuper,Finance,finance,2.939394,500000,1,1,True,False,False,,x25519
+com.remitly.androidapp,Remitly: Send Money & Transfer,Finance,finance,4.8070216,10000000,1,1,True,False,True,remitly.com,X25519MLKEM768
+com.strava,"Strava: Run, Bike, Hike",Health & Fitness,health_fitness,4.481104,50000000,2,2,True,False,True,strava.com;support.strava.com,X25519MLKEM768
+com.fundo.finv,Fundo Loans,Finance,finance,4.857143,1000,1,1,True,False,False,,x25519
+com.physitrack.physiapp,PhysiApp®,Health & Fitness,health_fitness,4.7139688,1000000,2,2,True,False,True,physiapp.com;physitrack.com,X25519MLKEM768
+com.trm.tunnel,TRM TUNNEL,Tools,vpn,4.33,1000000,2,2,True,False,True,trmprivacy.blogspot.com;trmtunnel.blogspot.com,X25519MLKEM768
+com.brave.browser,"Brave Private Web Browser, VPN",Communication,vpn,4.742949,100000000,1,1,True,False,True,brave.com,X25519MLKEM768
+com.psiphon3.subscription,Psiphon VPN: Freedom Online,Communication,vpn,4.6068377,100000000,1,1,False,True,False,,
+com.opera.browser,Opera browser with AI,Communication,vpn,4.6871796,100000000,1,1,True,False,False,,x25519
+com.hsv.freeadblockerbrowser,Free Adblocker Browser:Adblock,Communication,vpn,4.6724834,10000000,1,1,True,False,True,freeadblockerbrowser.com,X25519MLKEM768
+com.soft.tunnel,Soft Tunnel VPN,Communication,vpn,3.4,100000,1,1,True,False,True,privacypolicies.com,X25519MLKEM768
+free.key.vpn,KEY VPN- v2 VPN,Communication,vpn,4.8,500000,2,2,True,False,True,sites.google.com,X25519MLKEM768
+com.avast.android.vpn,Avast SecureLine VPN & Privacy,Communication,vpn,4.35461,10000000,1,1,True,False,False,,
+com.technore.atnetvpn,AT NET VPN,Communication,vpn,4.1190476,100000,2,2,True,False,True,atnetvpn.blogspot.com;termsfeed.com,X25519MLKEM768
+org.torproject.android,Orbot: Tor for Android,Communication,vpn,4.06,10000000,4,4,True,False,False,,x25519
+app.vava.vpn,Vava VPN,Communication,vpn,4.2619047,5000000,2,2,True,False,True,vavavpn.net,X25519MLKEM768
+com.google.android.apps.walletnfcrel,Google Wallet,Finance,finance,4.291328,1000000000,2,2,True,False,True,pay.google.com;policies.google.com,X25519MLKEM768
+com.commbank.netbank,CommBank,Finance,finance,3.7898817,10000000,1,1,False,True,False,,
+com.paypal.android.p2pmobile,"PayPal - Pay, Send, Save",Finance,finance,4.110885,100000000,1,1,True,False,False,,
+com.transferwise.android,Wise: International Transfers,Finance,finance,4.8063035,10000000,1,1,False,False,False,,
+org.westpac.bank,Westpac,Finance,finance,3.2930613,5000000,1,1,False,False,False,,
+com.anz.lotus,ANZ Plus,Finance,finance,4.7272263,1000000,1,1,True,False,False,,
+com.anz.android.gomoney,ANZ Australia,Finance,finance,4.31766,1000000,2,2,True,False,False,,
+au.com.nab.mobile,NAB Mobile Banking,Finance,finance,4.5764084,1000000,1,1,True,False,False,,
+com.revolut.revolut,"Revolut: Spend, send and save",Finance,finance,4.6092105,50000000,1,1,True,False,True,revolut.com,X25519MLKEM768
+au.gov.ato.ATOTax,Australian Taxation Office,Finance,finance,3.2472324,1000000,1,1,True,False,False,,x25519
+au.com.macquarie.banking,Macquarie Mobile Banking,Finance,finance,3.17,500000,2,2,False,True,False,,
+com.australiansuper.android.australiansuper,AustralianSuper,Finance,finance,2.939394,500000,1,1,True,False,False,,x25519
+com.remitly.androidapp,Remitly: Send Money & Transfer,Finance,finance,4.8070216,10000000,1,1,True,False,True,remitly.com,X25519MLKEM768
+com.fundo.finv,Fundo Loans,Finance,finance,4.857143,1000,1,1,True,False,False,,x25519
+au.com.spaceship.app.production,Spaceship: Investing App,Finance,finance,4.6569767,100000,2,2,True,False,False,,
+com.driversnote.driversnote,Mileage Tracker by Driversnote,Finance,finance,4.734266,1000000,1,1,True,False,False,,
+au.com.up.money,Up — Easy Money,Finance,finance,4.6881404,1000000,1,1,True,False,False,,
+co.zip,"Zip - Shop Now, Pay Later",Finance,finance,4.529656,1000000,1,1,True,False,True,zip.co,X25519MLKEM768
+com.moomoo.trade,moomoo: Investing & Trading,Finance,finance,4.664835,1000000,1,1,True,False,False,,
+com.taptapsend,Taptap Send: Money Transfer,Finance,finance,4.7156396,10000000,1,1,True,False,True,taptapsend.com,X25519MLKEM768
+rest.com.rest,Rest Super,Finance,finance,3.2483222,500000,1,1,True,False,True,rest.com.au,X25519MLKEM768
+au.com.aami.marketplace,AAMI App,Finance,finance,4.6350365,100000,1,1,True,False,False,,
+com.westernunion.moneytransferr3app.au,Western Union Money Transfers,Finance,finance,4.502024,500000,1,1,True,False,False,,x25519
+au.com.cheq,Beforepay: Borrow up to 3000,Finance,finance,4.494868,500000,1,1,False,True,False,,
+org.stgeorge.bank,St.George Mobile Banking,Finance,finance,3.0729814,1000000,1,1,True,False,True,stgeorge.com.au,X25519MLKEM768
+com.eg.android.AlipayGphone,Alipay,Finance,finance,3.1,10000000,2,2,True,False,False,,
+com.coinspot.app,CoinSpot - Buy & Sell Bitcoin,Finance,finance,4.7034044,500000,1,1,True,False,True,coinspot.com.au,X25519MLKEM768
+com.latitudefinancial.latitudeapp,Latitude,Finance,finance,4.383204,1000000,1,1,True,False,False,,
+au.com.bank86400,Ubank Money App,Finance,finance,4.525741,1000000,2,2,True,True,True,86400.com.au,X25519MLKEM768
+com.flarehr.payandbenefits,Flare,Finance,finance,3.1363637,100000,2,2,True,False,True,flarebenefits.zendesk.com;flarehr.com,X25519MLKEM768
+au.com.betashares.direct,Betashares Direct | Investing,Finance,finance,4.74,10000,2,2,True,False,True,bd.betashares.com.au;betashares.com.au,X25519MLKEM768
+com.acornsau.android,Raiz,Finance,finance,4.479723,500000,1,1,False,False,False,,
+com.binance.dev,Binance: Buy Bitcoin & Crypto,Finance,finance,4.462316,100000000,1,1,True,False,False,,x25519
+com.cmcmarkets.android.cfd,CMC: Trading App,Finance,finance,3.11,1000000,1,1,True,False,False,,
+au.com.commsec.android.CommSec,CommSec,Finance,finance,3.3411214,1000000,2,2,True,True,True,commsec.com.au,X25519MLKEM768
+io.gmt.app.twa,GoMining - Coin Mining App,Finance,finance,4.49,1000000,2,2,False,True,False,,
+com.mercer.superapp,Mercer Super (Member App),Finance,finance,3.3333333,5000,1,1,True,False,False,,x25519
+com.Splitwise.SplitwiseMobile,Splitwise,Finance,finance,4.346667,10000000,2,2,True,False,True,secure.splitwise.com;splitwise.com,X25519MLKEM768
+au.com.mypaynow,MyPayNow,Finance,finance,4.6881385,500000,1,1,True,False,False,,
+com.wagepay,"Wagepay: Access up to 3,000",Finance,finance,4.5879827,100000,1,1,False,False,False,,
+au.com.suncorp.marketplace,Suncorp Bank App,Finance,finance,4.3185186,500000,1,1,True,False,False,,
+au.com.amp.bank.prod,AMP Bank GO,Finance,finance,4.48,10000,1,1,True,False,False,,
+com.americanexpress.android.acctsvcs.au,Amex Australia,Finance,finance,4.4578166,500000,1,1,True,False,False,,
+com.cmcmarketsstockbroking.android,CMC Invest,Finance,finance,4.4055943,100000,1,1,True,False,False,,
+com.stake.stake,Stake – Invest & Build Wealth,Finance,finance,4.726944,100000,1,1,True,False,False,,
+au.com.ogilvy.hostplus,Hostplus,Finance,finance,4.791328,100000,1,1,True,False,False,,
+com.worldremit.android,WorldRemit: Money Transfer App,Finance,finance,4.7715535,5000000,1,1,False,False,False,,
+com.kraken.invest.app,Kraken - Buy Bitcoin & Crypto,Finance,finance,4.14,5000000,2,2,True,False,True,kraken.com,X25519MLKEM768
+com.coinbase.android,"Coinbase: Buy BTC, ETH, SOL",Finance,finance,4.3052487,50000000,1,1,True,False,True,coinbase.com,X25519MLKEM768
+com.sunsuper.prod,Australian Retirement Trust,Finance,finance,4.3565536,100000,2,2,True,False,True,art.com.au,X25519MLKEM768
+com.wemoneymobile,WeMoney: Pay off debt faster,Finance,finance,4.603239,100000,2,2,True,False,True,emoney.com.au;offers.wemoney.com.au,X25519MLKEM768
+com.wallet.crypto.trustapp,Trust: Crypto & Bitcoin Wallet,Finance,finance,4.5009727,50000000,1,1,True,False,True,trustwallet.com,X25519MLKEM768
+com.clearscore.mobile,ClearScore - Credit Score,Finance,finance,4.365854,5000000,1,1,True,False,True,clearscore.com,X25519MLKEM768
+au.com.maxxia.mymaxxia,My Maxxia,Finance,finance,4.366337,10000,1,1,True,False,True,maxxia.com.au,X25519MLKEM768
+com.wagetap,Wagetap: Instant Cash Advance,Finance,finance,4.761809,100000,1,1,True,False,False,,x25519
+co.mona.android,"Crypto.com: Buy BTC, ETH & CRO",Finance,finance,4.5291667,10000000,1,1,True,False,True,crypto.com,X25519MLKEM768
+com.bybit.app,Bybit: Buy Bitcoin & Crypto,Finance,finance,4.5577397,10000000,8,8,True,True,True,facebook.com;instagram.com;twitter.com,x25519;X25519MLKEM768
+com.iaglimited.mobile.android.dicustomerapp.nrma,NRMA Insurance,Finance,finance,4.184049,100000,1,1,True,False,False,,x25519
+com.tradingview.tradingviewapp,TradingView: Track All Markets,Finance,finance,4.735849,10000000,1,1,True,False,True,tradingview.com,X25519MLKEM768
+com.thelawstore.livesign,livesign - doc signing & VOI,Finance,finance,4.96,50000,1,1,True,False,True,live-sign.com,X25519MLKEM768
+au.com.aussie.app,Aussie,Finance,finance,3.709091,50000,1,1,False,True,False,,
+com.ria.moneytransfer,Ria Money Transfer: Send Money,Finance,finance,4.756806,5000000,1,1,True,False,False,,
+com.Plus500,Plus500 Trading,Finance,finance,4.40399,10000000,1,1,True,False,True,plus500.com,X25519MLKEM768
+au.com.fss,Aware Super,Finance,finance,4.5277777,100000,1,1,True,False,False,,x25519
+com.xe.currency,Xe Money Transfer & Converter,Finance,finance,4.7736626,10000000,1,1,True,False,True,xe.com,X25519MLKEM768
+com.kttipay,KttiPay,Finance,finance,4.1944447,10000,1,1,True,False,True,kttipay.com,X25519MLKEM768
+com.etoro.openbook,eToro: Trade. Invest. Connect.,Finance,finance,3.9468439,10000000,1,1,True,False,False,,
+au.com.hsbc.hsbcaustralia,HSBC Australia,Finance,finance,4.473577,100000,1,1,True,False,False,,x25519
+au.com.boq.mobilebanking,myBOQ,Finance,finance,4.593909,100000,1,1,False,True,False,,
+com.mitrade.mobile,Mitrade - Trade Global Markets,Finance,finance,4.39,1000000,1,1,True,False,True,mitrade.com,X25519MLKEM768
+app.phantom,Phantom,Finance,finance,4.6310678,10000000,2,2,True,False,True,phantom.app;phantom.com,X25519MLKEM768
+org.dayup.stocks.au,Webull: Invest. Trade.,Finance,finance,4.5841584,50000,3,3,False,False,False,,
+au.com.suncorp.insurance,Suncorp Insurance App,Finance,finance,4.63,100000,1,1,True,False,False,,
+au.com.swyftx,"Swyftx: Buy Bitcoin, ETH & SOL",Finance,finance,3.8846154,100000,1,1,True,False,True,swyftx.com,X25519MLKEM768
+au.com.cua.mb,Great Southern Bank Australia,Finance,finance,3.354717,100000,1,1,True,False,True,greatsouthernbank.com.au,X25519MLKEM768
+com.fusionmedia.investing,Investing.com: Stock Market,Finance,finance,4.5276966,50000000,1,1,True,False,True,investing.com,X25519MLKEM768
+com.mgi.moneygram,MoneyGram® : Send Money Online,Finance,finance,4.618128,5000000,1,1,True,False,True,moneygram.com,X25519MLKEM768
+io.metamask,MetaMask - Crypto Wallet,Finance,finance,4.5617976,10000000,2,2,True,False,True,legal.consensys.io;support.metamask.io,X25519MLKEM768
+com.moonpay,MoonPay: Buy Crypto & Bitcoin,Finance,finance,4.57,1000000,2,2,True,False,True,moonpay.com;support.moonpay.com,X25519MLKEM768
+app.hesta.com.au,HESTA,Finance,finance,3.3289473,50000,2,2,True,False,True,hesta.com.au;my.hesta.com.au,X25519MLKEM768
+it.beem.app,Beem - Digital Wallet,Finance,finance,4.3749013,500000,1,1,False,True,False,,
+com.fusion.ATMLocator,People's Choice Credit Union,Finance,finance,3.3357663,100000,1,1,False,True,False,,
+com.hrb.receipttracker,ReceiptHub,Finance,finance,4.31,10000,1,1,True,False,False,,x25519
+au.com.moneyme.moneyme,MONEYME,Finance,finance,3.5419848,100000,1,1,True,False,False,,
+com.mbfx,MultiBank-Plus: Invest & Trade,Finance,finance,4.326087,1000000,1,1,True,False,True,multibankfx.com,X25519MLKEM768
+com.equatex.mobile,EquateMobile,Finance,finance,3.0727272,500000,2,2,True,False,False,,x25519
+net.metaquotes.metatrader5,"MetaTrader 5 — Forex, Stocks",Finance,finance,4.688889,10000000,1,1,True,False,False,,x25519
+au.com.cfs.mobile,Colonial First State,Finance,finance,3.76,100000,1,1,True,False,False,,secp256r1
+atws.app,IBKR Mobile,Finance,finance,4.4126983,1000000,2,2,False,True,False,,
+com.tagpay.mwallet.bnm.click,Click by BNM,Finance,finance,4.571429,100000,1,1,False,False,False,,
+com.paperkite.orbitremit,OrbitRemit Money Transfer,Finance,finance,4.4171124,100000,1,1,True,False,True,orbitremit.com,X25519MLKEM768
+org.toshi,Base: formerly Coinbase Wallet,Finance,finance,4.0174417,10000000,1,1,False,False,False,,
+au.com.commsec.android.CommSecPocket,CommSec Pocket,Finance,finance,3.6,100000,2,2,True,True,True,commsec.com.au,X25519MLKEM768
+au.com.remserv.myremserv,My RemServ,Finance,finance,3.375,500,1,1,True,False,True,remserv.com.au,X25519MLKEM768
+au.com.heykit,Kit - Pocket Money App & Card,Finance,finance,4.18,50000,1,1,True,False,False,,
+au.com.tmoz.app.v2,Travel Money Oz,Finance,finance,4.58,10000,1,1,True,False,False,,x25519
+au.com.mebank.mobilebanking,ME Go,Finance,finance,4.5202703,50000,2,2,True,False,False,,x25519
+au.com.virginmoney.android_vma,Virgin Money Australia,Finance,finance,4.4202127,100000,1,1,False,True,False,,
+com.fusion.beyondbank,Beyond Bank Australia,Finance,finance,4.780303,100000,1,1,True,False,True,beyondbank.com.au,X25519MLKEM768
+com.workcover.wam,Worker Assist,Finance,finance,2.9892473,100000,2,2,False,False,False,,
+com.wotransfer.pandaremit,Panda Remit,Finance,finance,4.7588234,1000000,2,2,False,True,False,,
+au.com.brighte.brighte_consumer_app,Brighte,Finance,finance,4.604839,50000,1,1,True,False,False,,x25519
+com.mexcpro.client,MEXC: Buy Bitcoin BTC & Crypto,Finance,finance,4.5148516,10000000,5,5,True,False,True,facebook.com;instagram.com;x.com,x25519;X25519MLKEM768
+com.mtaa.membercentre.app,CareSuper,Finance,finance,4.509259,50000,1,1,True,False,True,caresuper.com.au,X25519MLKEM768
+org.banksa.bank,BankSA Mobile Banking,Finance,finance,3.4099379,100000,1,1,True,False,True,banksa.com.au,X25519MLKEM768
+com.bitcoin.mwallet,"Bitcoin.com Wallet: Buy, Sell",Finance,finance,4.5507245,10000000,2,2,True,True,False,,x25519
+pk.com.telenor.phoenix,easypaisa – a digital bank,Finance,finance,4.47,100000000,1,1,True,False,True,easypaisa.com.pk,X25519MLKEM768
+au.com.bitcoin.mobileapp,Bitcoin.com.au Buy Bitcoin BTC,Finance,finance,4.6601944,10000,1,1,True,False,True,bitcoin.com.au,X25519MLKEM768
+au.com.unisuper,UniSuper,Finance,finance,4.7582784,50000,1,1,True,False,False,,
+com.capital.trading,Trading app by Capital.com,Finance,finance,4.5247526,5000000,1,1,True,False,False,,
+com.wise.converter,Currency Converter,Finance,finance,4.45,1000000,1,1,False,False,False,,
+us.frollo.frollo.prod,Frollo - Feel good about money,Finance,finance,3,50000,1,1,True,False,True,frollo.com.au,X25519MLKEM768
+au.com.cashconverters.myloans,Cash Converters My Loans,Finance,finance,3.23,100000,1,1,True,False,False,,
+com.myairtelapp,Airtel Thanks: Recharge & Bank,Finance,finance,4.2107844,500000000,1,1,False,True,False,,
+com.nextgen.moneyspot,MoneySpot,Finance,finance,3.19,50000,1,1,True,False,True,moneyspot.com.au,X25519MLKEM768
+ci.atlasearth.client,ATLAS:EARTH - Paid Fun,Finance,finance,4.5828223,1000000,2,2,True,False,True,legal.atlasreality.com,X25519MLKEM768
+com.zeller.zellerapp,Zeller,Finance,finance,4.118421,10000,1,1,True,False,True,myzeller.com,X25519MLKEM768
+au.com.auspost.cashpassport,AusPost Everyday Mastercard,Finance,finance,4.5185184,100000,1,1,True,False,True,auspost.com.au,X25519MLKEM768
+com.phonepe.app,"PhonePe UPI, Payment, Recharge",Finance,finance,4.472,500000000,1,1,True,False,True,phonepe.com,X25519MLKEM768
+com.btcc.hy,BTCC - Trade Bitcoin & Crypto,Finance,finance,4.23,1000000,9,9,True,False,True,discord.com;facebook.com;instagram.com;x.com;youtube.com,x25519;X25519MLKEM768
+com.hdfcbank.android.now,HDFC Bank App (Early Access),Finance,finance,0,1000000,1,1,True,False,True,hdfcbank.com,X25519MLKEM768
+io.trigger.forge8442af9afd9d11e3b6f91231392b77b0,Cbus Super,Finance,finance,2.99,100000,1,1,True,False,False,,x25519
+com.pearler.platypus,Pearler,Finance,finance,3.3465347,50000,1,1,True,False,True,pearler.com,X25519MLKEM768
+com.moneybookers.skrillpayments,Skrill - Pay & Transfer Money,Finance,finance,4.5840707,10000000,1,1,True,False,True,skrill.com,X25519MLKEM768
+com.fooga.joinchargeback,Subscription Manager,Finance,finance,3.5643563,100000,1,1,True,False,True,joinchargeback.com,X25519MLKEM768
+nz.sharesies.app,Sharesies: Easy Investing,Finance,finance,4.59,100000,2,2,True,False,True,sharesies.nz,x25519;X25519MLKEM768
+com.ctmau.app.simples,Simples: Compare & Save,Finance,finance,3.36,100000,1,1,True,False,True,comparethemarket.com.au,X25519MLKEM768
+net.yecode.cash_app,Cash App - Earn Money,Finance,finance,3.6923077,100000,1,1,True,False,False,,x25519
+capitec.acuity.mobile.prod,Capitec Bank,Finance,finance,4.0117645,10000000,1,1,True,False,True,capitecbank.co.za,X25519MLKEM768
+com.squareup.payroll.team,Square Team,Finance,finance,4.1025643,500000,1,1,True,False,True,squareup.com,X25519MLKEM768
+au.com.canstar.canstar.prod,Canstar: Compare and Save,Finance,finance,4.356436,50000,1,1,True,False,True,canstar.com.au,X25519MLKEM768
+au.com.auspost.travel.cashpassport,AusPost Travel Mastercard,Finance,finance,4.39,10000,1,1,True,False,True,auspost.com.au,X25519MLKEM768
+au.com.walletwizard.ccg.wwapp,Wallet Wizard – Line of Credit,Finance,finance,3.55,50000,1,1,False,False,False,,
+au.com.nabtrade.mobile,nabtrade,Finance,finance,4.5549135,50000,2,2,True,True,False,,
+com.coinmarketcap.android,CoinMarketCap: Crypto Tracker,Finance,finance,4.765273,10000000,2,2,True,False,True,coinmarketcap.com;files.coinmarketcap.com,X25519MLKEM768
+com.yahoo.mobile.client.android.finance,Yahoo Finance: Stocks & News,Finance,finance,4.646104,10000000,3,3,True,False,False,,x25519
+com.bluefoxapps.tarjetaargentina,Credit Card - Easy approval,Finance,finance,4.69,500000,2,2,True,False,True,thebluefoxapps.com,X25519MLKEM768
+com.freeman.moneymanager,Money Tracker-Expense & Budget,Finance,finance,4.91,5000000,1,1,False,True,False,,
+com.sniip.androidapp,Sniip – The easy way to pay,Finance,finance,4.5,100000,1,1,True,False,False,,
+au.com.gio.marketplace,GIO App,Finance,finance,4.6,50000,1,1,True,False,False,,
+exodusmovement.exodus,Exodus: Crypto Bitcoin Wallet,Finance,finance,4.3098593,5000000,1,1,True,False,True,exodus.com,X25519MLKEM768
+com.wisr.finance,Wisr – smarter money habits,Finance,finance,4.42,50000,1,1,True,False,True,isr.com.au,X25519MLKEM768
+com.okinc.okex.gp,OKX: Buy Bitcoin BTC & Crypto,Finance,finance,4.226601,10000000,1,1,True,False,False,,x25519
+com.realbyteapps.moneymanagerfree,Money Manager Expense & Budget,Finance,finance,4.645161,10000000,2,2,True,False,True,youtu.be,X25519MLKEM768
+cn.com.vau,Vantage:All-In-One Trading App,Finance,finance,3.71,5000000,1,1,True,False,True,vantagemarkets.com,X25519MLKEM768
+com.techlogix.mobilinkcustomer,JazzCash - Your Mobile Account,Finance,finance,4.168317,50000000,1,1,True,False,True,jazzcash.com.pk,X25519MLKEM768
+com.bitget.exchange,Bitget - Buy & Sell Crypto,Finance,finance,4.45,10000000,1,1,True,False,True,bitget.com,X25519MLKEM768
+com.citibank.mobile.au,Citi AU,Finance,finance,3.8959596,500000,1,1,False,False,False,,
+com.acemoneytransfer.android,ACE Money Transfer Send Money,Finance,finance,4.7821784,1000000,1,1,True,False,True,acemoneytransfer.com,X25519MLKEM768
+com.globe.gcash.android,GCash,Finance,finance,3.09,100000000,1,1,True,False,True,new.gcash.com,X25519MLKEM768
+com.astermobile.app.android,Aster DEX: Access DeFi markets,Finance,finance,,10000,2,2,True,False,True,asterdex.com;docs.asterdex.com,X25519MLKEM768
+au.com.lendi.app,Lendi,Finance,finance,0,500,1,1,True,False,True,lendi.com.au,X25519MLKEM768
+com.appetiser.creditspot,"Spendi | Spend, Enter, Win",Finance,finance,3.6438355,5000,1,1,False,False,False,,
+pk.upaisa.com,UPaisa – Digital Wallet,Finance,finance,4.34375,5000000,1,1,True,False,False,,
+com.nexowallet,Nexo: Crypto Wealth Platform,Finance,finance,4.43,5000000,1,1,True,False,True,nexo.com,X25519MLKEM768
+com.citi.mobile.ccc,CitiManager – Corporate Cards,Finance,finance,3.890411,1000000,2,2,True,True,False,,
+au.com.shannons.insurance,Shannons App,Finance,finance,4.72,10000,1,1,True,False,False,,
+au.gov.qld.qsuper.member,QSuper,Finance,finance,4.6,100000,1,1,True,False,False,,
+com.droid4you.application.wallet,"Wallet: Budget, Money Manager",Finance,finance,4.455645,10000000,1,1,True,False,True,budgetbakers.com,X25519MLKEM768
+com.tigerbrokers.stock,Tiger Trade:US & ASX shares,Finance,finance,4.69,1000000,2,2,True,False,False,,x25519
+com.octopuscards.nfc_reader,Octopus,Finance,finance,4.01,5000000,1,1,True,False,False,,
+com.GoFundMe.GoFundMe,GoFundMe: Fundraise and Give,Finance,finance,4.6569343,5000000,1,1,True,False,True,gofundme.com,X25519MLKEM768
+com.fusion.banking,Bank Australia App,Finance,finance,4.493404,100000,1,1,True,False,True,bankaust.com.au,X25519MLKEM768
+au.com.newcastlepermanent,NPBS Mobile Banking,Finance,finance,3.9447513,100000,1,1,True,False,True,newcastlepermanent.com.au,X25519MLKEM768
+com.jacarandafinance.app,BetterCredit Jacaranda Finance,Finance,finance,3.5048544,50000,1,1,True,False,True,jacarandafinance.com.au,X25519MLKEM768
+net.one97.paytm,Paytm: Secure UPI Payments,Finance,finance,4.8496733,500000000,1,1,True,False,True,paytm.com,X25519MLKEM768
+com.kraken.trade,Kraken Pro: Invest in Crypto,Finance,finance,4.68,1000000,1,1,True,False,True,kraken.com,X25519MLKEM768
+com.greater.Greater,Greater Bank,Finance,finance,3.49,100000,1,1,True,False,True,greater.com.au,X25519MLKEM768
+com.imb.banking2,IMB Bank Mobile Banking,Finance,finance,4.3543305,50000,1,1,True,False,True,imb.com.au,X25519MLKEM768
+pkg.android.masterRemit,MasterRemit,Finance,finance,3.7,10000,1,1,True,False,True,masterremit.com,X25519MLKEM768
+com.fftools.currencyconversion,Currency Converter App,Finance,finance,0,100000,1,1,True,False,False,,
+au.com.mystate.retail,MyState Bank,Finance,finance,2.98,10000,1,1,True,False,True,mystate.com.au,X25519MLKEM768
+nz.co.westpac,Westpac One NZ Mobile Banking,Finance,finance,3.63,1000000,1,1,False,False,False,,
+com.defi.wallet,Crypto.com: Onchain Wallet,Finance,finance,4.54,1000000,1,1,True,False,True,crypto.com,X25519MLKEM768
+com.thebudgetingapp.thebudgetingapp,Budgeting App - Spend Tracker,Finance,finance,4.66,100000,1,1,True,False,False,,
+net.metaquotes.metatrader4,MetaTrader 4 Forex Trading,Finance,finance,4.478134,10000000,1,1,True,False,False,,x25519
+com.paylaterapp.paylater,PayLater - Split in 4 payments,Finance,finance,0,100000,1,1,True,False,True,paylaterapp.com,X25519MLKEM768
+au.com.flexirent.skye,humm®90 Platinum Mastercard®,Finance,finance,3.74,100000,1,1,True,False,True,humm90.com,X25519MLKEM768
+com.tribab.tricount.android,tricount: Split & Settle Bills,Finance,finance,4.28,10000000,1,1,False,True,False,,
+com.sweatwallet,Sweat Wallet: Crypto & Rewards,Finance,finance,4.6125,10000000,1,1,True,False,True,sweateconomy.com,X25519MLKEM768
+com.rynatsa.xtrendspeed,XTrend Speed ​​Trading App,Finance,finance,4.13,5000000,2,2,True,False,True,oss.xtrendspeed.com;xtrendspeed.com,X25519MLKEM768
+com.indue.app1,SmartCard eIM,Finance,finance,3.2,50000,1,1,True,False,True,smartcard.com.au,X25519MLKEM768
+id.dana,DANA Indonesia Digital Wallet,Finance,finance,4.2277226,100000000,2,2,True,False,False,,
+com.kubi.kucoin,KuCoin: Buy Bitcoin & Crypto,Finance,finance,4.366412,10000000,1,1,True,False,True,kucoin.com,X25519MLKEM768
+co.uk.getmondo,Monzo Bank - Mobile Banking,Finance,finance,4.5148516,10000000,1,1,True,False,True,monzo.com,X25519MLKEM768
+au.com.deferit.app,Deferit: Pay bills in 4,Finance,finance,4.830827,500000,1,1,True,False,True,deferit.com,X25519MLKEM768
+com.bluefoxapps.prestamoargentina,Personal Loans - Easy approval,Finance,finance,4.265306,1000000,2,2,True,False,True,thebluefoxapps.com,X25519MLKEM768
+com.ledger.live,Ledger Live Crypto Wallet,Finance,finance,4.37,1000000,1,1,True,False,True,ledger.com,X25519MLKEM768
+com.symantec.lifelock.memberapp,LifeLock Identity by Norton,Finance,finance,4.67,5000000,2,2,True,False,False,,
+com.payoneer.android,Payoneer,Finance,finance,4.27,10000000,1,1,True,False,False,,
+com.coingecko.coingeckoapp,CoinGecko: Crypto Tracker,Finance,finance,4.6962028,5000000,1,1,True,False,True,coingecko.com,X25519MLKEM768
+nz.co.anz.android.mobilebanking,ANZ goMoney New Zealand,Finance,finance,3.88,1000000,3,3,True,False,False,,x25519
+au.com.qccu.android,Queensland Country App,Finance,finance,4.6064515,50000,2,2,True,False,True,queenslandcountry.bank,X25519MLKEM768
+io.hnry.hnry,Hnry,Finance,finance,4.90099,50000,1,1,False,True,False,,
+com.dexscreener,DEX Screener,Finance,finance,4.6043954,1000000,2,2,True,False,True,dexscreener.com;docs.dexscreener.com,X25519MLKEM768
+cs.cs,Coinstash,Finance,finance,4.49,5000,2,2,False,True,False,,
+com.komsco.kpay,디지털온누리,Finance,finance,,1000000,2,2,False,False,False,,
+com.avuscapital.trading212,"Trading 212: Stocks, ETFs, ISA",Finance,finance,4.643564,10000000,1,1,True,False,True,trading212.com,X25519MLKEM768
+my.com.tngdigital.ewallet,Touch 'n Go eWallet,Finance,finance,4.5588236,10000000,2,2,True,False,False,,
+com.earnd,Humanforce Thrive,Finance,finance,4.0208335,50000,2,2,True,False,False,,x25519
+com.gamincat.ant,Empire of Ants - Idle Game,Simulation,vpn,4.32,5000000,1,1,True,False,False,,
+io.yuka.android,Yuka - Food & Cosmetic Scanner,Health & Fitness,health_fitness,4.6706586,10000000,3,3,True,False,False,,
+com.physitrack.physiapp,PhysiApp®,Health & Fitness,health_fitness,4.713333,1000000,2,2,True,False,True,physiapp.com;physitrack.com,X25519MLKEM768
+ipnossoft.rma.free,BetterSleep: Sleep tracker,Health & Fitness,health_fitness,4.410628,10000000,2,2,True,False,True,bettersleep.com;support.bettersleep.com,X25519MLKEM768
+com.strava,"Strava: Run, Bike, Hike",Health & Fitness,health_fitness,4.480597,50000000,2,2,True,False,True,strava.com;support.strava.com,X25519MLKEM768
+com.alltrails.alltrails,"AllTrails: Hike, Bike & Run",Health & Fitness,health_fitness,4.6441307,10000000,1,1,True,False,True,alltrails.com,X25519MLKEM768
+gen.tech.impulse.android,Impulse - Brain Training Games,Health & Fitness,health_fitness,4.306962,10000000,1,1,True,False,True,brainimpulse.me,X25519MLKEM768
+com.intvl.app,INTVL,Health & Fitness,health_fitness,4.45,100000,1,1,True,False,True,intvl.com.au,X25519MLKEM768
+com.myfitnesspal.android,MyFitnessPal: Food & Fitness,Health & Fitness,health_fitness,4.453574,100000000,1,1,True,False,True,myfitnesspal.com,X25519MLKEM768
+com.healthengine.android,Healthengine,Health & Fitness,health_fitness,4.260785,1000000,1,1,True,False,False,,x25519
+com.finch.finch,Finch: Self-Care Pet,Health & Fitness,health_fitness,4.875285,10000000,5,5,True,False,True,discord.gg;facebook.com;instagram.com,x25519;X25519MLKEM768
+org.iggymedia.periodtracker,Flo Period & Pregnancy Tracker,Health & Fitness,health_fitness,4.6668434,100000000,1,1,True,False,True,flo.health,X25519MLKEM768
+com.getpaired.app,Paired: Couples & Relationship,Health & Fitness,health_fitness,4.64,1000000,2,2,True,False,True,getpaired.com;paired.com,X25519MLKEM768
+com.bpfit.bloodpressure.health,Blood Pressure,Health & Fitness,health_fitness,3.3366337,10000000,1,1,True,False,True,bloodppressure.info,X25519MLKEM768
+homeworkout.homeworkouts.noequipment,Home Workout - No Equipment,Health & Fitness,health_fitness,4.8922815,100000000,2,2,False,True,False,,
+au.com.medibank.phs,My Medibank,Health & Fitness,health_fitness,4.524989,500000,2,2,True,False,True,members.medibank.com.au,x25519;X25519MLKEM768
+com.garmin.android.apps.connectmobile,Garmin Connect™,Health & Fitness,health_fitness,3.9882298,10000000,1,1,True,False,True,garmin.com,X25519MLKEM768
+com.google.android.apps.fitness,Google Fit: Activity Tracking,Health & Fitness,health_fitness,3.446384,100000000,2,2,True,False,True,google.com,X25519MLKEM768
+com.cactus.tracker.bloodpressure,Blood Pressure Tracker,Health & Fitness,health_fitness,4.4042554,10000000,2,2,True,False,True,sites.google.com,X25519MLKEM768
+stepcounter.pedometer.stepstracker,Step Counter - Pedometer,Health & Fitness,health_fitness,4.707692,10000000,2,2,True,True,True,step.inston.ltd,X25519MLKEM768
+com.visionwizard.pulse,Heart Rate Monitor - HeartIn,Health & Fitness,health_fitness,4.117647,1000000,1,1,True,False,False,,
+com.pookies.food.ai,BitePal: AI Calorie Tracker,Health & Fitness,health_fitness,4.22,500000,1,1,True,False,True,bitepal.app,X25519MLKEM768
+com.eato.caloriecounter.weight.loss,Eato®: Calorie Counter,Health & Fitness,health_fitness,4.3960395,100000,1,1,True,False,True,enerjoy.life,X25519MLKEM768
+pilatesworkout.yogaworkout.loseweight.workoutapps,Pilates Workout at Home,Health & Fitness,health_fitness,4.8,10000000,1,1,False,True,False,,
+com.technogym.tgapp,Technogym - Training Coach,Health & Fitness,health_fitness,3.970297,1000000,3,3,True,False,True,cdnmedia.mywellness.com,x25519;X25519MLKEM768
+com.netpulse.mobile.revofitness,Revo Fitness,Health & Fitness,health_fitness,4.6372547,50000,2,2,True,False,False,,
+io.foodvisor.foodvisor,Foodvisor - Calorie Counter,Health & Fitness,health_fitness,4.537736,5000000,1,1,True,False,True,foodvisor.io,X25519MLKEM768
+au.com.nib,nib,Health & Fitness,health_fitness,4.504924,500000,1,1,True,False,True,nib.com.au,X25519MLKEM768
+com.vald.movehealth,MoveHealth,Health & Fitness,health_fitness,3.5762713,50000,1,1,True,False,False,,
+com.runbuddy.prod,Runna: Running Plans & Coach,Health & Fitness,health_fitness,4.722772,1000000,1,1,True,False,True,runna.com,X25519MLKEM768
+com.hevy,Hevy - Gym Log Workout Tracker,Health & Fitness,health_fitness,4.9219856,1000000,5,5,True,False,True,facebook.com;hevyapp.com;instagram.com;iubenda.com;twitter.com,X25519MLKEM768
+com.healthapplines.healthsense.bloodsugarhub,Health Sense: Track & Record,Health & Fitness,health_fitness,3.631579,10000000,1,1,True,False,False,,
+com.fourtechnologies.mynetdiary.ad,Calorie Counter - MyNetDiary,Health & Fitness,health_fitness,4.778364,5000000,1,1,True,False,False,,x25519
+com.cronometer.android.gold,Calorie Counter by Cronometer,Health & Fitness,health_fitness,4.4946237,1000000,1,1,True,False,False,,x25519
+com.appediet.appediet,AI Calorie Counter - Appediet,Health & Fitness,health_fitness,4.5841584,100000,2,2,True,False,True,static-cdn-f.appediet.com,X25519MLKEM768
+com.getsomeheadspace.android,Headspace: Meditation & Health,Health & Fitness,health_fitness,4.3897233,10000000,1,1,True,False,True,headspace.com,X25519MLKEM768
+com.hiit.home.workout.men.jian048lite,HIIT Workout for Men Lite,Health & Fitness,health_fitness,4.266667,100000,2,2,True,False,True,sites.google.com,X25519MLKEM768
+com.lumenate.lumenateaa,Lumenate: Explore & Relax,Health & Fitness,health_fitness,4.598039,500000,1,1,True,False,True,lumenategrowth.com,X25519MLKEM768
+com.fitbit.FitbitMobile,Fitbit,Health & Fitness,health_fitness,3.8595572,100000000,1,1,True,False,False,,
+au.com.bupa.blua,Blua,Health & Fitness,health_fitness,5,500,1,1,True,False,False,,
+com.calm.android,"Calm - Sleep, Meditate, Relax",Health & Fitness,health_fitness,4.309406,50000000,1,1,True,False,True,calm.com,X25519MLKEM768
+com.qantas.assure,Qantas Wellbeing,Health & Fitness,health_fitness,3.8512034,100000,1,1,True,False,False,,x25519
+com.treshna.memberportal,GymMaster Member Portal,Health & Fitness,health_fitness,4.3,500000,1,1,True,False,False,,
+au.com.hcf.hcf,HCF My Membership App,Health & Fitness,health_fitness,4.522316,100000,1,1,False,False,False,,
+com.quinn.android,Quinn - Audio Stories,Health & Fitness,health_fitness,4.737374,500000,1,1,True,False,True,tryquinn.com,X25519MLKEM768
+com.lasta,Lasta: Healthy Weight Loss,Health & Fitness,health_fitness,3.83,100000,1,1,True,False,True,lasta.app,X25519MLKEM768
+health.sleep.sounds.tracker.alarm.calm,ShutEye®: Sleep Tracker,Health & Fitness,health_fitness,4.3966246,5000000,1,1,True,False,True,enerjoy.life,X25519MLKEM768
+com.walkfit.weightloss.steptracker.pedometer,Weight Loss Walking: WalkFit,Health & Fitness,health_fitness,4.6309524,10000000,4,4,True,False,True,contact-us.welltech.com;legal.walkfit.pro;legal.walkfit.welltech.com,X25519MLKEM768
+net.workoutinc.senior_chair_yoga_workout_app,Chair Yoga for Seniors-EasyFIT,Health & Fitness,health_fitness,4.742268,100000,2,2,True,False,True,easy-chair-yoga.7mfitness.com,x25519;X25519MLKEM768
+com.mejordailytracker.app,LazyFit: Chair Yoga & Pilates,Health & Fitness,health_fitness,4.22,5000000,3,3,True,False,True,mejorai.com,X25519MLKEM768
+heartratemonitor.heartrate.pulse.pulseapp,Heart Rate Monitor - Pulse App,Health & Fitness,health_fitness,4.2509804,10000000,2,2,True,True,True,heartrate.deepthought.industries,X25519MLKEM768
+pedometer.steptracker.calorieburner.stepcounter,Step Counter - Pedometer,Health & Fitness,health_fitness,4.849387,100000000,1,1,False,True,False,,
+com.spotlightsix.zentimerlite2,Insight Timer - Meditation App,Health & Fitness,health_fitness,4.763254,10000000,1,1,True,False,False,,
+com.wachanga.calories,Calz: Calorie Counter AI,Health & Fitness,health_fitness,4.59,1000000,1,1,False,False,False,,
+weightloss.weightlossforwomen.workoutforwomen.womenworkout,Weight Loss for Women: Workout,Health & Fitness,health_fitness,4.8514853,10000000,1,1,False,True,False,,
+com.app.lively_app,Period Tracker : Lively Cycle,Health & Fitness,health_fitness,4.7524753,100000,1,1,True,False,True,livelycycle.com,X25519MLKEM768
+com.bowerydigital.bend,Bend: Stretching & Flexibility,Health & Fitness,health_fitness,4.721774,1000000,2,2,True,False,True,getbend.co,x25519;X25519MLKEM768
+com.popularapp.periodcalendar,Period Calendar Period Tracker,Health & Fitness,health_fitness,4.879837,100000000,1,1,False,True,False,,
+com.mih.planfit,Planfit - Gym Workout Planner,Health & Fitness,health_fitness,4.597561,1000000,2,2,True,False,True,blush-viper-9fa.notion.site;planfit.ai,X25519MLKEM768
+com.vitality.grace.fitness.heatth,Vitality Grace Fitness,Health & Fitness,health_fitness,,10000,2,2,True,False,True,docs.google.com;yzapptech.lol,X25519MLKEM768
+com.topstep.fitcloudpro,FitCloudPro,Health & Fitness,health_fitness,3.61,10000000,2,2,True,False,True,fitcloud.hetangsmart.com,X25519MLKEM768
+com.yazio.android,YAZIO: AI Calorie Tracker,Health & Fitness,health_fitness,4.6349206,10000000,2,2,True,False,True,help.yazio.com;yazio.com,X25519MLKEM768
+com.ribbon.mobileApp,Momence,Health & Fitness,health_fitness,4.7009344,100000,1,1,True,False,True,momence.com,X25519MLKEM768
+com.classpass.classpass,"ClassPass: Fitness, Spa, Salon",Health & Fitness,health_fitness,4.2970295,1000000,1,1,True,False,True,classpass.com,X25519MLKEM768
+com.risesci.nyx,RISE: Sleep Tracker,Health & Fitness,health_fitness,4.24,1000000,1,1,True,False,True,risescience.com,X25519MLKEM768
+com.tayu.tau.pedometer,Pedometer - Step Counter App,Health & Fitness,health_fitness,4.829493,50000000,1,1,True,False,False,,
+com.renpho.health,RENPHO Health,Health & Fitness,health_fitness,3.87,1000000,1,1,True,False,True,renpho.com,X25519MLKEM768
+com.smilingmind.app,Smiling Mind: Mental Wellbeing,Health & Fitness,health_fitness,4.1448274,1000000,1,1,True,False,True,smilingmind.com.au,X25519MLKEM768
+com.amomedia.madmuscles,MadMuscles: Workouts & Diet,Health & Fitness,health_fitness,4.056604,1000000,1,1,True,False,True,madmuscles.com,X25519MLKEM768
+com.liteup.getgains,Gravl: Personal Trainer,Health & Fitness,health_fitness,4.4347825,500000,1,1,True,False,True,gravl.ai,X25519MLKEM768
+com.men.gym.buddy.pro,Men's Gym Buddy,Health & Fitness,health_fitness,,10000,1,1,True,False,True,docs.google.com,X25519MLKEM768
+com.fitnow.loseit,Calorie Counter by Lose It!,Health & Fitness,health_fitness,4.654135,10000000,1,1,True,False,True,loseit.com,X25519MLKEM768
+com.technogym.mywellness.fitnesscartelaustralia,Fitness Cartel,Health & Fitness,health_fitness,4,10000,2,2,True,False,False,,
+digifit.android.virtuagym.pro.bravofitcentral,Planet Fitness Australia,Health & Fitness,health_fitness,4.7434554,100000,1,1,True,False,False,,x25519
+com.ionicframework.bettercaring45581069,Mable,Health & Fitness,health_fitness,4.349138,100000,1,1,True,False,True,mable.com.au,X25519MLKEM768
+com.mobilenation.hbf,HBF Health,Health & Fitness,health_fitness,4.653272,100000,1,1,True,False,True,hbf.com.au,X25519MLKEM768
+com.walkearn.stepscash,WalkEarn - Steps to Cash,Health & Fitness,health_fitness,4.6796117,1000000,2,2,True,False,True,d1z1wzuizrhw9q.cloudfront.net;sites.google.com,X25519MLKEM768
+com.mindbodyonline.connect,Mindbody: Fitness & Wellness,Health & Fitness,health_fitness,4.721198,5000000,2,2,True,False,True,co.mindbodyonline.com;mindbody.io,X25519MLKEM768
+com.gen.workoutme,BetterMe: Health Coaching,Health & Fitness,health_fitness,4.2818604,10000000,1,1,True,False,True,betterme.world,X25519MLKEM768
+com.fitifyworkouts.bodyweight.workoutapp,"Fitify: Fitness, Home Workout",Health & Fitness,health_fitness,4.59,10000000,1,1,True,False,True,gofitify.com,X25519MLKEM768
+com.stepsappgmbh.stepsapp,StepsApp – Step Counter,Health & Fitness,health_fitness,4.57,10000000,1,1,True,False,True,steps.app,X25519MLKEM768
+com.alphaprogression.alphaprogression,Alpha Progression Gym Tracker,Health & Fitness,health_fitness,4.7821784,1000000,1,1,True,False,False,,
+com.yc.gloryfit,Glory Fit,Health & Fitness,health_fitness,3.6237624,10000000,2,2,True,False,False,,
+com.vivaleisure.clublime_member,Club Lime - 24/7 Gym Access,Health & Fitness,health_fitness,4.072,100000,2,2,True,False,True,clublime.com.au;vivaleisure.group,X25519MLKEM768
+com.viraldevelopment.calai,Cal AI - Food Calorie Tracker,Health & Fitness,health_fitness,4.609091,1000000,1,1,True,False,True,viraldevelopment.co,X25519MLKEM768
+in.sweatco.app,Sweatcoin・Walking Step Counter,Health & Fitness,health_fitness,3.9059305,100000000,1,1,True,False,True,sweatco.in,X25519MLKEM768
+com.trainerize.Trainerize,ABC Trainerize,Health & Fitness,health_fitness,4.75,1000000,1,1,False,True,False,,
+com.sec.android.app.shealth,Samsung Health,Health & Fitness,health_fitness,3.2457886,1000000000,2,2,True,True,True,samsunghealth.com,X25519MLKEM768
+splits.splitstraining.dothesplits.splitsin30days,Splits Training in 30 Days,Health & Fitness,health_fitness,4.825688,50000000,2,2,False,True,False,,
+bloodpressure.bloodpressureapp.bloodpressuretracker,Blood Pressure App,Health & Fitness,health_fitness,4.029703,50000000,1,1,False,True,False,,
+jp.co.omron.healthcare.omron_connect,OMRON connect,Health & Fitness,health_fitness,4.072,1000000,1,1,False,True,False,,
+com.watch.life,VeryFit,Health & Fitness,health_fitness,4.371951,5000000,1,1,True,False,False,,
+com.mighty.muscle.builder.strong,Mighty Muscle Builder,Health & Fitness,health_fitness,0,100000,1,1,True,False,True,docs.google.com,X25519MLKEM768
+com.betterhelp,BetterHelp - Therapy,Health & Fitness,health_fitness,4.53,1000000,1,1,True,False,False,,x25519
+ai.replika.app,Replika: My AI Friend,Health & Fitness,health_fitness,4.212479,10000000,1,1,True,False,True,replika.ai,X25519MLKEM768
+com.aia.gr.rn.au.v2020.vitality,AIA Vitality Australia,Health & Fitness,health_fitness,4.706767,10000,1,1,True,False,False,,x25519
+com.homecardio.workout.offline,Home Cardio - Offline Workout,Health & Fitness,health_fitness,,50000,2,2,True,False,True,docs.google.com,X25519MLKEM768
+com.everfit,Everfit,Health & Fitness,health_fitness,4.52,100000,1,1,False,True,False,,
+com.bodyfast,BodyFast: Intermittent Fasting,Health & Fitness,health_fitness,4.6298075,10000000,3,3,True,True,True,bodyfast.app,X25519MLKEM768
+journaling.app,Honestly: Wellbeing Coaching,Health & Fitness,health_fitness,4.53,100000,1,1,True,False,True,reface.ai,X25519MLKEM768
+com.clue.android,Clue Cycle & Period Tracker,Health & Fitness,health_fitness,4.405548,50000000,1,1,True,False,True,helloclue.com,X25519MLKEM768
+com.mearsure.heartratepro.manage,Blood Pressure App,Health & Fitness,health_fitness,3.990099,10000000,1,1,True,False,True,heartratepros.com,X25519MLKEM768
+bloodsugar.bloodsugarapp.diabetes.diabetesapp,Blood Sugar - Diabetes App,Health & Fitness,health_fitness,4.26,10000000,1,1,False,True,False,,
+com.xiaomi.wearable,Mi Fitness (Xiaomi Wear),Health & Fitness,health_fitness,4.162393,50000000,1,1,True,False,False,,
+com.sbs.diet,MacroFactor - Macro Tracker,Health & Fitness,health_fitness,4.74,500000,5,5,True,False,True,macrofactorapp.com;opendatacommons.org;privacy.macrofactorapp.com;terms.macrofactorapp.com,X25519MLKEM768
+com.thestepupapp.stepup,StepUp Pedometer Step Counter,Health & Fitness,health_fitness,4.75,1000000,1,1,True,False,False,,
+home.fitness.challenge,FitMe - Lazy Workout at Home,Health & Fitness,health_fitness,4.0147057,100000,2,2,True,False,True,gismart.com,X25519MLKEM768
+org.howwefeel.moodmeter,How We Feel,Health & Fitness,health_fitness,4.64,500000,1,1,True,False,False,,
+com.musclecharge.app,Muscle Charge,Health & Fitness,health_fitness,4.714286,1000,1,1,True,False,True,musclecharge.app,X25519MLKEM768
+com.stardust.app,Stardust: Period & Pregnancy,Health & Fitness,health_fitness,4.41,1000000,1,1,True,False,True,stardust.app,X25519MLKEM768
+com.fitbod.fitbod,Fitbod: Workout & Gym Planner,Health & Fitness,health_fitness,4.66,1000000,1,1,True,False,True,fitbod.me,X25519MLKEM768
+au.com.teachershealth.teachers,My Teachers Health,Health & Fitness,health_fitness,5,5000,1,1,True,False,False,,
+fit.withu.flutter.withu,WithU: Workout & Fitness App,Health & Fitness,health_fitness,4.34,100000,1,1,False,False,False,,
+ryze.connect.directed,Ryze Connect,Health & Fitness,health_fitness,3.55,50000,1,1,True,False,False,,
+fitness.home.workout.weight.loss,JustFit - Lazy Workout,Health & Fitness,health_fitness,4.5869565,10000000,1,1,True,False,True,enerjoy.life,X25519MLKEM768
+com.mapmywalk.android2,Map My Walk: Walking Tracker,Health & Fitness,health_fitness,4.705234,10000000,2,2,True,False,True,mapmywalk.com,X25519MLKEM768
+org.au.oceanstooutback,Oceans to Outback,Health & Fitness,health_fitness,0,1000,1,1,True,False,False,,
+au.com.xyris.eddflutter,Easy Diet Diary,Health & Fitness,health_fitness,3.7374005,100000,3,3,True,False,True,support.easydietdiary.com;xyris.com.au,X25519MLKEM768
+chairyogaforseniors.yogaworkout.chairworkout.loseweight,Chair Yoga for Seniors at Home,Health & Fitness,health_fitness,0,10000,2,2,True,True,True,chairyoga.ezhealth.app,X25519MLKEM768
+dance.fit.zumba.weightloss.danceburn,Dancefitme: Fun Workouts,Health & Fitness,health_fitness,4.257426,10000000,3,3,True,False,True,dancefit.me;facebook.com;instagram.com,X25519MLKEM768
+com.lyfta,Lyfta: Gym Log Workout Tracker,Health & Fitness,health_fitness,4.78,1000000,1,1,True,False,True,lyfta.app,X25519MLKEM768
+com.sisuhealthgroup.app,SiSU Health Mobile App,Health & Fitness,health_fitness,4.79,50000,1,1,True,False,True,sisuhealthgroup.com,X25519MLKEM768
+homeworkoutapp.homeworkout.fitness.workout.loseweight,Home Workout App: Fitness,Health & Fitness,health_fitness,4.81,5000000,1,1,False,True,False,,
+daily.planner.routine.habits,Me+ Lifestyle Routine,Health & Fitness,health_fitness,4.8126235,10000000,1,1,True,False,True,enerjoy.life,X25519MLKEM768
+com.healthapplines.android.stepcounter,Step Counter - Pedometer & BMI,Health & Fitness,health_fitness,4.5555553,1000000,1,1,True,False,False,,
+swiftflyers.weightloss.workout.athome,Home Workout for Women,Health & Fitness,health_fitness,4.857143,1000000,2,2,True,False,True,sites.google.com,X25519MLKEM768
+com.lifefitness.connect,Life Fitness Connect App,Health & Fitness,health_fitness,4.310811,100000,2,2,False,True,False,,
+com.snorelab.app,SnoreLab : Record Your Snoring,Health & Fitness,health_fitness,4.557971,5000000,1,1,True,False,True,snorelab.com,X25519MLKEM768
+heartrate.heartratemonitor.bloodpressure,Heart Rate: Blood Pressure App,Health & Fitness,health_fitness,4.233333,1000000,1,1,True,False,False,,
+women.workout.female.fitness,Workout for Women: Fit at Home,Health & Fitness,health_fitness,4.8095236,50000000,2,2,False,True,False,,
+com.humansolutions.toiletmap,National Public Toilet Map,Health & Fitness,health_fitness,4.5742574,50000,1,1,False,True,False,,
+com.groundspeak.geocaching.intro,Geocaching®,Health & Fitness,health_fitness,4.754658,10000000,1,1,True,False,False,,secp256r1
+vc.eucalyptus.juniper,Juniper – Women’s Weight Loss,Health & Fitness,health_fitness,3.1794872,50000,1,1,True,False,True,myjuniper.com,X25519MLKEM768
+org.au.funraisin.onefootforward,One Foot Forward,Health & Fitness,health_fitness,3.3333333,5000,1,1,True,False,False,,
+com.ovumai.ovum,Ovum: AI Health Journal,Health & Fitness,health_fitness,0,1000,1,1,True,False,True,askovum.com,X25519MLKEM768
+com.blood.sugar.monitor,Blood Pressure & Sugar:Track,Health & Fitness,health_fitness,3.9726028,10000000,2,2,True,False,True,sites.google.com;zapps-studio.com,X25519MLKEM768
+com.welltastic.healthtrack.pressure,Health View,Health & Fitness,health_fitness,,100000,1,1,False,False,False,,
+com.nike.plusgps,Nike Run Club - Running Coach,Health & Fitness,health_fitness,4.2854033,50000000,1,1,True,False,True,nike.com,X25519MLKEM768
+com.fatsecret.android,Calorie Counter by fatsecret,Health & Fitness,health_fitness,4.7,50000000,1,1,True,False,True,fatsecret.com,X25519MLKEM768
+life.simple,Simple: Weight Loss Coach,Health & Fitness,health_fitness,4.578199,5000000,1,1,True,False,True,simple.life,X25519MLKEM768
+jawline.exercises.slim.face.yoga,Jawline Exercises - Face Yoga,Health & Fitness,health_fitness,4.73,10000000,1,1,False,True,False,,
+com.elevatelabs.geonosis,Balance: Meditation & Sleep,Health & Fitness,health_fitness,4.7172413,1000000,1,1,True,False,True,balanceapp.com,X25519MLKEM768
+com.nike.ntc,Nike Training Club,Health & Fitness,health_fitness,4.3626375,10000000,1,1,True,False,True,nike.com,X25519MLKEM768
+com.northcube.sleepcycle,Sleep Cycle: Sleep Tracker,Health & Fitness,health_fitness,4.2894735,10000000,2,2,True,False,True,sleepcycle.com;support.sleepcycle.com,X25519MLKEM768
+reverse.health.app,RH: Weight Loss and Fitness,Health & Fitness,health_fitness,4.147059,100000,2,2,True,False,True,eu.reverse.health;reverse.health,X25519MLKEM768
+loseweight.weightloss.workout.fitness,Lose Weight - Weight Loss App,Health & Fitness,health_fitness,4.855967,100000000,1,1,False,True,False,,
+com.visionwizard.eatwise,Eatwise AI: Calorie Counter,Health & Fitness,health_fitness,4.34,1000000,3,3,True,False,True,storage.googleapis.com,X25519MLKEM768
+com.veepoo.hband,H Band,Health & Fitness,health_fitness,3.47,5000000,1,1,True,False,False,,
+me.rtrt.app.irma,IRONMAN Tracker,Health & Fitness,health_fitness,4.7222223,1000000,1,1,False,True,False,,
+com.hapana.strongpilates,STRONG Pilates,Health & Fitness,health_fitness,3.7692308,10000,2,2,True,False,True,hapana.com;strongpilates.com.au,X25519MLKEM768
+com.gymbros.app,Liftoff - Ranked Gym Workouts,Health & Fitness,health_fitness,4.8,500000,2,2,True,False,True,getgymbros.com;info.getgymbros.com,X25519MLKEM768
+de.komoot.android,"komoot - hike, bike & run",Health & Fitness,health_fitness,4.46,10000000,1,1,True,False,True,komoot.com,X25519MLKEM768
+io.strongapp.strong,Strong Workout Tracker Gym Log,Health & Fitness,health_fitness,4.300518,1000000,1,1,True,False,False,,
+sixpack.sixpackabs.absworkout,Six Pack in 30 Days,Health & Fitness,health_fitness,4.94491,100000000,2,2,False,True,False,,
+com.clearblue.alaska,Period & Cycle Tracker,Health & Fitness,health_fitness,3.8181818,100000,1,1,True,False,True,clearblue.com,X25519MLKEM768
+com.pg.oralb.oralbapp,Oral-B,Health & Fitness,health_fitness,4.5384617,5000000,2,2,True,True,False,,
+gymworkout.gym.gymlog.gymtrainer,Gym Workout Tracker: Gym Log,Health & Fitness,health_fitness,4.9305553,10000000,2,2,False,True,False,,
+com.whoop.android,WHOOP,Health & Fitness,health_fitness,3,500000,1,1,True,False,False,,x25519
+com.interval.timer.workout.tabata.hiit.free,Interval Timer & Tabata Timer,Health & Fitness,health_fitness,4.767123,1000000,1,1,True,False,True,simpleinnovation.us,X25519MLKEM768
+com.mnogogames.zenquiz,Antistress trivia - Zen Quiz,Health & Fitness,health_fitness,4.647059,500000,1,1,True,False,False,,
+cc.dreamspark.intervaltimer,Interval Timer,Health & Fitness,health_fitness,4.95114,10000000,1,1,True,False,False,,
+com.withings.wiscale2,Withings,Health & Fitness,health_fitness,4.3905883,5000000,1,1,False,False,False,,
+com.cactus.steptracker.walk,Step Tracker - Walk & Run,Health & Fitness,health_fitness,,50000,2,2,True,False,True,sites.google.com,X25519MLKEM768
+com.tuan.cash.pace,Cash Pace,Health & Fitness,health_fitness,0,50000,2,2,True,False,True,sites.google.com,x25519;X25519MLKEM768
+com.sidekick.app.sobersidekick,Sober Sidekick: Quit Addiction,Health & Fitness,health_fitness,4.78,500000,2,2,True,False,True,app.termly.io,X25519MLKEM768
+com.winwalk.android,winwalk - it pays to walk,Health & Fitness,health_fitness,4.34,1000000,1,1,False,False,False,,
+com.runtastic.android,adidas Running: Run Tracker,Health & Fitness,health_fitness,4.60989,50000000,2,2,True,False,False,,x25519
+breastenlarger.bodyeditor.photoeditor,Face & Body Editor - FixPlus,Health & Fitness,health_fitness,4.62,50000000,2,2,True,False,False,,
+com.claytonindustries.parkrun,5K parkrunner results,Health & Fitness,health_fitness,4.88,100000,1,1,True,False,True,claytoninds.com,X25519MLKEM768
+com.endel.endel,"Endel: Focus, Relax & Sleep",Health & Fitness,health_fitness,4.35,1000000,2,2,True,False,True,endel.io;endel.zendesk.com,X25519MLKEM768
+com.yc.gloryfitpro,GloryFitPro,Health & Fitness,health_fitness,3.24,1000000,1,1,True,False,False,,
+com.simplyswim.app,SimplyPortal,Health & Fitness,health_fitness,0,10000,1,1,True,False,False,,x25519
+relax.sleep.relaxation.sleepingsounds,Sleep Sounds - relaxing sounds,Health & Fitness,health_fitness,4.82266,5000000,2,2,True,False,True,sleepsoundsapp.xyz,X25519MLKEM768
+heartrate.heartratemonitor.heartrateapp.heartratetracker,Heart Rate: Heart Rate Monitor,Health & Fitness,health_fitness,4.72,1000000,1,1,False,True,False,,
+com.vita.track.health,VitaTrack-Focus on Your Health,Health & Fitness,health_fitness,0,100000,2,2,True,False,False,,
+com.tomsmucenieks.asimplevibrator,Vibrator: Strong Vibration App,Health & Fitness,health_fitness,4.3207545,1000000,1,1,True,False,True,xtactic.net,X25519MLKEM768
+com.easyfastapp.app,Easy Fast Intermittent Fasting,Health & Fitness,health_fitness,4.98,500000,1,1,True,False,True,easyfastapp.com,X25519MLKEM768
+au.com.hireup.app,Hireup - NDIS provider,Health & Fitness,health_fitness,4.7763977,10000,1,1,True,False,True,hireup.com.au,X25519MLKEM768
+co.justimagine.rosebud,Rosebud: AI Journal & Diary,Health & Fitness,health_fitness,4.786667,50000,2,2,True,False,True,help.rosebud.app;rosebud.app,X25519MLKEM768
+ie.zappy.fennec.oneapp_glofox,Glofox,Health & Fitness,health_fitness,3.54,500000,1,1,True,False,True,glofox.com,X25519MLKEM768
+com.samwood28,28 by Sam Wood,Health & Fitness,health_fitness,4.5931034,50000,1,1,False,True,False,,
+com.theprojectfactory.quitbuddy,My QuitBuddy,Health & Fitness,health_fitness,4.44,100000,2,2,False,False,False,,x25519
+steptracker.healthandfitness.walkingtracker.pedometer,Step Tracker - Pedometer,Health & Fitness,health_fitness,4.780488,50000000,2,2,False,True,False,,
+au.org.blackdoginstitute.tt,ClearlyMe®,Health & Fitness,health_fitness,3.72,10000,1,1,True,False,True,blackdoginstitute.org.au,X25519MLKEM768
+com.rkperiodtracker.womancalendar,Period Tracker & Pregnancy,Health & Fitness,health_fitness,,100000,2,2,True,False,True,freeprivacypolicy.com,X25519MLKEM768
+com.garmin.android.apps.vivokid,Garmin Jr.™,Health & Fitness,health_fitness,4.4238095,1000000,2,2,True,False,True,garmin.com,X25519MLKEM768
+com.cardio.me.blood.pressure,CardioMe - Heart Rate Monitor,Health & Fitness,health_fitness,,500000,2,2,True,False,False,,
+au.org.healthhub.Android,Health Hub,Health & Fitness,health_fitness,3.3454545,10000,2,2,True,False,False,,
+app.harna.android,HARNA: Workout & Fitness,Health & Fitness,health_fitness,4.68,100000,1,1,True,False,True,harnafit.com,X25519MLKEM768
+com.weward,WeWard - Walk & Earn Rewards,Health & Fitness,health_fitness,3.5049505,10000000,2,2,False,False,False,,
+com.clubworx.production,Clubworx,Health & Fitness,health_fitness,3.6666667,10000,1,1,True,False,True,clubworx.com,X25519MLKEM768
+com.hrd.iam,I am - Daily affirmations,Health & Fitness,health_fitness,4.77044,5000000,2,2,True,False,False,,x25519
+com.technogym.mywellness.fernwood,Fernwood Fitness,Health & Fitness,health_fitness,3.93,50000,1,1,True,False,False,,x25519
+com.getmosh.app,Mosh,Health & Fitness,health_fitness,3.5714285,5000,1,1,True,False,True,getmosh.com.au,X25519MLKEM768
+com.Tropic.tai_chi_workout,Tai Chi & Chair Yoga at Home,Health & Fitness,health_fitness,0,10000,1,1,True,False,False,,x25519
+com.goodsam.responder,GoodSAM Responder,Health & Fitness,health_fitness,4.732673,100000,1,1,True,False,False,,x25519
+com.fiton.android,FitOn Workouts & Fitness Plans,Health & Fitness,health_fitness,4.435185,5000000,2,2,False,True,True,app.fitonapp.com,X25519MLKEM768
+com.wachanga.womancalendar,Clover－Period & Cycle Tracker,Health & Fitness,health_fitness,4.23,5000000,1,1,False,False,False,,
+com.blood.pressure.bptracker,Blood Pressure App: BP Monitor,Health & Fitness,health_fitness,3.4761906,10000000,2,2,True,False,True,sites.google.com;zapps-studio.com,X25519MLKEM768
+loseweightapp.loseweightappforwomen.womenworkoutathome,Lose Weight App for Women,Health & Fitness,health_fitness,4.8798075,100000000,2,2,False,True,False,,
+app.feelsy,Feelsy: Stress Anxiety Relief,Health & Fitness,health_fitness,4.0879397,10000000,1,1,True,False,False,,
+au.com.hotdoc.android.hotdoc,HotDoc,Medical,medical,4.5841975,1000000,1,1,True,False,False,,x25519
+com.au.updoc,Updoc - Same-day Healthcare,Medical,medical,4.513089,100000,1,1,False,True,False,,
+au.com.cwretailservices.cwapp,The Chemist Warehouse App,Medical,medical,4.5922747,500000,2,2,True,True,True,chemistwarehouse.com.au,X25519MLKEM768
+au.com.twcmhealth.app,Terry White,Medical,medical,4.7917504,100000,1,1,True,False,True,terrywhitechemmart.com.au,X25519MLKEM768
+au.com.donateblood.donorapp.prod,Lifeblood,Medical,medical,4.893793,100000,2,2,True,False,False,,
+com.zedtechnologies.qxr.patient.droid,QXR Patient Portal,Medical,medical,3.14,100000,1,1,False,True,False,,
+com.packapill.app,Hola: GP Telehealth in 15 mins,Medical,medical,3.36,50000,2,2,True,False,True,hola.health,x25519;X25519MLKEM768
+au.com.instant,InstantScripts,Medical,medical,4.39011,100000,1,1,True,False,True,instantscripts.com.au,X25519MLKEM768
+au.com.sicky.prod,Sicky: Medical Certificate,Medical,medical,3.990099,100000,1,1,True,False,True,sicky.com.au,X25519MLKEM768
+com.automedsystems.AMSConnect,AMS Connect,Medical,medical,4.6902175,100000,1,1,True,False,False,,
+medadvisor.main,MedAdvisor Medication Tracker,Medical,medical,3.0316343,100000,1,1,True,False,True,mymedadvisor.com,X25519MLKEM768
+com.zedtechnologies.zedlink.au.prp.patient.android,myPRP,Medical,medical,3.15,100000,2,2,True,True,False,,secp256r1
+com.qas.frg.x2015,QAS FRG,Medical,medical,0,100,2,2,True,False,True,ambulance.qld.gov.au;health.qld.gov.au,X25519MLKEM768
+com.instantconsult,Instant Consult: #1 Telehealth,Medical,medical,4.7620816,100000,1,1,True,False,True,instantconsult.com.au,X25519MLKEM768
+com.resmed.myair,myAir™ by Resmed,Medical,medical,3.990196,1000000,2,2,True,False,True,myair.resmed.com,X25519MLKEM768
+com.oticon.app,Oticon Companion,Medical,medical,3.76,1000000,2,2,True,False,True,oticon.com;oticon.global,X25519MLKEM768
+au.com.stjohnambulance.stjohnappprod,St John: First Responder,Medical,medical,3.25,100000,1,1,False,True,False,,
+au.com.hotdoc.android.primary,ForHealth,Medical,medical,4.2777777,100000,1,1,True,False,False,,x25519
+com.zedtechnologies.visionradiology.patient.droid,Vision Radiology,Medical,medical,4.117647,10000,2,2,True,False,True,patient.visionradiology.com.au;visionradiology.com.au,X25519MLKEM768
+com.zeroapp.bloodpresshelp.app,Dr. Blood Pressure: Diabetes,Medical,medical,3.6666667,1000000,2,2,True,False,True,healthcast.app;sites.google.com,X25519MLKEM768
+com.zedtechnologies.iq.patient.droid,IQ VUE,Medical,medical,3.1973684,50000,2,2,True,False,False,,
+com.gnhearing.hearingau,Hearing Australia,Medical,medical,4.5,10000,1,1,True,False,False,,
+com.gnhearing.gnbemore,BeMore,Medical,medical,4.12,100000,2,2,True,False,False,,
+com.h2sync.android.h2syncapp,Health2Sync - Diabetes Tracker,Medical,medical,4.5625,1000000,4,4,True,False,False,,x25519
+com.zedtechnologies.iag.patient.droid,IA X-rays,Medical,medical,3.081967,100000,2,2,True,True,True,imagingassociates.net.au,X25519MLKEM768
+com.zedtechnologies.mygda.patient.droid,myRad,Medical,medical,3.96,50000,1,1,True,False,False,,
+au.org.beyondblue.beyondnow,Beyond Now suicide safety plan,Medical,medical,4.26,50000,1,1,True,False,True,lifeline.org.au,X25519MLKEM768
+com.sonova.phonak.dsapp,myPhonak,Medical,medical,4.099099,1000000,1,1,True,False,False,,
+com.zedtechnologies.lake.patient.droid,Lake Images,Medical,medical,3.24,50000,2,2,True,False,False,,
+au.gov.act.health.mydhr,MyDHR,Medical,medical,4.2277226,10000,2,2,True,False,True,act.gov.au;health.act.gov.au,X25519MLKEM768
+com.ausmed.app.cpdo,Ausmed - CE Portfolio App,Medical,medical,4.537037,100000,2,2,True,False,False,,x25519
+com.lbrc.PeriodCalendar,Period Tracker and Calendar,Medical,medical,4.9014087,10000000,4,4,True,True,True,facebook.com;simpleinnovation.us;twitter.com,X25519MLKEM768
+com.sonova.vista.rcapp,Hearing Remote,Medical,medical,4.287129,500000,2,2,True,False,False,,
+dk.resound.smart3d,ReSound Smart 3D,Medical,medical,4.4051723,1000000,1,1,True,False,False,,
+com.resmed.airmini,AirMini™ by ResMed,Medical,medical,2.94,100000,1,1,True,False,False,,
+com.ascensia.contour.au,CONTOUR DIABETES app (AU),Medical,medical,4.68,50000,2,2,True,True,False,,
+com.ronasoftstudios.earmaxfxpro,Microphone Amplifier,Medical,medical,3.5789473,5000000,1,1,True,False,False,,
+com.mysugr.android.companion,mySugr - Diabetes Tracker Log,Medical,medical,4.684874,5000000,2,2,True,False,True,legal.mysugr.com;mysugr.com,X25519MLKEM768
+com.zedtechnologies.skg.patient.droid,SKG Radiology Patient,Medical,medical,3.8428571,10000,1,1,True,False,False,,x25519
+au.com.hotdoc.android.healthscope,Partnered Health,Medical,medical,4.45,50000,1,1,True,False,False,,x25519
+com.amplifon.mdapp,Amplifon,Medical,medical,4.16,500000,1,1,False,True,False,,
+com.zedtechnologies.radtas.patient.droid,Radiology Tasmania Patient,Medical,medical,4.857143,5000,1,1,True,False,False,,
+org.nativescript.LibreLinkUp,LibreLinkUp,Medical,medical,4.64,1000000,2,2,True,False,True,files.libreview.io;librelinkup.com,X25519MLKEM768
+com.earcare.apps.hearingaid,Hearing Aid App for Android,Medical,medical,3.7272727,500000,1,1,True,False,False,,
+com.zedtechnologies.zedlink.alfredmedicalimaging.patient.android,Alfred Patient,Medical,medical,3.7096775,10000,2,2,True,False,True,alfredimaging.com.au,x25519;X25519MLKEM768
+com.zedtechnologies.hamrad.patient.droid,I-MED MyImages,Medical,medical,0,10000,1,1,True,False,False,,
+com.stemzhealthcare.qmc_app,QMC,Medical,medical,,100000,1,1,False,True,False,,
+com.AnatomyLearning.Anatomy3DViewer3,Anatomy Learning - 3D Anatomy,Medical,medical,4.5,10000000,1,1,True,False,False,,
+com.sonova.unitron.rcapp,Unitron Remote Plus,Medical,medical,4.46,100000,1,1,True,False,False,,
+com.azaknordive.body.temperature.tracker.thermometer.fever.checker.diary.history.info.monitor.records.calc.hypo,Body Temperature Fever Tracker,Medical,medical,3.5,500000,1,1,True,False,False,,
+com.bluefish.bloodpressure,Blood Pressure Diary,Medical,medical,4.7058825,1000000,2,2,True,False,True,sites.google.com;smartailab.blogspot.com,X25519MLKEM768
+com.zedtechnologies.hr.patient.droid,Harbour Radiology Portal,Medical,medical,3.142857,5000,2,2,True,False,False,,
+au.com.primemedic,Prime Medic - Online Clinic,Medical,medical,4.1,10000,1,1,True,False,False,,
+com.rubytribe.skinvision.ac,SkinVision - Find Skin Cancer,Medical,medical,4.02,1000000,5,5,True,False,True,facebook.com;instagram.com;skinvision-static-content.s3-eu-west-1.amazonaws.com;twitter.com,x25519;X25519MLKEM768
+com.zedtechnologies.iop.patient.droid,IOP Patient Portal,Medical,medical,0,5000,1,1,True,False,False,,
+com.minerva_medical.minerva,Full Code Medical Simulation,Medical,medical,4.465909,1000000,1,1,True,False,True,fullcodemedical.com,X25519MLKEM768
+com.zedtechnologies.sonic.higpatient,HIG Patient,Medical,medical,3.6153846,10000,1,1,False,True,False,,
+com.zedtechnologies.alpenglow.patient.android,Alpenglow Patient Results,Medical,medical,3.5882354,10000,1,1,True,False,True,qscangroup.com.au,X25519MLKEM768
+com.zedtechnologies.radiologygroup.patient.droid,Radiology Group Patient,Medical,medical,3.78125,10000,2,2,True,False,False,,
+eu.smartpatient.mytherapy,Meds & Pill Reminder MyTherapy,Medical,medical,4.746479,5000000,2,2,True,False,False,,x25519
+au.com.hotdoc.android.ochre,Ochre Health,Medical,medical,4.45,50000,2,2,True,False,True,ochrehealth.com.au,x25519;X25519MLKEM768
+com.ins.smarthomemini,INS LifeGuardian,Medical,medical,4.4444447,1000,2,2,True,False,False,,
+directchemistoutlet.main,Direct Chemist Outlet,Medical,medical,3.8070176,10000,2,2,True,True,True,mymedadvisor.com,X25519MLKEM768
+com.dental.d99.d99,Dental 99,Medical,medical,4.95098,50000,1,1,True,False,True,dental99.com.au,X25519MLKEM768
+com.zedtechnologies.radius.patient.droid,My RADIUS Images,Medical,medical,0,1000,3,3,True,False,True,radius.zed.link,X25519MLKEM768
+com.blood.sugar.tracker.glucometer.Diary.test.diabetes.checker.info.glucose.convert.logger.health.fitness.monitor.history,Blood Sugar Diary for Diabetes,Medical,medical,3.9444444,1000000,1,1,True,False,False,,
+com.superhearing.soundamplifier,Hearing from Distance: Spy Ear,Medical,medical,4.0434785,100000,1,1,False,False,False,,
+ai.mxlabs.heartmonitor,Heart Monitor: Measure BP & HR,Medical,medical,4.075,100000,2,2,True,False,True,shen.ai,X25519MLKEM768
+com.zedtechnologies.cig.patient.droid,CIG MyResults,Medical,medical,3.3235295,10000,1,1,True,False,True,canberraimaging.com.au,X25519MLKEM768
+au.com.hotdoc.android.bettermedical,Better Medical,Medical,medical,4.6666665,10000,2,2,True,False,True,bettermedical.com.au,x25519;X25519MLKEM768
+org.au.medcann,MiCann,Medical,medical,3.054054,5000,2,2,True,False,True,cannihelp.com.au;medcanaustralia.com.au,X25519MLKEM768
+com.sixoversix.copyglass,GlassesOn | Pupils & Lenses,Medical,medical,4.7,500000,2,2,True,False,True,6over6.com,X25519MLKEM768
+com.doctorsondemand.app,Doctors on Demand Australia,Medical,medical,3,10000,1,1,True,False,False,,
+com.zedtechnologies.rhsrk.patient.droid,Specialist Radiology Patient,Medical,medical,0,1000,2,2,True,False,True,patient.specradkingswood.com.au,X25519MLKEM768
+amcal.pharmacy.main,Amcal Pharmacy,Medical,medical,3.52,10000,2,2,True,True,True,mymedadvisor.com,X25519MLKEM768
+com.zedtechnologies.medscan.patient.droid,Medscan Patient,Medical,medical,3.2682927,10000,1,1,False,True,False,,
+au.com.rayswellness.app,Rays Wellness,Medical,medical,3.8888888,1000,1,1,True,False,True,rayswellness.com.au,X25519MLKEM768
+com.viveogroup.firstaidkitselectronicguide,First Aid,Medical,medical,4.571429,10000,1,1,True,False,True,firstaidkitsaustralia.com.au,X25519MLKEM768
+com.boehringer.PetHealthPassportAU,Pet Health Passport,Medical,medical,3,5000,1,1,True,False,False,,
+com.zedtechnologies.ser.patient.droid,SER Patient Results,Medical,medical,2.925926,10000,1,1,True,False,True,qscangroup.com.au,X25519MLKEM768
+au.com.hotdoc.android.jupiterhealth,Jupiter Health,Medical,medical,4.4666667,10000,2,2,True,True,False,,x25519
+com.chemist2u.app,Chemist2U - Pharmacy Delivery,Medical,medical,3.01,10000,1,1,True,False,True,chemist2u.com.au,X25519MLKEM768
+com.zedtechnologies.sonic.caspatient,CAS Patient,Medical,medical,3.707317,10000,1,1,True,False,False,,x25519
+com.zedtechnologies.zedlink.garran.patient.droid,Garran Medical Imaging Patient,Medical,medical,0,1000,2,2,True,False,False,,
+com.zedtechnologies.radiant.patient.droid,Radiant Radiology Patient,Medical,medical,0,10000,2,2,True,False,False,,x25519
+net.medicarebduser.app,Medicare,Medical,medical,0,1000,2,2,True,False,True,sites.google.com,X25519MLKEM768
+com.DevExtras.VoiceTools,Voice Tools,Medical,medical,4.724138,500000,1,1,True,False,True,devextras.com,X25519MLKEM768
+co.oexa.scripty.app,Scripty,Medical,medical,4.4716983,5000,1,1,True,False,True,getscripty.app,X25519MLKEM768
+com.zedtechnologies.DDRPatientAccess,DDR iVue,Medical,medical,3.642857,10000,1,1,True,False,False,,
+com.zedtechnologies.superscan.patient.droid,Superscan Patient Portal,Medical,medical,4.3333335,1000,2,2,True,False,False,,
+com.zedtechnologies.radx.patient.droid,Rad X Patient Portal,Medical,medical,0,1000,2,2,True,False,False,,
+com.zedtechnologies.crystal.patient.droid,Crystal Patient,Medical,medical,4.3333335,5000,1,1,True,False,False,,
+au.org.rch.Android,My RCH Portal,Medical,medical,4.1153846,10000,1,1,True,False,False,,
+com.h43.dentalmonitoring,DentalMonitoring,Medical,medical,4.75,100000,2,2,True,True,False,,
+com.zedtechnologies.san.patient.droid,mySRNM Medical Imaging,Medical,medical,0,1000,2,2,True,False,False,,
+com.bestfuncoolapps.TakeYourPills,TakeYourPills Pill Reminder,Medical,medical,4.64,100000,2,2,True,False,True,sites.google.com,X25519MLKEM768
+com.xtramilesolutions.sistr,SISTR,Medical,medical,0,1000,1,1,True,False,False,,
+com.alivecor.aliveecg,Kardia,Medical,medical,4.6,1000000,1,1,True,False,False,,
+com.healint.migraineapp,Migraine Buddy: Track Headache,Medical,medical,4.79,1000000,1,1,True,False,False,,
+com.wsa.connexx.fwupdater,Connexx myUpdater,Medical,medical,,1000,1,1,False,False,False,,
+com.drugscom.app,Drugs.com Medication Guide,Medical,medical,4.66,1000000,1,1,True,False,False,,x25519
+com.ronasoftstudios.soundmagnifier,Microphone Amplifier,Medical,medical,3.72,1000000,1,1,True,False,False,,
+net.sinovo.mylife.app,mylife™ App,Medical,medical,4.09,100000,2,2,True,True,False,,x25519
+com.openevidence,OpenEvidence,Medical,medical,5,100000,1,1,True,False,True,openevidence.com,X25519MLKEM768
+au.com.caringathomeprojectnew.www.pallimeds,palliMEDS,Medical,medical,4.875,5000,1,1,True,False,True,caringathomeproject.com.au,X25519MLKEM768
+com.zedtechnologies.caprad.patient.droid,Capital Rad,Medical,medical,0,1000,2,2,True,False,False,,
+com.lh.coblconnect,COBL Connect,Medical,medical,0,100,2,2,True,True,True,mylifehouse.org.au,X25519MLKEM768
+com.skinive.App,Skin Scanner: Health & Beauty,Medical,medical,3.6585367,100000,1,1,True,False,False,,secp384r1
+com.automedsystems.oursage,Our Sage,Medical,medical,4.59,10000,1,1,True,False,True,oursage.com.au,X25519MLKEM768
+discountDrugStore.main,Discount Drug Stores,Medical,medical,3.597826,10000,2,2,True,True,True,mymedadvisor.com,X25519MLKEM768
+au.com.caremaster.sostg.worker,CareMaster Worker,Medical,medical,4.4059405,10000,1,1,True,False,True,caremaster.com.au,X25519MLKEM768
+com.camdiab.fx_alert.mmoll,CamAPS FX (mmol/L),Medical,medical,3.368421,10000,1,1,True,False,False,,x25519
+com.everlab.app,Everlab,Medical,medical,0,500,1,1,True,False,True,everlab.com.au,X25519MLKEM768
+com.aadhk.lite.bptracker,Blood Pressure Tracker,Medical,medical,4.73,1000000,2,2,True,False,False,,x25519
+com.portalgroove.bpjournal,BP Journal: Blood Pressure Log,Medical,medical,4.82,100000,1,1,True,False,False,,
+au.com.nationalpharmacies,National Pharmacies,Medical,medical,3.25,5000,1,1,True,False,True,mymedadvisor.com,X25519MLKEM768
+com.aligntech.myinvisalign.apac,My Invisalign,Medical,medical,4.12,50000,2,2,False,True,False,,
+com.beltone.hearmax,Beltone HearMax,Medical,medical,4.4,100000,1,1,True,False,False,,
+ai.thedeep.droracleandroid,Dr.Oracle AI Medical Assistant,Medical,medical,0,10000,1,1,True,False,True,droracle.ai,X25519MLKEM768
+com.zedtechnologies.zedlink.nsr.patient.droid,My NSR,Medical,medical,3.7272727,5000,1,1,False,False,False,,
+au.com.hotdoc.android.skincheckwa,Skin Check WA,Medical,medical,4.0625,10000,1,1,True,False,False,,x25519
+com.zedtechnologies.rhr.patient.droid,RHR Online,Medical,medical,4.1666665,5000,2,2,True,True,False,,
+com.mdaware.mdcalc,MDCalc Medical Calculator,Medical,medical,4.81,1000000,1,1,True,False,True,mdcalc.com,X25519MLKEM768
+com.ypsomed.ypu.demo,YpsoPump Explorer,Medical,medical,0,10000,1,1,True,False,False,,x25519
+com.moodtools.depressiontest,Depression Test,Medical,medical,4.225806,100000,2,2,True,False,True,medium.com,X25519MLKEM768
+com.microphone.soundmagnifier,Super Hearing from Distance,Medical,medical,4.0634923,500000,1,1,True,False,False,,
+com.bernafon.bernafonapp,Bernafon App,Medical,medical,3.6666667,100000,1,1,True,False,True,bernafon.com,X25519MLKEM768
+com.actegy.app.revitive,Revitive: Leg Therapy,Medical,medical,4.356436,10000,1,1,True,False,True,revitive.com,X25519MLKEM768
+com.medela.mymedela.live,Medela Family - Breast Feeding,Medical,medical,3.84,500000,2,2,True,True,False,,
+com.zedtechnologies.zedlink.fsr.patient.droid,FSR Patient,Medical,medical,3.7333333,10000,2,2,True,False,False,,
+com.zedtechnologies.carescan.patient.droid,myCareScan,Medical,medical,0,1000,2,2,True,False,False,,
+com.naturalcycles.cordova,Natural Cycles - Birth Control,Medical,medical,4.69,1000000,1,1,True,False,False,,
+com.powerfulmedical.pmcardio,PMcardio for Individuals,Medical,medical,4.6,50000,1,1,True,False,True,powerfulmedical.com,X25519MLKEM768
+com.bodytemperatureThermometer.feverRecordsdiary,Body Temperature Thermometer,Medical,medical,3.7142856,1000000,1,1,True,False,True,interpressurehub.blogspot.com,X25519MLKEM768
+au.gov.vic.ambulance.cpgpublic,Clinical Practice Guidelines,Medical,medical,4.775,10000,1,1,True,False,False,,
+com.lmt.sleeppatientapp,prisma APP,Medical,medical,3.4444444,100000,2,2,True,False,False,,
+org.healthybirthday.countthekicks,Count the Kicks,Medical,medical,4.0454545,100000,1,1,True,False,True,countthekicks.org,X25519MLKEM768
+com.zedtechnologies.MRPatientAccess,MR iVue,Medical,medical,4,10000,1,1,True,False,False,,
+mobile.eaudiologia,Hearing Test,Medical,medical,4.62,1000000,1,1,False,True,False,,
+app.bpjs.mobile,Mobile JKN,Medical,medical,3.65,50000000,2,2,False,True,False,,
+com.coredancer.huasheng.play,Baby Kicks - Count the Kicks,Medical,medical,0,50000,1,1,True,False,False,,
+com.fphcare.airvo2,AIRVO 2,Medical,medical,4.2222223,100000,1,1,True,False,True,fphcare.com,X25519MLKEM768
+au.gov.act.health,ACT Health,Medical,medical,3.1733334,10000,1,1,True,False,True,health.act.gov.au,X25519MLKEM768
+com.visiblebody.subscription,Visible Body Suite,Medical,medical,4.3846154,100000,1,1,True,False,True,visiblebody.com,X25519MLKEM768
+com.mal92.emergencyprocedures,Emergency Procedures,Medical,medical,0,5000,1,1,True,False,True,emergencyprocedures.org,X25519MLKEM768
+com.a3d4medical.completeanatomy,Complete Anatomy,Medical,medical,3.4117646,1000000,1,1,True,False,True,3d4medical.com,X25519MLKEM768
+com.Nuance.Mobility.DMic.Live,PowerMic Mobile,Medical,medical,0,100000,1,1,False,True,False,,
+com.apirox.sleeprecorder,Sleep Tracker & Sleep Recorder,Medical,medical,3.8125,100000,1,1,True,False,False,,
+com.aci.itim.trauma,NSW Trauma,Medical,medical,3.1304348,10000,2,2,True,False,True,aci.health.nsw.gov.au,X25519MLKEM768
+gov.nih.nlm.erg2012,ERG for Android,Medical,medical,4.6,1000000,1,1,True,False,False,,x25519
+au.com.midoc.app15835,MIDOC,Medical,medical,4.65,1000,1,1,True,False,False,,
+com.irwaa.medicareminders,Medication Reminder & Tracker,Medical,medical,4.56,100000,1,1,False,True,False,,
+de.stoehr.loviapps.wezoom,weZoom Magnifying Glass,Medical,medical,4.8,100000,1,1,False,False,False,,
+com.zedtechnologies.zedlink.rvc.quantum.patient.droid,Quantum Medical Imaging,Medical,medical,0,1000,1,1,False,False,False,,
+com.philips.hearlink2,Philips HearLink 2,Medical,medical,3.392857,100000,1,1,False,False,False,,
+com.imaios.imaiosdicomviewer,IDV - IMAIOS DICOM Viewer,Medical,medical,0,500000,1,1,True,False,True,imaios.com,X25519MLKEM768
+com.otitismediaguidelines.guidelines,Otitis Media Guidelines,Medical,medical,4.714286,1000,2,2,True,False,False,,
+com.foodmap,FODMAP Friendly,Medical,medical,3.2857144,50000,1,1,True,False,True,fodmapfriendly.com,X25519MLKEM768
+com.lacevo.lacevoApp,Lacevo +,Medical,medical,0,100,2,2,True,False,True,lacevo.com;lacevo.us,X25519MLKEM768
+com.rch.kidshealth,Kids Health Info,Medical,medical,4.4545455,10000,1,1,True,False,False,,
+com.tappytaps.android.storky,Storky - Contraction Timer,Medical,medical,,10000,2,2,True,False,True,iubenda.com,X25519MLKEM768
+com.zedtechnologies.nswh.patient.droid,NSW Health My Medical Imaging,Medical,medical,0,1000,2,2,True,False,False,,
+com.catfishanimationstudio.MuscularSystemLite,Anatomy 3D Atlas,Medical,medical,3.5,5000000,1,1,True,False,False,,
+com.zedtechnologies.sonic.irgpatient,IRG Patient,Medical,medical,0,1000,1,1,True,False,False,,x25519
+org.mywellbeingindex.mywell_beingindex,My Well-Being Index,Medical,medical,,10000,2,2,False,True,False,,
+au.com.cp.app,Chempro Chemists,Medical,medical,3.5555556,1000,2,2,True,True,True,mymedadvisor.com,X25519MLKEM768
+com.mims.elite.prod,eMIMS Elite,Medical,medical,1.8,1000,2,2,True,False,True,mims.com,x25519;X25519MLKEM768
+com.perxhealth.qbe,MyRecovery,Medical,medical,0,100,1,1,True,False,True,perxhealth.com,X25519MLKEM768
+com.phonegap.whichderm,Model Dermatol – Skin Disease,Medical,medical,4.4418607,500000,1,1,True,False,True,modelderm.com,X25519MLKEM768
+shop.shop_apotheke.com.shopapotheke,Shop Apotheke: E-Rezept App,Medical,medical,4.866667,5000000,1,1,True,False,False,,
+au.org.p6433FJ,APLS Australia,Medical,medical,4,10000,1,1,True,False,True,apls.org.au,X25519MLKEM768
+com.emedici.eMedici,eMedici Medical Education,Medical,medical,4.9315066,5000,1,1,True,False,True,emedici.com,X25519MLKEM768
+com.dhf.main,Doctors Health Fund,Medical,medical,4,5000,1,1,True,False,True,doctorshealthfund.com.au,X25519MLKEM768
+fr.doctolib.www,Doctolib - Your health partner,Medical,medical,4.5555553,10000000,1,1,True,False,True,about.doctolib.fr,X25519MLKEM768
+com.cochlear.clientremote,Nucleus Smart,Medical,medical,3,100000,2,2,False,True,False,,
+com.smartbloodpressure,Blood Pressure App - SmartBP,Medical,medical,4,1000000,1,1,True,False,True,smartbp.app,X25519MLKEM768
+com.uptodate.android,UpToDate,Medical,medical,3.6981132,1000000,1,1,True,False,False,,x25519
+com.sbohearing.remotelink2,RemoteLink 2,Medical,medical,4.3333335,100000,1,1,False,True,False,,
+com.curablehealth.clara,Curable: Chronic Pain Relief,Medical,medical,4.1,100000,2,2,True,False,True,symptomatic.me,X25519MLKEM768
+tk.glucodata,Juggluco,Medical,medical,3.8181818,50000,1,1,True,False,False,,
+pk.gov.nadra.nims.certificate,PAK Covid-19 Vaccination Pass,Medical,medical,4.1666665,500000,1,1,True,False,False,,x25519
+com.bmc.paplink,PAP Link,Medical,medical,0,1000,1,1,True,False,False,,
+com.molescope,MoleScope,Medical,medical,3.375,10000,3,3,True,False,True,metaoptima.com,X25519MLKEM768
+com.sonova.easyline.rcapp,Easy Line Remote,Medical,medical,3.5972223,100000,3,3,True,False,True,ks10userportal.com,X25519MLKEM768
+com.cmee4.soundscouts,Sound Scouts - Hearing Test,Medical,medical,4.69,10000,2,2,True,False,False,,x25519
+org.minddiagnostics,Mental Health Tests,Medical,medical,3.862745,500000,4,4,True,False,True,facebook.com;instagram.com;mind-diagnostics.org;twitter.com,X25519MLKEM768
+com.aktiia.android.production,Hilo,Medical,medical,4.4722223,10000,1,1,True,False,True,hilo.com,X25519MLKEM768
+com.ada.app,Ada – check your health,Medical,medical,4.66,10000000,1,1,True,False,True,ada.com,X25519MLKEM768
+com.vinrei.fodmap,Fodmate: Low FODMAP Foods,Medical,medical,4.6363635,10000,1,1,True,False,False,,
+com.perxhealth.android,Perx Health,Medical,medical,4.019802,10000,1,1,True,False,True,perxhealth.com,X25519MLKEM768
+com.medm.app.health,Health Diary by MedM,Medical,medical,4.425,100000,2,2,False,True,False,,
+au.csiro.aehrc.CALDAssist,CALD Assist,Medical,medical,0,5000,1,1,False,False,False,,
+com.universitedemontreal.felinegrimacescale,Feline Grimace Scale,Medical,medical,4.6,100000,1,1,True,False,False,,
+com.automedsystems.amsdocs,AMS Doc Connect,Medical,medical,4.4444447,1000,1,1,True,False,False,,
+com.abqappsource.childgrowthtracker,Child Growth Tracker,Medical,medical,4.89,1000000,1,1,True,False,True,childgrowthtracker.com,X25519MLKEM768
+epic.mychart.android,MyChart,Medical,medical,3.7826087,10000000,1,1,True,False,False,,
+com.abbott.crm.ngq.patient.anz,myMerlinPulse™,Medical,medical,0,1000,2,2,True,False,False,,x25519
+com.geniegeniesolutions,Gentu Mobile,Medical,medical,0,1000,1,1,True,False,True,magentus.com,X25519MLKEM768
+com.ekodevices.android,Eko: Digital Stethoscopes,Medical,medical,4.107143,100000,1,1,True,False,True,ekohealth.com,X25519MLKEM768
+com.kenhub.dailyanatomy.musclesandbones,Daily Anatomy Flashcards,Medical,medical,4.72,500000,2,2,True,True,True,iubenda.com,X25519MLKEM768
+com.duckduckgo.mobile.android,"DuckDuckGo Browser, Search, AI",Productivity,vpn,4.689547,50000000,2,2,True,False,False,,
+com.freevpnplanet,Planet Free VPN ™ Super Proxy,Productivity,vpn,4.4732823,10000000,2,2,True,False,True,freeplanetvpn.com;freevpnplanet.com,X25519MLKEM768
+proton.android.authenticator,Proton Authenticator,Productivity,vpn,4.489362,100000,1,1,True,False,False,,
+dev.alo.vpn,Alo Plus VPN,Social,vpn,,100000,1,1,True,False,True,sites.google.com,X25519MLKEM768
+com.technore.xrptunnelplus,X-rp Tunnel Plus,Tools,vpn,4.29,500000,2,2,True,False,True,aliavpn.xyz;aztunnel.blogspot.com,X25519MLKEM768
+com.nordvpn.android,NordVPN – fast VPN for privacy,Tools,vpn,4.5821486,100000000,2,2,True,False,True,my.nordaccount.com;nordvpn.com,X25519MLKEM768
+ch.protonvpn.android,VPN Proton: Fast & Secure VPN,Tools,vpn,4.597826,50000000,2,2,True,False,False,,
+com.symantec.mobilesecurity,Norton360 Antivirus & Security,Tools,vpn,4.582457,50000000,2,2,True,False,False,,
+private.internet.access.vpn.lumos,VPN Lumos: Fast VPN Master,Tools,vpn,4.1960783,10000000,1,1,True,False,True,lumos.mobi,X25519MLKEM768
+com.trm.tunnel,TRM TUNNEL,Tools,vpn,4.33,1000000,2,2,True,False,True,trmprivacy.blogspot.com;trmtunnel.blogspot.com,X25519MLKEM768
+com.surfshark.vpnclient.android,Surfshark: VPN for Australia,Tools,vpn,4.610309,10000000,1,1,True,False,True,surfshark.com,X25519MLKEM768
+org.malwarebytes.antimalware,Malwarebytes Mobile Security,Tools,vpn,4.581431,10000000,1,1,True,False,False,,x25519
+com.free.vpn.super.hotspot.open,VPN - Super Unlimited Proxy,Tools,vpn,4.696,100000000,1,1,True,False,True,vpnsuper.com,X25519MLKEM768
+com.symantec.securewifi,Norton VPN – Fast & Secure,Tools,vpn,4.464455,10000000,2,2,True,False,False,,
+com.apnatunnel.lite,APNA TUNNEL LITE,Tools,vpn,4.5339804,10000000,2,2,True,False,False,,x25519
+com.mxtunnel.pro,MX Tunnel Pro,Tools,vpn,4.3584905,1000000,2,2,True,False,True,mxtunnelprovpn.blogspot.com,X25519MLKEM768
+com.mtmtunnel.lite,MTM Tunnel Lite,Tools,vpn,4.35,10000000,2,2,True,False,True,mtmworkz.blogspot.com;tmtunnel.com,X25519MLKEM768
+com.hxtunnel.vpn,HX Tunnel VPN,Tools,vpn,4.177778,1000000,2,2,True,False,True,hxtunnel.blogspot.com;hxtunnelweb.blogspot.com,X25519MLKEM768
+app.jumpjumpvpn.jumpjumpvpn,JumpJumpVPN – Super Unlimited,Tools,vpn,4.372549,10000000,1,1,True,False,True,jumpjump.io,X25519MLKEM768
+com.expressvpn.vpn,ExpressVPN: Fast & Secure VPN,Tools,vpn,4.6138806,50000000,1,1,True,False,True,expressvpn.com,X25519MLKEM768
+com.totalav.android,TotalAV Mobile Security,Tools,vpn,4.2291064,5000000,1,1,True,False,False,,x25519
+com.fx.tunnel,Fx Tunnel vpn - Super Fast Net,Tools,vpn,4.2708335,1000000,2,2,True,False,True,fxtunnelvpn.blogspot.com,X25519MLKEM768
+app.vpn.amtunnellite,AM TUNNEL LITE VPN,Tools,vpn,4.5597486,10000000,2,2,True,False,False,,x25519
+com.rjctunnel.vpn,RJC TUNNEL VPN - Fast & Secure,Tools,vpn,4.142857,500000,2,2,True,False,True,rjctunnelvpn.blogspot.com,X25519MLKEM768
+com.wsandroid.suite,McAfee Security: Antivirus VPN,Tools,vpn,3.7673378,50000000,2,2,True,True,False,,x25519
+com.mxdev.tunnel,Mx Tunnel Vpn - Super fast Net,Tools,vpn,4.642857,1000000,2,2,True,False,True,mxtunnelvpn.blogspot.com,X25519MLKEM768
+con.hotspot.vpn.free.master,Free VPN Super™ -Fast & Secure,Tools,vpn,4.6969695,50000000,1,1,True,False,True,supershell.me,X25519MLKEM768
+cleaner.antivirus,Antivirus - Cleaner + VPN,Tools,vpn,4.633663,10000000,1,1,True,False,False,,
+com.jm.apnatunnel,APNA TUNNEL,Tools,vpn,4.32,5000000,2,2,True,False,False,,x25519
+dastan.prince.bdfreevpn,BD NET VPN,Tools,vpn,4.5,10000000,1,1,True,False,False,,
+com.fast.free.unblock.secure.vpn,Secure VPN－Safer Internet,Tools,vpn,4.4294477,100000000,1,1,True,False,False,,x25519
+free.vpn.unblock.proxy.turbovpn,Turbo VPN - Secure VPN Proxy,Tools,vpn,4.571429,100000000,2,2,True,False,True,turbovpn.co;turbovpn.com,X25519MLKEM768
+my.teamapna.tunnel,APNA VPN,Tools,vpn,4.29,1000000,1,1,True,False,True,apnavpn.blogspot.com,X25519MLKEM768
+xyz.xrptunnelplus.vpn,X-rp Tunnel Vpn,Tools,vpn,4.6666665,100000,2,2,True,False,True,aliavpn.xyz;xrpvpn.blogspot.com,X25519MLKEM768
+com.trendmicro.tmmspersonal,Mobile Security & Antivirus,Tools,vpn,4.6996617,5000000,1,1,True,False,False,,secp384r1
+com.instabridge.android,Instabridge: WiFi Hotspot Map,Travel & Local,vpn,4.007926,100000000,2,2,True,False,True,degoo.com;instabridge.com,X25519MLKEM768
+sk.trupici.gwatch.wear,G-Watch Wear App,Health & Fitness,health_fitness,4.1666665,100000,2,2,True,False,True,facebook.com;freeprivacypolicy.com,X25519MLKEM768

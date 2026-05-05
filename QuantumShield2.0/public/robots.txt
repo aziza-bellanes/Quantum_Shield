@@ -1,0 +1,13 @@
+User-agent: *
+# Block authenticated/admin routes — these should never appear in search results
+Disallow: /auth/
+Disallow: /admin/
+Disallow: /users
+Disallow: /database
+Disallow: /system
+Disallow: /account
+Disallow: /analyze
+Disallow: /my-apps
+
+# All other routes (login, signup, dashboard, browse, reports) are indexable
+Allow: /

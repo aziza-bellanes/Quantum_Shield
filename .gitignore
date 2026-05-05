@@ -1,0 +1,14 @@
+node_modules/
+.vite/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+
+PCD-main/tls-analyzer/.env
+PCD-main/tls-analyzer/tls_analyzer.db
+PCD-main/tls-analyzer/uploads/
+PCD-main/tls-analyzer/**/__pycache__/
+PCD-main/tls-analyzer/**/*.pyc

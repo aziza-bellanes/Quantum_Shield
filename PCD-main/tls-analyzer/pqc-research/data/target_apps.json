@@ -1,0 +1,8217 @@
+[
+  {
+    "appId": "com.google.android.apps.walletnfcrel",
+    "title": "Google Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.291328,
+    "installs": 1000000000,
+    "domains": [
+      "pay.google.com",
+      "policies.google.com"
+    ]
+  },
+  {
+    "appId": "com.strava",
+    "title": "Strava: Run, Bike, Hike",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.481104,
+    "installs": 50000000,
+    "domains": [
+      "strava.com",
+      "support.strava.com"
+    ]
+  },
+  {
+    "appId": "com.myfitnesspal.android",
+    "title": "MyFitnessPal: Food & Fitness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.452881,
+    "installs": 100000000,
+    "domains": [
+      "myfitnesspal.com"
+    ]
+  },
+  {
+    "appId": "com.alltrails.alltrails",
+    "title": "AllTrails: Hike, Bike & Run",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.643866,
+    "installs": 10000000,
+    "domains": [
+      "alltrails.com"
+    ]
+  },
+  {
+    "appId": "org.iggymedia.periodtracker",
+    "title": "Flo Period & Pregnancy Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6678987,
+    "installs": 100000000,
+    "domains": [
+      "flo.health"
+    ]
+  },
+  {
+    "appId": "com.google.android.apps.fitness",
+    "title": "Google Fit: Activity Tracking",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.4538653,
+    "installs": 100000000,
+    "domains": [
+      "android.com",
+      "google.com"
+    ]
+  },
+  {
+    "appId": "com.hevy",
+    "title": "Hevy - Gym Log Workout Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.922353,
+    "installs": 1000000,
+    "domains": [
+      "facebook.com",
+      "hevyapp.com",
+      "instagram.com",
+      "iubenda.com",
+      "twitter.com"
+    ]
+  },
+  {
+    "appId": "com.fourtechnologies.mynetdiary.ad",
+    "title": "Calorie Counter - MyNetDiary",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.778364,
+    "installs": 5000000,
+    "domains": [
+      "mynetdiary.com"
+    ]
+  },
+  {
+    "appId": "com.cronometer.android.gold",
+    "title": "Calorie Counter by Cronometer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.4946237,
+    "installs": 1000000,
+    "domains": [
+      "cronometer.com"
+    ]
+  },
+  {
+    "appId": "com.calm.android",
+    "title": "Calm - Sleep, Meditate, Relax",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.309406,
+    "installs": 50000000,
+    "domains": [
+      "calm.com"
+    ]
+  },
+  {
+    "appId": "com.fitbit.FitbitMobile",
+    "title": "Fitbit",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.8591838,
+    "installs": 100000000,
+    "domains": [
+      "fitbit.com"
+    ]
+  },
+  {
+    "appId": "com.walkfit.weightloss.steptracker.pedometer",
+    "title": "Weight Loss Walking: WalkFit",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6167665,
+    "installs": 10000000,
+    "domains": [
+      "alkfit.welltech.com",
+      "contact-us.welltech.com",
+      "legal.walkfit.pro",
+      "legal.walkfit.welltech.com"
+    ]
+  },
+  {
+    "appId": "com.resmed.myair",
+    "title": "myAir\u2122 by Resmed",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.990099,
+    "installs": 1000000,
+    "domains": [
+      "myair.resmed.com",
+      "resmed.com"
+    ]
+  },
+  {
+    "appId": "com.popularapp.periodcalendar",
+    "title": "Period Calendar Period Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.879837,
+    "installs": 100000000,
+    "domains": [
+      "simpledesign.ltd"
+    ]
+  },
+  {
+    "appId": "com.everfit",
+    "title": "Everfit",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.52,
+    "installs": 100000,
+    "domains": [
+      "everfit.io"
+    ]
+  },
+  {
+    "appId": "com.fitbod.fitbod",
+    "title": "Fitbod: Workout & Gym Planner",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.66,
+    "installs": 1000000,
+    "domains": [
+      "fitbod.me"
+    ]
+  },
+  {
+    "appId": "com.northcube.sleepcycle",
+    "title": "Sleep Cycle: Sleep Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.2894735,
+    "installs": 10000000,
+    "domains": [
+      "sleepcycle.com",
+      "support.sleepcycle.com"
+    ]
+  },
+  {
+    "appId": "com.nike.plusgps",
+    "title": "Nike Run Club - Running Coach",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.2854033,
+    "installs": 50000000,
+    "domains": [
+      "nike.com"
+    ]
+  },
+  {
+    "appId": "de.komoot.android",
+    "title": "komoot - hike, bike & run",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.46,
+    "installs": 10000000,
+    "domains": [
+      "komoot.com"
+    ]
+  },
+  {
+    "appId": "com.lyfta",
+    "title": "Lyfta: Gym Log Workout Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.78,
+    "installs": 1000000,
+    "domains": [
+      "lyfta.app"
+    ]
+  },
+  {
+    "appId": "com.runtastic.android",
+    "title": "adidas Running: Run Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.60989,
+    "installs": 50000000,
+    "domains": [
+      "help.runtastic.com",
+      "runtastic.com"
+    ]
+  },
+  {
+    "appId": "com.hrd.iam",
+    "title": "I am - Daily affirmations",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7697163,
+    "installs": 5000000,
+    "domains": [
+      "iamaffirmations.app",
+      "monkeytaps.net"
+    ]
+  },
+  {
+    "appId": "com.endel.endel",
+    "title": "Endel: Focus, Relax & Sleep",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.35,
+    "installs": 1000000,
+    "domains": [
+      "endel.io",
+      "endel.zendesk.com"
+    ]
+  },
+  {
+    "appId": "com.inbody2014.inbody",
+    "title": "InBody",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.2340426,
+    "installs": 5000000,
+    "domains": [
+      "appapikr.lookinbody.com",
+      "inbody.com"
+    ]
+  },
+  {
+    "appId": "com.fiton.android",
+    "title": "FitOn Workouts & Fitness Plans",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.435185,
+    "installs": 5000000,
+    "domains": [
+      "app.fitonapp.com",
+      "fitonapp.com"
+    ]
+  },
+  {
+    "appId": "je.fit",
+    "title": "JEFIT Gym Workout Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.3229165,
+    "installs": 5000000,
+    "domains": [
+      "jefit.com"
+    ]
+  },
+  {
+    "appId": "io.privado.android",
+    "title": "PrivadoVPN - VPN App & Proxy",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 3.6101694,
+    "installs": 1000000,
+    "domains": [
+      "privadovpn.com"
+    ]
+  },
+  {
+    "appId": "com.hrd.motivation",
+    "title": "Motivation - Daily quotes",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.821429,
+    "installs": 5000000,
+    "domains": [
+      "monkeytaps.net",
+      "motivation.app"
+    ]
+  },
+  {
+    "appId": "com.myzone.myzoneble",
+    "title": "Myzone",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.319672,
+    "installs": 500000,
+    "domains": [
+      "myzone.org",
+      "myzonemoves.com"
+    ]
+  },
+  {
+    "appId": "homeworkout.fitness.app",
+    "title": "Workout Planner Gym Log\u30fbFit AI",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.56,
+    "installs": 1000000,
+    "domains": [
+      "socialtechcompany.com"
+    ]
+  },
+  {
+    "appId": "com.c25k",
+    "title": "C25K\u00ae Couch to 5K: Run Trainer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7397957,
+    "installs": 5000000,
+    "domains": [
+      "c25kfree.com",
+      "zenlabsfitness.com"
+    ]
+  },
+  {
+    "appId": "com.ins.smarthomemini",
+    "title": "INS LifeGuardian",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.5882354,
+    "installs": 1000,
+    "domains": [
+      "inslifeguard.com.au",
+      "theinsgroup.com.au"
+    ]
+  },
+  {
+    "appId": "com.ridewithgps.mobile",
+    "title": "Ride with GPS: Bike Navigation",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.49,
+    "installs": 1000000,
+    "domains": [
+      "ridewithgps.com"
+    ]
+  },
+  {
+    "appId": "com.urbandroid.lux",
+    "title": "Twilight: Blue light filter",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.649254,
+    "installs": 10000000,
+    "domains": [
+      "en.wikipedia.org",
+      "sites.google.com",
+      "team.urbandroid.org",
+      "twilight.urbandroid.org"
+    ]
+  },
+  {
+    "appId": "com.onepeloton.callisto",
+    "title": "Peloton - Fitness & Workouts",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.9896908,
+    "installs": 1000000,
+    "domains": [
+      "onepeloton.com"
+    ]
+  },
+  {
+    "appId": "com.welltory.client.android",
+    "title": "Welltory: Heart Rate Monitor",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.47,
+    "installs": 1000000,
+    "domains": [
+      "elltory.com"
+    ]
+  },
+  {
+    "appId": "com.schwab.mobile",
+    "title": "Schwab Mobile",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7777777,
+    "installs": 1000000,
+    "domains": [
+      "content.schwab.com",
+      "google.com",
+      "schwab.com",
+      "theocc.com"
+    ]
+  },
+  {
+    "appId": "com.mdev.intervaltimer",
+    "title": "Interval Timer: Workout, HIIT",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8727274,
+    "installs": 100000,
+    "domains": [
+      "docs.google.com",
+      "instagram.com"
+    ]
+  },
+  {
+    "appId": "com.sillens.shapeupclub",
+    "title": "Lifesum: AI Calorie Counter",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.2672954,
+    "installs": 10000000,
+    "domains": [
+      "lifesum.com"
+    ]
+  },
+  {
+    "appId": "com.zumba.consumerapp",
+    "title": "Zumba - Dance Fitness Workout",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8152175,
+    "installs": 500000,
+    "domains": [
+      "zumba.com"
+    ]
+  },
+  {
+    "appId": "nz.co.kiwibank.mobile",
+    "title": "Kiwibank Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.054348,
+    "installs": 1000000,
+    "domains": [
+      "kiwibank.co.nz"
+    ]
+  },
+  {
+    "appId": "com.centr.app",
+    "title": "Centr: Personal Fitness App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.4419355,
+    "installs": 1000000,
+    "domains": [
+      "centr.com"
+    ]
+  },
+  {
+    "appId": "com.duolaning.proteintracker",
+    "title": "Protein Tracker - DailyProtein",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6666665,
+    "installs": 100000,
+    "domains": [
+      "duolaning.com"
+    ]
+  },
+  {
+    "appId": "com.aligntech.myinvisalign.apac",
+    "title": "My Invisalign",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.12,
+    "installs": 50000,
+    "domains": [
+      "invisalign.co.jp",
+      "invisalign.com"
+    ]
+  },
+  {
+    "appId": "se.perigee.android.seven",
+    "title": "Seven - 7 Minute Workout",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.71,
+    "installs": 10000000,
+    "domains": [
+      "seven.app"
+    ]
+  },
+  {
+    "appId": "com.lmt.sleeppatientapp",
+    "title": "prisma APP",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.4444444,
+    "installs": 100000,
+    "domains": [
+      "loewensteinmedical.com",
+      "my.prismacloud.com"
+    ]
+  },
+  {
+    "appId": "com.google.android.apps.walletnfcrel",
+    "title": "Google Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.291328,
+    "installs": 1000000000,
+    "domains": [
+      "pay.google.com",
+      "policies.google.com"
+    ]
+  },
+  {
+    "appId": "com.commbank.netbank",
+    "title": "CommBank",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.7898817,
+    "installs": 10000000,
+    "domains": [
+      "commbank.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.hotdoc.android.hotdoc",
+    "title": "HotDoc",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.5842366,
+    "installs": 1000000,
+    "domains": [
+      "hotdoc.com.au"
+    ]
+  },
+  {
+    "appId": "com.paypal.android.p2pmobile",
+    "title": "PayPal - Pay, Send, Save",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.110885,
+    "installs": 100000000,
+    "domains": [
+      "paypal.com"
+    ]
+  },
+  {
+    "appId": "com.transferwise.android",
+    "title": "Wise: International Transfers",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.8063035,
+    "installs": 10000000,
+    "domains": [
+      "ise.com"
+    ]
+  },
+  {
+    "appId": "com.technore.xrptunnelplus",
+    "title": "X-rp Tunnel Plus",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.207921,
+    "installs": 100000,
+    "domains": [
+      "aliavpn.xyz",
+      "aztunnel.blogspot.com"
+    ]
+  },
+  {
+    "appId": "org.westpac.bank",
+    "title": "Westpac",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.293181,
+    "installs": 5000000,
+    "domains": [
+      "estpac.com.au"
+    ]
+  },
+  {
+    "appId": "com.anz.lotus",
+    "title": "ANZ Plus",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7270865,
+    "installs": 1000000,
+    "domains": [
+      "anz.com.au"
+    ]
+  },
+  {
+    "appId": "com.anz.android.gomoney",
+    "title": "ANZ Australia",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.31766,
+    "installs": 1000000,
+    "domains": [
+      "anz.com",
+      "anz.com.au"
+    ]
+  },
+  {
+    "appId": "com.nordvpn.android",
+    "title": "NordVPN \u2013 fast VPN for privacy",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.5810184,
+    "installs": 100000000,
+    "domains": [
+      "my.nordaccount.com",
+      "nordvpn.com"
+    ]
+  },
+  {
+    "appId": "au.com.nab.mobile",
+    "title": "NAB Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5764084,
+    "installs": 1000000,
+    "domains": [
+      "nab.com.au"
+    ]
+  },
+  {
+    "appId": "io.yuka.android",
+    "title": "Yuka - Food & Cosmetic Scanner",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6686745,
+    "installs": 10000000,
+    "domains": [
+      "help.yuka.io",
+      "yuka-app.helpdocs.io",
+      "yuka.io"
+    ]
+  },
+  {
+    "appId": "com.revolut.revolut",
+    "title": "Revolut: Spend, send and save",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6092105,
+    "installs": 50000000,
+    "domains": [
+      "revolut.com"
+    ]
+  },
+  {
+    "appId": "au.gov.ato.ATOTax",
+    "title": "Australian Taxation Office",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.2472324,
+    "installs": 1000000,
+    "domains": [
+      "ato.gov.au"
+    ]
+  },
+  {
+    "appId": "au.com.macquarie.banking",
+    "title": "Macquarie Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.17,
+    "installs": 500000,
+    "domains": [
+      "macquarie.com",
+      "macquarie.com.au"
+    ]
+  },
+  {
+    "appId": "ch.protonvpn.android",
+    "title": "VPN Proton: Fast & Secure VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.588889,
+    "installs": 50000000,
+    "domains": [
+      "proton.me",
+      "protonvpn.com"
+    ]
+  },
+  {
+    "appId": "com.brave.browser",
+    "title": "Brave Private Web Browser, VPN",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.742949,
+    "installs": 100000000,
+    "domains": [
+      "brave.com"
+    ]
+  },
+  {
+    "appId": "com.symantec.mobilesecurity",
+    "title": "Norton360 Antivirus & Security",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.580636,
+    "installs": 50000000,
+    "domains": [
+      "norton.com",
+      "nortonlifelock.com"
+    ]
+  },
+  {
+    "appId": "com.australiansuper.android.australiansuper",
+    "title": "AustralianSuper",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 2.939394,
+    "installs": 500000,
+    "domains": [
+      "australiansuper.com"
+    ]
+  },
+  {
+    "appId": "com.remitly.androidapp",
+    "title": "Remitly: Send Money & Transfer",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.8070216,
+    "installs": 10000000,
+    "domains": [
+      "remitly.com"
+    ]
+  },
+  {
+    "appId": "com.strava",
+    "title": "Strava: Run, Bike, Hike",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.481104,
+    "installs": 50000000,
+    "domains": [
+      "strava.com",
+      "support.strava.com"
+    ]
+  },
+  {
+    "appId": "com.fundo.finv",
+    "title": "Fundo Loans",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.857143,
+    "installs": 1000,
+    "domains": [
+      "fundo.com.au"
+    ]
+  },
+  {
+    "appId": "com.physitrack.physiapp",
+    "title": "PhysiApp\u00ae",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7139688,
+    "installs": 1000000,
+    "domains": [
+      "physiapp.com",
+      "physitrack.com"
+    ]
+  },
+  {
+    "appId": "com.trm.tunnel",
+    "title": "TRM TUNNEL",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.33,
+    "installs": 1000000,
+    "domains": [
+      "trmprivacy.blogspot.com",
+      "trmtunnel.blogspot.com"
+    ]
+  },
+  {
+    "appId": "com.brave.browser",
+    "title": "Brave Private Web Browser, VPN",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.742949,
+    "installs": 100000000,
+    "domains": [
+      "brave.com"
+    ]
+  },
+  {
+    "appId": "com.psiphon3.subscription",
+    "title": "Psiphon VPN: Freedom Online",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.6068377,
+    "installs": 100000000,
+    "domains": [
+      "psiphon.ca"
+    ]
+  },
+  {
+    "appId": "com.opera.browser",
+    "title": "Opera browser with AI",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.6871796,
+    "installs": 100000000,
+    "domains": [
+      "opera.com"
+    ]
+  },
+  {
+    "appId": "com.hsv.freeadblockerbrowser",
+    "title": "Free Adblocker Browser:Adblock",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.6724834,
+    "installs": 10000000,
+    "domains": [
+      "freeadblockerbrowser.com"
+    ]
+  },
+  {
+    "appId": "com.soft.tunnel",
+    "title": "Soft Tunnel VPN",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 3.4,
+    "installs": 100000,
+    "domains": [
+      "privacypolicies.com"
+    ]
+  },
+  {
+    "appId": "free.key.vpn",
+    "title": "KEY VPN- v2 VPN",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.8,
+    "installs": 500000,
+    "domains": [
+      "sites.google.com",
+      "y137e39c2.app-ads-txt.com"
+    ]
+  },
+  {
+    "appId": "com.avast.android.vpn",
+    "title": "Avast SecureLine VPN & Privacy",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.35461,
+    "installs": 10000000,
+    "domains": [
+      "avast.com"
+    ]
+  },
+  {
+    "appId": "com.technore.atnetvpn",
+    "title": "AT NET VPN",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.1190476,
+    "installs": 100000,
+    "domains": [
+      "atnetvpn.blogspot.com",
+      "termsfeed.com"
+    ]
+  },
+  {
+    "appId": "org.torproject.android",
+    "title": "Orbot: Tor for Android",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.06,
+    "installs": 10000000,
+    "domains": [
+      "github.com",
+      "guardianproject.info",
+      "orbot.app",
+      "securityinabox.org"
+    ]
+  },
+  {
+    "appId": "app.vava.vpn",
+    "title": "Vava VPN",
+    "genre": "Communication",
+    "tag": "vpn",
+    "score": 4.2619047,
+    "installs": 5000000,
+    "domains": [
+      "vavavpn.com",
+      "vavavpn.net"
+    ]
+  },
+  {
+    "appId": "com.google.android.apps.walletnfcrel",
+    "title": "Google Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.291328,
+    "installs": 1000000000,
+    "domains": [
+      "pay.google.com",
+      "policies.google.com"
+    ]
+  },
+  {
+    "appId": "com.commbank.netbank",
+    "title": "CommBank",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.7898817,
+    "installs": 10000000,
+    "domains": [
+      "commbank.com.au"
+    ]
+  },
+  {
+    "appId": "com.paypal.android.p2pmobile",
+    "title": "PayPal - Pay, Send, Save",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.110885,
+    "installs": 100000000,
+    "domains": [
+      "paypal.com"
+    ]
+  },
+  {
+    "appId": "com.transferwise.android",
+    "title": "Wise: International Transfers",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.8063035,
+    "installs": 10000000,
+    "domains": [
+      "ise.com"
+    ]
+  },
+  {
+    "appId": "org.westpac.bank",
+    "title": "Westpac",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.2930613,
+    "installs": 5000000,
+    "domains": [
+      "estpac.com.au"
+    ]
+  },
+  {
+    "appId": "com.anz.lotus",
+    "title": "ANZ Plus",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7272263,
+    "installs": 1000000,
+    "domains": [
+      "anz.com.au"
+    ]
+  },
+  {
+    "appId": "com.anz.android.gomoney",
+    "title": "ANZ Australia",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.31766,
+    "installs": 1000000,
+    "domains": [
+      "anz.com",
+      "anz.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.nab.mobile",
+    "title": "NAB Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5764084,
+    "installs": 1000000,
+    "domains": [
+      "nab.com.au"
+    ]
+  },
+  {
+    "appId": "com.revolut.revolut",
+    "title": "Revolut: Spend, send and save",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6092105,
+    "installs": 50000000,
+    "domains": [
+      "revolut.com"
+    ]
+  },
+  {
+    "appId": "au.gov.ato.ATOTax",
+    "title": "Australian Taxation Office",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.2472324,
+    "installs": 1000000,
+    "domains": [
+      "ato.gov.au"
+    ]
+  },
+  {
+    "appId": "au.com.macquarie.banking",
+    "title": "Macquarie Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.17,
+    "installs": 500000,
+    "domains": [
+      "macquarie.com",
+      "macquarie.com.au"
+    ]
+  },
+  {
+    "appId": "com.australiansuper.android.australiansuper",
+    "title": "AustralianSuper",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 2.939394,
+    "installs": 500000,
+    "domains": [
+      "australiansuper.com"
+    ]
+  },
+  {
+    "appId": "com.remitly.androidapp",
+    "title": "Remitly: Send Money & Transfer",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.8070216,
+    "installs": 10000000,
+    "domains": [
+      "remitly.com"
+    ]
+  },
+  {
+    "appId": "com.fundo.finv",
+    "title": "Fundo Loans",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.857143,
+    "installs": 1000,
+    "domains": [
+      "fundo.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.spaceship.app.production",
+    "title": "Spaceship: Investing App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6569767,
+    "installs": 100000,
+    "domains": [
+      "spaceship.com.au",
+      "spaceship.com.au,"
+    ]
+  },
+  {
+    "appId": "com.driversnote.driversnote",
+    "title": "Mileage Tracker by Driversnote",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.734266,
+    "installs": 1000000,
+    "domains": [
+      "driversnote.com"
+    ]
+  },
+  {
+    "appId": "au.com.up.money",
+    "title": "Up \u2014 Easy Money",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6881404,
+    "installs": 1000000,
+    "domains": [
+      "up.com.au"
+    ]
+  },
+  {
+    "appId": "co.zip",
+    "title": "Zip - Shop Now, Pay Later",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.529656,
+    "installs": 1000000,
+    "domains": [
+      "zip.co"
+    ]
+  },
+  {
+    "appId": "com.moomoo.trade",
+    "title": "moomoo: Investing & Trading",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.664835,
+    "installs": 1000000,
+    "domains": [
+      "moomoo.com"
+    ]
+  },
+  {
+    "appId": "com.taptapsend",
+    "title": "Taptap Send: Money Transfer",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7156396,
+    "installs": 10000000,
+    "domains": [
+      "taptapsend.com"
+    ]
+  },
+  {
+    "appId": "rest.com.rest",
+    "title": "Rest Super",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.2483222,
+    "installs": 500000,
+    "domains": [
+      "rest.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.aami.marketplace",
+    "title": "AAMI App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6350365,
+    "installs": 100000,
+    "domains": [
+      "aami.com.au"
+    ]
+  },
+  {
+    "appId": "com.westernunion.moneytransferr3app.au",
+    "title": "Western Union Money Transfers",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.502024,
+    "installs": 500000,
+    "domains": [
+      "esternunion.com"
+    ]
+  },
+  {
+    "appId": "au.com.cheq",
+    "title": "Beforepay: Borrow up to 3000",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.494868,
+    "installs": 500000,
+    "domains": [
+      "beforepay.com.au"
+    ]
+  },
+  {
+    "appId": "org.stgeorge.bank",
+    "title": "St.George Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.0729814,
+    "installs": 1000000,
+    "domains": [
+      "stgeorge.com.au"
+    ]
+  },
+  {
+    "appId": "com.eg.android.AlipayGphone",
+    "title": "Alipay",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.1,
+    "installs": 10000000,
+    "domains": [
+      "ds.alipay.com",
+      "mobile.alipay.com"
+    ]
+  },
+  {
+    "appId": "com.coinspot.app",
+    "title": "CoinSpot - Buy & Sell Bitcoin",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7034044,
+    "installs": 500000,
+    "domains": [
+      "coinspot.com.au"
+    ]
+  },
+  {
+    "appId": "com.latitudefinancial.latitudeapp",
+    "title": "Latitude",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.383204,
+    "installs": 1000000,
+    "domains": [
+      "latitudefinancial.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.bank86400",
+    "title": "Ubank Money App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.525741,
+    "installs": 1000000,
+    "domains": [
+      "86400.com.au",
+      "ubank.com.au"
+    ]
+  },
+  {
+    "appId": "com.flarehr.payandbenefits",
+    "title": "Flare",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.1363637,
+    "installs": 100000,
+    "domains": [
+      "flarebenefits.zendesk.com",
+      "flarehr.com"
+    ]
+  },
+  {
+    "appId": "au.com.betashares.direct",
+    "title": "Betashares Direct | Investing",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.74,
+    "installs": 10000,
+    "domains": [
+      "bd.betashares.com.au",
+      "betashares.com.au"
+    ]
+  },
+  {
+    "appId": "com.acornsau.android",
+    "title": "Raiz",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.479723,
+    "installs": 500000,
+    "domains": [
+      "raizinvest.com.au"
+    ]
+  },
+  {
+    "appId": "com.binance.dev",
+    "title": "Binance: Buy Bitcoin & Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.462316,
+    "installs": 100000000,
+    "domains": [
+      "binance.com"
+    ]
+  },
+  {
+    "appId": "com.cmcmarkets.android.cfd",
+    "title": "CMC: Trading App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.11,
+    "installs": 1000000,
+    "domains": [
+      "cmcmarkets.com"
+    ]
+  },
+  {
+    "appId": "au.com.commsec.android.CommSec",
+    "title": "CommSec",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.3411214,
+    "installs": 1000000,
+    "domains": [
+      "commbank.com.au",
+      "commsec.com.au"
+    ]
+  },
+  {
+    "appId": "io.gmt.app.twa",
+    "title": "GoMining - Coin Mining App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.49,
+    "installs": 1000000,
+    "domains": [
+      "gmt.io",
+      "gomining.com"
+    ]
+  },
+  {
+    "appId": "com.mercer.superapp",
+    "title": "Mercer Super (Member App)",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.3333333,
+    "installs": 5000,
+    "domains": [
+      "mercersuper.com.au"
+    ]
+  },
+  {
+    "appId": "com.Splitwise.SplitwiseMobile",
+    "title": "Splitwise",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.346667,
+    "installs": 10000000,
+    "domains": [
+      "secure.splitwise.com",
+      "splitwise.com"
+    ]
+  },
+  {
+    "appId": "au.com.mypaynow",
+    "title": "MyPayNow",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6881385,
+    "installs": 500000,
+    "domains": [
+      "mypaynow.com.au"
+    ]
+  },
+  {
+    "appId": "com.wagepay",
+    "title": "Wagepay: Access up to 3,000",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5879827,
+    "installs": 100000,
+    "domains": [
+      "agepay.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.suncorp.marketplace",
+    "title": "Suncorp Bank App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.3185186,
+    "installs": 500000,
+    "domains": [
+      "suncorpbank.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.amp.bank.prod",
+    "title": "AMP Bank GO",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.48,
+    "installs": 10000,
+    "domains": [
+      "amp.com.au"
+    ]
+  },
+  {
+    "appId": "com.americanexpress.android.acctsvcs.au",
+    "title": "Amex Australia",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.4578166,
+    "installs": 500000,
+    "domains": [
+      "americanexpress.com"
+    ]
+  },
+  {
+    "appId": "com.cmcmarketsstockbroking.android",
+    "title": "CMC Invest",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.4055943,
+    "installs": 100000,
+    "domains": [
+      "cmcmarkets.com"
+    ]
+  },
+  {
+    "appId": "com.stake.stake",
+    "title": "Stake \u2013 Invest & Build Wealth",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.726944,
+    "installs": 100000,
+    "domains": [
+      "hellostake.com"
+    ]
+  },
+  {
+    "appId": "au.com.ogilvy.hostplus",
+    "title": "Hostplus",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.791328,
+    "installs": 100000,
+    "domains": [
+      "hostplus.com.au"
+    ]
+  },
+  {
+    "appId": "com.worldremit.android",
+    "title": "WorldRemit: Money Transfer App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7715535,
+    "installs": 5000000,
+    "domains": [
+      "orldremit.com"
+    ]
+  },
+  {
+    "appId": "com.kraken.invest.app",
+    "title": "Kraken - Buy Bitcoin & Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.14,
+    "installs": 5000000,
+    "domains": [
+      "kraken.com",
+      "securities-administrators.ca"
+    ]
+  },
+  {
+    "appId": "com.coinbase.android",
+    "title": "Coinbase: Buy BTC, ETH, SOL",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.3052487,
+    "installs": 50000000,
+    "domains": [
+      "coinbase.com"
+    ]
+  },
+  {
+    "appId": "com.sunsuper.prod",
+    "title": "Australian Retirement Trust",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.3565536,
+    "installs": 100000,
+    "domains": [
+      "art.com.au",
+      "australianretirementtrust.com.au"
+    ]
+  },
+  {
+    "appId": "com.wemoneymobile",
+    "title": "WeMoney: Pay off debt faster",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.603239,
+    "installs": 100000,
+    "domains": [
+      "emoney.com.au",
+      "offers.wemoney.com.au"
+    ]
+  },
+  {
+    "appId": "com.wallet.crypto.trustapp",
+    "title": "Trust: Crypto & Bitcoin Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5009727,
+    "installs": 50000000,
+    "domains": [
+      "trustwallet.com"
+    ]
+  },
+  {
+    "appId": "com.clearscore.mobile",
+    "title": "ClearScore - Credit Score",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.365854,
+    "installs": 5000000,
+    "domains": [
+      "clearscore.com"
+    ]
+  },
+  {
+    "appId": "au.com.maxxia.mymaxxia",
+    "title": "My Maxxia",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.366337,
+    "installs": 10000,
+    "domains": [
+      "maxxia.com.au"
+    ]
+  },
+  {
+    "appId": "com.wagetap",
+    "title": "Wagetap: Instant Cash Advance",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.761809,
+    "installs": 100000,
+    "domains": [
+      "agetap.com"
+    ]
+  },
+  {
+    "appId": "co.mona.android",
+    "title": "Crypto.com: Buy BTC, ETH & CRO",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5291667,
+    "installs": 10000000,
+    "domains": [
+      "crypto.com"
+    ]
+  },
+  {
+    "appId": "com.bybit.app",
+    "title": "Bybit: Buy Bitcoin & Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5577397,
+    "installs": 10000000,
+    "domains": [
+      "announcement.bybit.com",
+      "blog.bybit.com",
+      "bybit.com",
+      "facebook.com",
+      "instagram.com",
+      "learn.bybit.com",
+      "t.me",
+      "twitter.com"
+    ]
+  },
+  {
+    "appId": "com.iaglimited.mobile.android.dicustomerapp.nrma",
+    "title": "NRMA Insurance",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.184049,
+    "installs": 100000,
+    "domains": [
+      "nrma.com.au"
+    ]
+  },
+  {
+    "appId": "com.tradingview.tradingviewapp",
+    "title": "TradingView: Track All Markets",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.735849,
+    "installs": 10000000,
+    "domains": [
+      "tradingview.com"
+    ]
+  },
+  {
+    "appId": "com.thelawstore.livesign",
+    "title": "livesign - doc signing & VOI",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.96,
+    "installs": 50000,
+    "domains": [
+      "live-sign.com"
+    ]
+  },
+  {
+    "appId": "au.com.aussie.app",
+    "title": "Aussie",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.709091,
+    "installs": 50000,
+    "domains": [
+      "aussie.com.au"
+    ]
+  },
+  {
+    "appId": "com.ria.moneytransfer",
+    "title": "Ria Money Transfer: Send Money",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.756806,
+    "installs": 5000000,
+    "domains": [
+      "riamoneytransfer.com"
+    ]
+  },
+  {
+    "appId": "com.Plus500",
+    "title": "Plus500 Trading",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.40399,
+    "installs": 10000000,
+    "domains": [
+      "plus500.com"
+    ]
+  },
+  {
+    "appId": "au.com.fss",
+    "title": "Aware Super",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5277777,
+    "installs": 100000,
+    "domains": [
+      "aware.com.au"
+    ]
+  },
+  {
+    "appId": "com.xe.currency",
+    "title": "Xe Money Transfer & Converter",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7736626,
+    "installs": 10000000,
+    "domains": [
+      "xe.com"
+    ]
+  },
+  {
+    "appId": "com.kttipay",
+    "title": "KttiPay",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.1944447,
+    "installs": 10000,
+    "domains": [
+      "kttipay.com"
+    ]
+  },
+  {
+    "appId": "com.etoro.openbook",
+    "title": "eToro: Trade. Invest. Connect.",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.9468439,
+    "installs": 10000000,
+    "domains": [
+      "etoro.com"
+    ]
+  },
+  {
+    "appId": "au.com.hsbc.hsbcaustralia",
+    "title": "HSBC Australia",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.473577,
+    "installs": 100000,
+    "domains": [
+      "hsbc.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.boq.mobilebanking",
+    "title": "myBOQ",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.593909,
+    "installs": 100000,
+    "domains": [
+      "boq.com.au"
+    ]
+  },
+  {
+    "appId": "com.mitrade.mobile",
+    "title": "Mitrade - Trade Global Markets",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.39,
+    "installs": 1000000,
+    "domains": [
+      "mitrade.com"
+    ]
+  },
+  {
+    "appId": "app.phantom",
+    "title": "Phantom",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6310678,
+    "installs": 10000000,
+    "domains": [
+      "phantom.app",
+      "phantom.com"
+    ]
+  },
+  {
+    "appId": "org.dayup.stocks.au",
+    "title": "Webull: Invest. Trade.",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5841584,
+    "installs": 50000,
+    "domains": [
+      "ebull.com.au",
+      "ebull.com.au.",
+      "ebullapp.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.suncorp.insurance",
+    "title": "Suncorp Insurance App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.63,
+    "installs": 100000,
+    "domains": [
+      "suncorp.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.swyftx",
+    "title": "Swyftx: Buy Bitcoin, ETH & SOL",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.8846154,
+    "installs": 100000,
+    "domains": [
+      "swyftx.com"
+    ]
+  },
+  {
+    "appId": "au.com.cua.mb",
+    "title": "Great Southern Bank Australia",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.354717,
+    "installs": 100000,
+    "domains": [
+      "greatsouthernbank.com.au"
+    ]
+  },
+  {
+    "appId": "com.fusionmedia.investing",
+    "title": "Investing.com: Stock Market",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5276966,
+    "installs": 50000000,
+    "domains": [
+      "investing.com"
+    ]
+  },
+  {
+    "appId": "com.mgi.moneygram",
+    "title": "MoneyGram\u00ae : Send Money Online",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.618128,
+    "installs": 5000000,
+    "domains": [
+      "moneygram.com"
+    ]
+  },
+  {
+    "appId": "io.metamask",
+    "title": "MetaMask - Crypto Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5617976,
+    "installs": 10000000,
+    "domains": [
+      "legal.consensys.io",
+      "support.metamask.io"
+    ]
+  },
+  {
+    "appId": "com.moonpay",
+    "title": "MoonPay: Buy Crypto & Bitcoin",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.57,
+    "installs": 1000000,
+    "domains": [
+      "moonpay.com",
+      "support.moonpay.com"
+    ]
+  },
+  {
+    "appId": "app.hesta.com.au",
+    "title": "HESTA",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.3289473,
+    "installs": 50000,
+    "domains": [
+      "hesta.com.au",
+      "my.hesta.com.au"
+    ]
+  },
+  {
+    "appId": "it.beem.app",
+    "title": "Beem - Digital Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.3749013,
+    "installs": 500000,
+    "domains": [
+      "beem.com.au"
+    ]
+  },
+  {
+    "appId": "com.fusion.ATMLocator",
+    "title": "People's Choice Credit Union",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.3357663,
+    "installs": 100000,
+    "domains": [
+      "peopleschoicecu.com.au"
+    ]
+  },
+  {
+    "appId": "com.hrb.receipttracker",
+    "title": "ReceiptHub",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.31,
+    "installs": 10000,
+    "domains": [
+      "hrblock.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.moneyme.moneyme",
+    "title": "MONEYME",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.5419848,
+    "installs": 100000,
+    "domains": [
+      "moneyme.com.au"
+    ]
+  },
+  {
+    "appId": "com.mbfx",
+    "title": "MultiBank-Plus: Invest & Trade",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.326087,
+    "installs": 1000000,
+    "domains": [
+      "multibankfx.com"
+    ]
+  },
+  {
+    "appId": "com.equatex.mobile",
+    "title": "EquateMobile",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.0727272,
+    "installs": 500000,
+    "domains": [
+      "equatex.com",
+      "landing.computershare.com"
+    ]
+  },
+  {
+    "appId": "net.metaquotes.metatrader5",
+    "title": "MetaTrader 5 \u2014 Forex, Stocks",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.688889,
+    "installs": 10000000,
+    "domains": [
+      "metaquotes.net"
+    ]
+  },
+  {
+    "appId": "au.com.cfs.mobile",
+    "title": "Colonial First State",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.76,
+    "installs": 100000,
+    "domains": [
+      "cfs.com.au"
+    ]
+  },
+  {
+    "appId": "atws.app",
+    "title": "IBKR Mobile",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.4126983,
+    "installs": 1000000,
+    "domains": [
+      "ibkr.com",
+      "interactivebrokers.com"
+    ]
+  },
+  {
+    "appId": "com.tagpay.mwallet.bnm.click",
+    "title": "Click by BNM",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.571429,
+    "installs": 100000,
+    "domains": [
+      "82.151.67.232"
+    ]
+  },
+  {
+    "appId": "com.paperkite.orbitremit",
+    "title": "OrbitRemit Money Transfer",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.4171124,
+    "installs": 100000,
+    "domains": [
+      "orbitremit.com"
+    ]
+  },
+  {
+    "appId": "org.toshi",
+    "title": "Base: formerly Coinbase Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.0174417,
+    "installs": 10000000,
+    "domains": [
+      "allet.coinbase.com"
+    ]
+  },
+  {
+    "appId": "au.com.commsec.android.CommSecPocket",
+    "title": "CommSec Pocket",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.6,
+    "installs": 100000,
+    "domains": [
+      "commbank.com.au",
+      "commsec.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.remserv.myremserv",
+    "title": "My RemServ",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.375,
+    "installs": 500,
+    "domains": [
+      "remserv.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.heykit",
+    "title": "Kit - Pocket Money App & Card",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.18,
+    "installs": 50000,
+    "domains": [
+      "heykit.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.tmoz.app.v2",
+    "title": "Travel Money Oz",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.58,
+    "installs": 10000,
+    "domains": [
+      "travelmoneyoz.com"
+    ]
+  },
+  {
+    "appId": "au.com.mebank.mobilebanking",
+    "title": "ME Go",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5202703,
+    "installs": 50000,
+    "domains": [
+      "mebank.com.au",
+      "mebank.com.au."
+    ]
+  },
+  {
+    "appId": "au.com.virginmoney.android_vma",
+    "title": "Virgin Money Australia",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.4202127,
+    "installs": 100000,
+    "domains": [
+      "virginmoney.com.au"
+    ]
+  },
+  {
+    "appId": "com.fusion.beyondbank",
+    "title": "Beyond Bank Australia",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.780303,
+    "installs": 100000,
+    "domains": [
+      "beyondbank.com.au"
+    ]
+  },
+  {
+    "appId": "com.workcover.wam",
+    "title": "Worker Assist",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 2.9892473,
+    "installs": 100000,
+    "domains": [
+      "orkcoverqld.com.au",
+      "orksafe.qld.gov.au"
+    ]
+  },
+  {
+    "appId": "com.wotransfer.pandaremit",
+    "title": "Panda Remit",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7588234,
+    "installs": 1000000,
+    "domains": [
+      "p.pandaremit.com",
+      "pandaremit.com"
+    ]
+  },
+  {
+    "appId": "au.com.brighte.brighte_consumer_app",
+    "title": "Brighte",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.604839,
+    "installs": 50000,
+    "domains": [
+      "brighte.com.au"
+    ]
+  },
+  {
+    "appId": "com.mexcpro.client",
+    "title": "MEXC: Buy Bitcoin BTC & Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5148516,
+    "installs": 10000000,
+    "domains": [
+      "facebook.com",
+      "instagram.com",
+      "mexc.com",
+      "t.me",
+      "x.com"
+    ]
+  },
+  {
+    "appId": "com.mtaa.membercentre.app",
+    "title": "CareSuper",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.509259,
+    "installs": 50000,
+    "domains": [
+      "caresuper.com.au"
+    ]
+  },
+  {
+    "appId": "org.banksa.bank",
+    "title": "BankSA Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.4099379,
+    "installs": 100000,
+    "domains": [
+      "banksa.com.au"
+    ]
+  },
+  {
+    "appId": "com.bitcoin.mwallet",
+    "title": "Bitcoin.com Wallet: Buy, Sell",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5507245,
+    "installs": 10000000,
+    "domains": [
+      "allet.bitcoin.com",
+      "bitcoin.com"
+    ]
+  },
+  {
+    "appId": "pk.com.telenor.phoenix",
+    "title": "easypaisa \u2013 a digital bank",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.47,
+    "installs": 100000000,
+    "domains": [
+      "easypaisa.com.pk"
+    ]
+  },
+  {
+    "appId": "au.com.bitcoin.mobileapp",
+    "title": "Bitcoin.com.au Buy Bitcoin BTC",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6601944,
+    "installs": 10000,
+    "domains": [
+      "bitcoin.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.unisuper",
+    "title": "UniSuper",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7582784,
+    "installs": 50000,
+    "domains": [
+      "unisuper.com.au"
+    ]
+  },
+  {
+    "appId": "com.capital.trading",
+    "title": "Trading app by Capital.com",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5247526,
+    "installs": 5000000,
+    "domains": [
+      "capital.com"
+    ]
+  },
+  {
+    "appId": "com.wise.converter",
+    "title": "Currency Converter",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.45,
+    "installs": 1000000,
+    "domains": [
+      "ise.com"
+    ]
+  },
+  {
+    "appId": "us.frollo.frollo.prod",
+    "title": "Frollo - Feel good about money",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3,
+    "installs": 50000,
+    "domains": [
+      "frollo.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.cashconverters.myloans",
+    "title": "Cash Converters My Loans",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.23,
+    "installs": 100000,
+    "domains": [
+      "cashconverters.com.au"
+    ]
+  },
+  {
+    "appId": "com.myairtelapp",
+    "title": "Airtel Thanks: Recharge & Bank",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.2107844,
+    "installs": 500000000,
+    "domains": [
+      "airtel.in"
+    ]
+  },
+  {
+    "appId": "com.nextgen.moneyspot",
+    "title": "MoneySpot",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.19,
+    "installs": 50000,
+    "domains": [
+      "moneyspot.com.au"
+    ]
+  },
+  {
+    "appId": "ci.atlasearth.client",
+    "title": "ATLAS:EARTH - Paid Fun",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5828223,
+    "installs": 1000000,
+    "domains": [
+      "games.atlasreality.com",
+      "legal.atlasreality.com"
+    ]
+  },
+  {
+    "appId": "com.zeller.zellerapp",
+    "title": "Zeller",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.118421,
+    "installs": 10000,
+    "domains": [
+      "myzeller.com"
+    ]
+  },
+  {
+    "appId": "au.com.auspost.cashpassport",
+    "title": "AusPost Everyday Mastercard",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5185184,
+    "installs": 100000,
+    "domains": [
+      "auspost.com.au"
+    ]
+  },
+  {
+    "appId": "com.phonepe.app",
+    "title": "PhonePe UPI, Payment, Recharge",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.472,
+    "installs": 500000000,
+    "domains": [
+      "phonepe.com"
+    ]
+  },
+  {
+    "appId": "com.btcc.hy",
+    "title": "BTCC - Trade Bitcoin & Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.23,
+    "installs": 1000000,
+    "domains": [
+      "btcc.com",
+      "discord.com",
+      "facebook.com",
+      "instagram.com",
+      "linkedin.com",
+      "reddit.com",
+      "tiktok.com",
+      "x.com",
+      "youtube.com"
+    ]
+  },
+  {
+    "appId": "com.hdfcbank.android.now",
+    "title": "HDFC Bank App (Early Access)",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 0,
+    "installs": 1000000,
+    "domains": [
+      "hdfcbank.com"
+    ]
+  },
+  {
+    "appId": "io.trigger.forge8442af9afd9d11e3b6f91231392b77b0",
+    "title": "Cbus Super",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 2.99,
+    "installs": 100000,
+    "domains": [
+      "cbussuper.com.au"
+    ]
+  },
+  {
+    "appId": "com.pearler.platypus",
+    "title": "Pearler",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.3465347,
+    "installs": 50000,
+    "domains": [
+      "pearler.com"
+    ]
+  },
+  {
+    "appId": "com.moneybookers.skrillpayments",
+    "title": "Skrill - Pay & Transfer Money",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5840707,
+    "installs": 10000000,
+    "domains": [
+      "skrill.com"
+    ]
+  },
+  {
+    "appId": "com.fooga.joinchargeback",
+    "title": "Subscription Manager",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.5643563,
+    "installs": 100000,
+    "domains": [
+      "joinchargeback.com"
+    ]
+  },
+  {
+    "appId": "nz.sharesies.app",
+    "title": "Sharesies: Easy Investing",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.59,
+    "installs": 100000,
+    "domains": [
+      "intercom.help",
+      "sharesies.nz"
+    ]
+  },
+  {
+    "appId": "com.ctmau.app.simples",
+    "title": "Simples: Compare & Save",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.36,
+    "installs": 100000,
+    "domains": [
+      "comparethemarket.com.au"
+    ]
+  },
+  {
+    "appId": "net.yecode.cash_app",
+    "title": "Cash App - Earn Money",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.6923077,
+    "installs": 100000,
+    "domains": [
+      "yecode.net"
+    ]
+  },
+  {
+    "appId": "capitec.acuity.mobile.prod",
+    "title": "Capitec Bank",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.0117645,
+    "installs": 10000000,
+    "domains": [
+      "capitecbank.co.za"
+    ]
+  },
+  {
+    "appId": "com.squareup.payroll.team",
+    "title": "Square Team",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.1025643,
+    "installs": 500000,
+    "domains": [
+      "squareup.com"
+    ]
+  },
+  {
+    "appId": "au.com.canstar.canstar.prod",
+    "title": "Canstar: Compare and Save",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.356436,
+    "installs": 50000,
+    "domains": [
+      "canstar.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.auspost.travel.cashpassport",
+    "title": "AusPost Travel Mastercard",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.39,
+    "installs": 10000,
+    "domains": [
+      "auspost.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.walletwizard.ccg.wwapp",
+    "title": "Wallet Wizard \u2013 Line of Credit",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.55,
+    "installs": 50000,
+    "domains": [
+      "alletwizard.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.nabtrade.mobile",
+    "title": "nabtrade",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5549135,
+    "installs": 50000,
+    "domains": [
+      "nab.com.au",
+      "nabtrade.com.au"
+    ]
+  },
+  {
+    "appId": "com.coinmarketcap.android",
+    "title": "CoinMarketCap: Crypto Tracker",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.765273,
+    "installs": 10000000,
+    "domains": [
+      "coinmarketcap.com",
+      "files.coinmarketcap.com"
+    ]
+  },
+  {
+    "appId": "com.yahoo.mobile.client.android.finance",
+    "title": "Yahoo Finance: Stocks & News",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.646104,
+    "installs": 10000000,
+    "domains": [
+      "legal.yahoo.com",
+      "mobile.yahoo.com",
+      "policies.yahoo.com"
+    ]
+  },
+  {
+    "appId": "com.bluefoxapps.tarjetaargentina",
+    "title": "Credit Card - Easy approval",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.69,
+    "installs": 500000,
+    "domains": [
+      "tarjeta-argentina.web.app",
+      "thebluefoxapps.com"
+    ]
+  },
+  {
+    "appId": "com.freeman.moneymanager",
+    "title": "Money Tracker-Expense & Budget",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.91,
+    "installs": 5000000,
+    "domains": [
+      "money.quhou123.com"
+    ]
+  },
+  {
+    "appId": "com.sniip.androidapp",
+    "title": "Sniip \u2013 The easy way to pay",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5,
+    "installs": 100000,
+    "domains": [
+      "sniip.com"
+    ]
+  },
+  {
+    "appId": "au.com.gio.marketplace",
+    "title": "GIO App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6,
+    "installs": 50000,
+    "domains": [
+      "gio.com.au"
+    ]
+  },
+  {
+    "appId": "exodusmovement.exodus",
+    "title": "Exodus: Crypto Bitcoin Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.3098593,
+    "installs": 5000000,
+    "domains": [
+      "exodus.com"
+    ]
+  },
+  {
+    "appId": "com.wisr.finance",
+    "title": "Wisr \u2013 smarter money habits",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.42,
+    "installs": 50000,
+    "domains": [
+      "isr.com.au"
+    ]
+  },
+  {
+    "appId": "com.okinc.okex.gp",
+    "title": "OKX: Buy Bitcoin BTC & Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.226601,
+    "installs": 10000000,
+    "domains": [
+      "okx.com"
+    ]
+  },
+  {
+    "appId": "com.realbyteapps.moneymanagerfree",
+    "title": "Money Manager Expense & Budget",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.645161,
+    "installs": 10000000,
+    "domains": [
+      "realbyteapps.com",
+      "youtu.be"
+    ]
+  },
+  {
+    "appId": "cn.com.vau",
+    "title": "Vantage:All-In-One Trading App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.71,
+    "installs": 5000000,
+    "domains": [
+      "vantagemarkets.com"
+    ]
+  },
+  {
+    "appId": "com.techlogix.mobilinkcustomer",
+    "title": "JazzCash - Your Mobile Account",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.168317,
+    "installs": 50000000,
+    "domains": [
+      "jazzcash.com.pk"
+    ]
+  },
+  {
+    "appId": "com.bitget.exchange",
+    "title": "Bitget - Buy & Sell Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.45,
+    "installs": 10000000,
+    "domains": [
+      "bitget.com"
+    ]
+  },
+  {
+    "appId": "com.citibank.mobile.au",
+    "title": "Citi AU",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.8959596,
+    "installs": 500000,
+    "domains": [
+      "1.citibank.com.au"
+    ]
+  },
+  {
+    "appId": "com.acemoneytransfer.android",
+    "title": "ACE Money Transfer Send Money",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.7821784,
+    "installs": 1000000,
+    "domains": [
+      "acemoneytransfer.com"
+    ]
+  },
+  {
+    "appId": "com.globe.gcash.android",
+    "title": "GCash",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.09,
+    "installs": 100000000,
+    "domains": [
+      "new.gcash.com"
+    ]
+  },
+  {
+    "appId": "com.astermobile.app.android",
+    "title": "Aster DEX: Access DeFi markets",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": null,
+    "installs": 10000,
+    "domains": [
+      "asterdex.com",
+      "docs.asterdex.com"
+    ]
+  },
+  {
+    "appId": "au.com.lendi.app",
+    "title": "Lendi",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 0,
+    "installs": 500,
+    "domains": [
+      "lendi.com.au"
+    ]
+  },
+  {
+    "appId": "com.appetiser.creditspot",
+    "title": "Spendi | Spend, Enter, Win",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.6438355,
+    "installs": 5000,
+    "domains": [
+      "spendi.com.au"
+    ]
+  },
+  {
+    "appId": "pk.upaisa.com",
+    "title": "UPaisa \u2013 Digital Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.34375,
+    "installs": 5000000,
+    "domains": [
+      "upaisa.com"
+    ]
+  },
+  {
+    "appId": "com.nexowallet",
+    "title": "Nexo: Crypto Wealth Platform",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.43,
+    "installs": 5000000,
+    "domains": [
+      "nexo.com"
+    ]
+  },
+  {
+    "appId": "com.citi.mobile.ccc",
+    "title": "CitiManager \u2013 Corporate Cards",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.890411,
+    "installs": 1000000,
+    "domains": [
+      "citimanager.com",
+      "icg.citi.com"
+    ]
+  },
+  {
+    "appId": "au.com.shannons.insurance",
+    "title": "Shannons App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.72,
+    "installs": 10000,
+    "domains": [
+      "shannons.com.au"
+    ]
+  },
+  {
+    "appId": "au.gov.qld.qsuper.member",
+    "title": "QSuper",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6,
+    "installs": 100000,
+    "domains": [
+      "qsuper.qld.gov.au"
+    ]
+  },
+  {
+    "appId": "com.droid4you.application.wallet",
+    "title": "Wallet: Budget, Money Manager",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.455645,
+    "installs": 10000000,
+    "domains": [
+      "budgetbakers.com"
+    ]
+  },
+  {
+    "appId": "com.tigerbrokers.stock",
+    "title": "Tiger Trade:US & ASX shares",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.69,
+    "installs": 1000000,
+    "domains": [
+      "itiger.com",
+      "itigerup.com"
+    ]
+  },
+  {
+    "appId": "com.octopuscards.nfc_reader",
+    "title": "Octopus",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.01,
+    "installs": 5000000,
+    "domains": [
+      "octopus.com.hk"
+    ]
+  },
+  {
+    "appId": "com.GoFundMe.GoFundMe",
+    "title": "GoFundMe: Fundraise and Give",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6569343,
+    "installs": 5000000,
+    "domains": [
+      "gofundme.com"
+    ]
+  },
+  {
+    "appId": "com.fusion.banking",
+    "title": "Bank Australia App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.493404,
+    "installs": 100000,
+    "domains": [
+      "bankaust.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.newcastlepermanent",
+    "title": "NPBS Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.9447513,
+    "installs": 100000,
+    "domains": [
+      "newcastlepermanent.com.au"
+    ]
+  },
+  {
+    "appId": "com.jacarandafinance.app",
+    "title": "BetterCredit Jacaranda Finance",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.5048544,
+    "installs": 50000,
+    "domains": [
+      "jacarandafinance.com.au"
+    ]
+  },
+  {
+    "appId": "net.one97.paytm",
+    "title": "Paytm: Secure UPI Payments",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.8496733,
+    "installs": 500000000,
+    "domains": [
+      "paytm.com"
+    ]
+  },
+  {
+    "appId": "com.kraken.trade",
+    "title": "Kraken Pro: Invest in Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.68,
+    "installs": 1000000,
+    "domains": [
+      "kraken.com"
+    ]
+  },
+  {
+    "appId": "com.greater.Greater",
+    "title": "Greater Bank",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.49,
+    "installs": 100000,
+    "domains": [
+      "greater.com.au"
+    ]
+  },
+  {
+    "appId": "com.imb.banking2",
+    "title": "IMB Bank Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.3543305,
+    "installs": 50000,
+    "domains": [
+      "imb.com.au"
+    ]
+  },
+  {
+    "appId": "pkg.android.masterRemit",
+    "title": "MasterRemit",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.7,
+    "installs": 10000,
+    "domains": [
+      "masterremit.com"
+    ]
+  },
+  {
+    "appId": "com.fftools.currencyconversion",
+    "title": "Currency Converter App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 0,
+    "installs": 100000,
+    "domains": [
+      "fftools1993.github.io"
+    ]
+  },
+  {
+    "appId": "au.com.mystate.retail",
+    "title": "MyState Bank",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 2.98,
+    "installs": 10000,
+    "domains": [
+      "mystate.com.au"
+    ]
+  },
+  {
+    "appId": "nz.co.westpac",
+    "title": "Westpac One NZ Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.63,
+    "installs": 1000000,
+    "domains": [
+      "estpac.co.nz"
+    ]
+  },
+  {
+    "appId": "com.defi.wallet",
+    "title": "Crypto.com: Onchain Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.54,
+    "installs": 1000000,
+    "domains": [
+      "crypto.com"
+    ]
+  },
+  {
+    "appId": "com.thebudgetingapp.thebudgetingapp",
+    "title": "Budgeting App - Spend Tracker",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.66,
+    "installs": 100000,
+    "domains": [
+      "thebudgeting.app"
+    ]
+  },
+  {
+    "appId": "net.metaquotes.metatrader4",
+    "title": "MetaTrader 4 Forex Trading",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.478134,
+    "installs": 10000000,
+    "domains": [
+      "metaquotes.net"
+    ]
+  },
+  {
+    "appId": "com.paylaterapp.paylater",
+    "title": "PayLater - Split in 4 payments",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 0,
+    "installs": 100000,
+    "domains": [
+      "paylaterapp.com"
+    ]
+  },
+  {
+    "appId": "au.com.flexirent.skye",
+    "title": "humm\u00ae90 Platinum Mastercard\u00ae",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.74,
+    "installs": 100000,
+    "domains": [
+      "humm90.com"
+    ]
+  },
+  {
+    "appId": "com.tribab.tricount.android",
+    "title": "tricount: Split & Settle Bills",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.28,
+    "installs": 10000000,
+    "domains": [
+      "tricount.com"
+    ]
+  },
+  {
+    "appId": "com.sweatwallet",
+    "title": "Sweat Wallet: Crypto & Rewards",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6125,
+    "installs": 10000000,
+    "domains": [
+      "sweateconomy.com"
+    ]
+  },
+  {
+    "appId": "com.rynatsa.xtrendspeed",
+    "title": "XTrend Speed \u200b\u200bTrading App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.13,
+    "installs": 5000000,
+    "domains": [
+      "oss.xtrendspeed.com",
+      "xtrendspeed.com"
+    ]
+  },
+  {
+    "appId": "com.indue.app1",
+    "title": "SmartCard eIM",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.2,
+    "installs": 50000,
+    "domains": [
+      "smartcard.com.au"
+    ]
+  },
+  {
+    "appId": "id.dana",
+    "title": "DANA Indonesia Digital Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.2277226,
+    "installs": 100000000,
+    "domains": [
+      "dana.id",
+      "m.dana.id"
+    ]
+  },
+  {
+    "appId": "com.kubi.kucoin",
+    "title": "KuCoin: Buy Bitcoin & Crypto",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.366412,
+    "installs": 10000000,
+    "domains": [
+      "kucoin.com"
+    ]
+  },
+  {
+    "appId": "co.uk.getmondo",
+    "title": "Monzo Bank - Mobile Banking",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5148516,
+    "installs": 10000000,
+    "domains": [
+      "monzo.com"
+    ]
+  },
+  {
+    "appId": "au.com.deferit.app",
+    "title": "Deferit: Pay bills in 4",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.830827,
+    "installs": 500000,
+    "domains": [
+      "deferit.com"
+    ]
+  },
+  {
+    "appId": "com.bluefoxapps.prestamoargentina",
+    "title": "Personal Loans - Easy approval",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.265306,
+    "installs": 1000000,
+    "domains": [
+      "prestamo-argentina.web.app",
+      "thebluefoxapps.com"
+    ]
+  },
+  {
+    "appId": "com.ledger.live",
+    "title": "Ledger Live Crypto Wallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.37,
+    "installs": 1000000,
+    "domains": [
+      "ledger.com"
+    ]
+  },
+  {
+    "appId": "com.symantec.lifelock.memberapp",
+    "title": "LifeLock Identity by Norton",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.67,
+    "installs": 5000000,
+    "domains": [
+      "nortonlifelock.com",
+      "support.norton.com"
+    ]
+  },
+  {
+    "appId": "com.payoneer.android",
+    "title": "Payoneer",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.27,
+    "installs": 10000000,
+    "domains": [
+      "payoneer.com"
+    ]
+  },
+  {
+    "appId": "com.coingecko.coingeckoapp",
+    "title": "CoinGecko: Crypto Tracker",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6962028,
+    "installs": 5000000,
+    "domains": [
+      "coingecko.com"
+    ]
+  },
+  {
+    "appId": "nz.co.anz.android.mobilebanking",
+    "title": "ANZ goMoney New Zealand",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 3.88,
+    "installs": 1000000,
+    "domains": [
+      "adobe.com",
+      "anz.co.nz",
+      "business.adobe.com"
+    ]
+  },
+  {
+    "appId": "au.com.qccu.android",
+    "title": "Queensland Country App",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6064515,
+    "installs": 50000,
+    "domains": [
+      "qccu.com.au",
+      "queenslandcountry.bank"
+    ]
+  },
+  {
+    "appId": "io.hnry.hnry",
+    "title": "Hnry",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.90099,
+    "installs": 50000,
+    "domains": [
+      "hnry.com"
+    ]
+  },
+  {
+    "appId": "com.dexscreener",
+    "title": "DEX Screener",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.6043954,
+    "installs": 1000000,
+    "domains": [
+      "dexscreener.com",
+      "docs.dexscreener.com"
+    ]
+  },
+  {
+    "appId": "cs.cs",
+    "title": "Coinstash",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.49,
+    "installs": 5000,
+    "domains": [
+      "coinstash.com.au",
+      "help.coinstash.com.au"
+    ]
+  },
+  {
+    "appId": "com.komsco.kpay",
+    "title": "\ub514\uc9c0\ud138\uc628\ub204\ub9ac",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": null,
+    "installs": 1000000,
+    "domains": [
+      "komscopay.com",
+      "s-www.komscopay.com"
+    ]
+  },
+  {
+    "appId": "com.avuscapital.trading212",
+    "title": "Trading 212: Stocks, ETFs, ISA",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.643564,
+    "installs": 10000000,
+    "domains": [
+      "trading212.com"
+    ]
+  },
+  {
+    "appId": "my.com.tngdigital.ewallet",
+    "title": "Touch 'n Go eWallet",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.5588236,
+    "installs": 10000000,
+    "domains": [
+      "tngdigital.com.my",
+      "touchngo.com.my"
+    ]
+  },
+  {
+    "appId": "com.earnd",
+    "title": "Humanforce Thrive",
+    "genre": "Finance",
+    "tag": "finance",
+    "score": 4.0208335,
+    "installs": 50000,
+    "domains": [
+      "au.earnd.com",
+      "earnd.com"
+    ]
+  },
+  {
+    "appId": "com.gamincat.ant",
+    "title": "Empire of Ants - Idle Game",
+    "genre": "Simulation",
+    "tag": "vpn",
+    "score": 4.32,
+    "installs": 5000000,
+    "domains": [
+      "gamincat.com"
+    ]
+  },
+  {
+    "appId": "io.yuka.android",
+    "title": "Yuka - Food & Cosmetic Scanner",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6706586,
+    "installs": 10000000,
+    "domains": [
+      "help.yuka.io",
+      "yuka-app.helpdocs.io",
+      "yuka.io"
+    ]
+  },
+  {
+    "appId": "com.physitrack.physiapp",
+    "title": "PhysiApp\u00ae",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.713333,
+    "installs": 1000000,
+    "domains": [
+      "physiapp.com",
+      "physitrack.com"
+    ]
+  },
+  {
+    "appId": "ipnossoft.rma.free",
+    "title": "BetterSleep: Sleep tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.410628,
+    "installs": 10000000,
+    "domains": [
+      "bettersleep.com",
+      "support.bettersleep.com"
+    ]
+  },
+  {
+    "appId": "com.strava",
+    "title": "Strava: Run, Bike, Hike",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.480597,
+    "installs": 50000000,
+    "domains": [
+      "strava.com",
+      "support.strava.com"
+    ]
+  },
+  {
+    "appId": "com.alltrails.alltrails",
+    "title": "AllTrails: Hike, Bike & Run",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6441307,
+    "installs": 10000000,
+    "domains": [
+      "alltrails.com"
+    ]
+  },
+  {
+    "appId": "gen.tech.impulse.android",
+    "title": "Impulse - Brain Training Games",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.306962,
+    "installs": 10000000,
+    "domains": [
+      "brainimpulse.me"
+    ]
+  },
+  {
+    "appId": "com.intvl.app",
+    "title": "INTVL",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.45,
+    "installs": 100000,
+    "domains": [
+      "intvl.com.au"
+    ]
+  },
+  {
+    "appId": "com.myfitnesspal.android",
+    "title": "MyFitnessPal: Food & Fitness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.453574,
+    "installs": 100000000,
+    "domains": [
+      "myfitnesspal.com"
+    ]
+  },
+  {
+    "appId": "com.healthengine.android",
+    "title": "Healthengine",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.260785,
+    "installs": 1000000,
+    "domains": [
+      "healthengine.com.au"
+    ]
+  },
+  {
+    "appId": "com.finch.finch",
+    "title": "Finch: Self-Care Pet",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.875285,
+    "installs": 10000000,
+    "domains": [
+      "discord.gg",
+      "facebook.com",
+      "finchcare.com",
+      "instagram.com",
+      "tiktok.com"
+    ]
+  },
+  {
+    "appId": "org.iggymedia.periodtracker",
+    "title": "Flo Period & Pregnancy Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6668434,
+    "installs": 100000000,
+    "domains": [
+      "flo.health"
+    ]
+  },
+  {
+    "appId": "com.getpaired.app",
+    "title": "Paired: Couples & Relationship",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.64,
+    "installs": 1000000,
+    "domains": [
+      "getpaired.com",
+      "paired.com"
+    ]
+  },
+  {
+    "appId": "com.bpfit.bloodpressure.health",
+    "title": "Blood Pressure",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.3366337,
+    "installs": 10000000,
+    "domains": [
+      "bloodppressure.info"
+    ]
+  },
+  {
+    "appId": "homeworkout.homeworkouts.noequipment",
+    "title": "Home Workout - No Equipment",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8922815,
+    "installs": 100000000,
+    "domains": [
+      "leap.app",
+      "z.leap.app"
+    ]
+  },
+  {
+    "appId": "au.com.medibank.phs",
+    "title": "My Medibank",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.524989,
+    "installs": 500000,
+    "domains": [
+      "medibank.com.au",
+      "members.medibank.com.au"
+    ]
+  },
+  {
+    "appId": "com.garmin.android.apps.connectmobile",
+    "title": "Garmin Connect\u2122",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.9882298,
+    "installs": 10000000,
+    "domains": [
+      "garmin.com"
+    ]
+  },
+  {
+    "appId": "com.google.android.apps.fitness",
+    "title": "Google Fit: Activity Tracking",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.446384,
+    "installs": 100000000,
+    "domains": [
+      "android.com",
+      "google.com"
+    ]
+  },
+  {
+    "appId": "com.cactus.tracker.bloodpressure",
+    "title": "Blood Pressure Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.4042554,
+    "installs": 10000000,
+    "domains": [
+      "cactus-bp.com",
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "stepcounter.pedometer.stepstracker",
+    "title": "Step Counter - Pedometer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.707692,
+    "installs": 10000000,
+    "domains": [
+      "brilliantapp.ltd",
+      "step.inston.ltd"
+    ]
+  },
+  {
+    "appId": "com.visionwizard.pulse",
+    "title": "Heart Rate Monitor - HeartIn",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.117647,
+    "installs": 1000000,
+    "domains": [
+      "static.heartrate.info"
+    ]
+  },
+  {
+    "appId": "com.pookies.food.ai",
+    "title": "BitePal: AI Calorie Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.22,
+    "installs": 500000,
+    "domains": [
+      "bitepal.app"
+    ]
+  },
+  {
+    "appId": "com.eato.caloriecounter.weight.loss",
+    "title": "Eato\u00ae: Calorie Counter",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.3960395,
+    "installs": 100000,
+    "domains": [
+      "enerjoy.life"
+    ]
+  },
+  {
+    "appId": "pilatesworkout.yogaworkout.loseweight.workoutapps",
+    "title": "Pilates Workout at Home",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8,
+    "installs": 10000000,
+    "domains": [
+      "ezhealth.app"
+    ]
+  },
+  {
+    "appId": "com.technogym.tgapp",
+    "title": "Technogym - Training Coach",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.970297,
+    "installs": 1000000,
+    "domains": [
+      "cdnmedia.mywellness.com",
+      "mywellness.com",
+      "technogym.com"
+    ]
+  },
+  {
+    "appId": "com.netpulse.mobile.revofitness",
+    "title": "Revo Fitness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6372547,
+    "installs": 50000,
+    "domains": [
+      "egym.com",
+      "revofitness.netpulse.com"
+    ]
+  },
+  {
+    "appId": "io.foodvisor.foodvisor",
+    "title": "Foodvisor - Calorie Counter",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.537736,
+    "installs": 5000000,
+    "domains": [
+      "foodvisor.io"
+    ]
+  },
+  {
+    "appId": "au.com.nib",
+    "title": "nib",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.504924,
+    "installs": 500000,
+    "domains": [
+      "nib.com.au"
+    ]
+  },
+  {
+    "appId": "com.vald.movehealth",
+    "title": "MoveHealth",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.5762713,
+    "installs": 50000,
+    "domains": [
+      "valdhealth.com"
+    ]
+  },
+  {
+    "appId": "com.runbuddy.prod",
+    "title": "Runna: Running Plans & Coach",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.722772,
+    "installs": 1000000,
+    "domains": [
+      "runna.com"
+    ]
+  },
+  {
+    "appId": "com.hevy",
+    "title": "Hevy - Gym Log Workout Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.9219856,
+    "installs": 1000000,
+    "domains": [
+      "facebook.com",
+      "hevyapp.com",
+      "instagram.com",
+      "iubenda.com",
+      "twitter.com"
+    ]
+  },
+  {
+    "appId": "com.healthapplines.healthsense.bloodsugarhub",
+    "title": "Health Sense: Track & Record",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.631579,
+    "installs": 10000000,
+    "domains": [
+      "healthapplines.com"
+    ]
+  },
+  {
+    "appId": "com.fourtechnologies.mynetdiary.ad",
+    "title": "Calorie Counter - MyNetDiary",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.778364,
+    "installs": 5000000,
+    "domains": [
+      "mynetdiary.com"
+    ]
+  },
+  {
+    "appId": "com.cronometer.android.gold",
+    "title": "Calorie Counter by Cronometer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.4946237,
+    "installs": 1000000,
+    "domains": [
+      "cronometer.com"
+    ]
+  },
+  {
+    "appId": "com.appediet.appediet",
+    "title": "AI Calorie Counter - Appediet",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.5841584,
+    "installs": 100000,
+    "domains": [
+      "appediet.com",
+      "static-cdn-f.appediet.com"
+    ]
+  },
+  {
+    "appId": "com.getsomeheadspace.android",
+    "title": "Headspace: Meditation & Health",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.3897233,
+    "installs": 10000000,
+    "domains": [
+      "headspace.com"
+    ]
+  },
+  {
+    "appId": "com.hiit.home.workout.men.jian048lite",
+    "title": "HIIT Workout for Men Lite",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.266667,
+    "installs": 100000,
+    "domains": [
+      "q9d12df58.app-ads-txt.com",
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "com.lumenate.lumenateaa",
+    "title": "Lumenate: Explore & Relax",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.598039,
+    "installs": 500000,
+    "domains": [
+      "lumenategrowth.com"
+    ]
+  },
+  {
+    "appId": "com.fitbit.FitbitMobile",
+    "title": "Fitbit",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.8595572,
+    "installs": 100000000,
+    "domains": [
+      "fitbit.com"
+    ]
+  },
+  {
+    "appId": "au.com.bupa.blua",
+    "title": "Blua",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 5,
+    "installs": 500,
+    "domains": [
+      "blua.bupa.com.au"
+    ]
+  },
+  {
+    "appId": "com.calm.android",
+    "title": "Calm - Sleep, Meditate, Relax",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.309406,
+    "installs": 50000000,
+    "domains": [
+      "calm.com"
+    ]
+  },
+  {
+    "appId": "com.qantas.assure",
+    "title": "Qantas Wellbeing",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.8512034,
+    "installs": 100000,
+    "domains": [
+      "qantas.com"
+    ]
+  },
+  {
+    "appId": "com.treshna.memberportal",
+    "title": "GymMaster Member Portal",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.3,
+    "installs": 500000,
+    "domains": [
+      "gymmaster.com"
+    ]
+  },
+  {
+    "appId": "au.com.hcf.hcf",
+    "title": "HCF My Membership App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.522316,
+    "installs": 100000,
+    "domains": [
+      "hcf.com.au"
+    ]
+  },
+  {
+    "appId": "com.quinn.android",
+    "title": "Quinn - Audio Stories",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.737374,
+    "installs": 500000,
+    "domains": [
+      "tryquinn.com"
+    ]
+  },
+  {
+    "appId": "com.lasta",
+    "title": "Lasta: Healthy Weight Loss",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.83,
+    "installs": 100000,
+    "domains": [
+      "lasta.app"
+    ]
+  },
+  {
+    "appId": "health.sleep.sounds.tracker.alarm.calm",
+    "title": "ShutEye\u00ae: Sleep Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.3966246,
+    "installs": 5000000,
+    "domains": [
+      "enerjoy.life"
+    ]
+  },
+  {
+    "appId": "com.walkfit.weightloss.steptracker.pedometer",
+    "title": "Weight Loss Walking: WalkFit",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6309524,
+    "installs": 10000000,
+    "domains": [
+      "alkfit.welltech.com",
+      "contact-us.welltech.com",
+      "legal.walkfit.pro",
+      "legal.walkfit.welltech.com"
+    ]
+  },
+  {
+    "appId": "net.workoutinc.senior_chair_yoga_workout_app",
+    "title": "Chair Yoga for Seniors-EasyFIT",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.742268,
+    "installs": 100000,
+    "domains": [
+      "7mfitness.com",
+      "easy-chair-yoga.7mfitness.com"
+    ]
+  },
+  {
+    "appId": "com.mejordailytracker.app",
+    "title": "LazyFit: Chair Yoga & Pilates",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.22,
+    "installs": 5000000,
+    "domains": [
+      "app-service.lazyfit.ai",
+      "app-service.mejorai.com",
+      "mejorai.com"
+    ]
+  },
+  {
+    "appId": "heartratemonitor.heartrate.pulse.pulseapp",
+    "title": "Heart Rate Monitor - Pulse App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.2509804,
+    "installs": 10000000,
+    "domains": [
+      "deepthought.industries",
+      "heartrate.deepthought.industries"
+    ]
+  },
+  {
+    "appId": "pedometer.steptracker.calorieburner.stepcounter",
+    "title": "Step Counter - Pedometer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.849387,
+    "installs": 100000000,
+    "domains": [
+      "leap.app"
+    ]
+  },
+  {
+    "appId": "com.spotlightsix.zentimerlite2",
+    "title": "Insight Timer - Meditation App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.763254,
+    "installs": 10000000,
+    "domains": [
+      "insighttimer.com"
+    ]
+  },
+  {
+    "appId": "com.wachanga.calories",
+    "title": "Calz: Calorie Counter AI",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.59,
+    "installs": 1000000,
+    "domains": [
+      "achanga.com"
+    ]
+  },
+  {
+    "appId": "weightloss.weightlossforwomen.workoutforwomen.womenworkout",
+    "title": "Weight Loss for Women: Workout",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8514853,
+    "installs": 10000000,
+    "domains": [
+      "ezhealth.app"
+    ]
+  },
+  {
+    "appId": "com.app.lively_app",
+    "title": "Period Tracker : Lively Cycle",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7524753,
+    "installs": 100000,
+    "domains": [
+      "livelycycle.com"
+    ]
+  },
+  {
+    "appId": "com.bowerydigital.bend",
+    "title": "Bend: Stretching & Flexibility",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.721774,
+    "installs": 1000000,
+    "domains": [
+      "bend.com",
+      "getbend.co"
+    ]
+  },
+  {
+    "appId": "com.popularapp.periodcalendar",
+    "title": "Period Calendar Period Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.879837,
+    "installs": 100000000,
+    "domains": [
+      "simpledesign.ltd"
+    ]
+  },
+  {
+    "appId": "com.mih.planfit",
+    "title": "Planfit - Gym Workout Planner",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.597561,
+    "installs": 1000000,
+    "domains": [
+      "blush-viper-9fa.notion.site",
+      "planfit.ai"
+    ]
+  },
+  {
+    "appId": "com.vitality.grace.fitness.heatth",
+    "title": "Vitality Grace Fitness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": null,
+    "installs": 10000,
+    "domains": [
+      "docs.google.com",
+      "yzapptech.lol"
+    ]
+  },
+  {
+    "appId": "com.topstep.fitcloudpro",
+    "title": "FitCloudPro",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.61,
+    "installs": 10000000,
+    "domains": [
+      "fitcloud.hetangsmart.com",
+      "hetangsmart.com"
+    ]
+  },
+  {
+    "appId": "com.yazio.android",
+    "title": "YAZIO: AI Calorie Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6349206,
+    "installs": 10000000,
+    "domains": [
+      "help.yazio.com",
+      "yazio.com"
+    ]
+  },
+  {
+    "appId": "com.ribbon.mobileApp",
+    "title": "Momence",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7009344,
+    "installs": 100000,
+    "domains": [
+      "momence.com"
+    ]
+  },
+  {
+    "appId": "com.classpass.classpass",
+    "title": "ClassPass: Fitness, Spa, Salon",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.2970295,
+    "installs": 1000000,
+    "domains": [
+      "classpass.com"
+    ]
+  },
+  {
+    "appId": "com.risesci.nyx",
+    "title": "RISE: Sleep Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.24,
+    "installs": 1000000,
+    "domains": [
+      "risescience.com"
+    ]
+  },
+  {
+    "appId": "com.tayu.tau.pedometer",
+    "title": "Pedometer - Step Counter App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.829493,
+    "installs": 50000000,
+    "domains": [
+      "ito-technologies.com"
+    ]
+  },
+  {
+    "appId": "com.renpho.health",
+    "title": "RENPHO Health",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.87,
+    "installs": 1000000,
+    "domains": [
+      "renpho.com"
+    ]
+  },
+  {
+    "appId": "com.smilingmind.app",
+    "title": "Smiling Mind: Mental Wellbeing",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.1448274,
+    "installs": 1000000,
+    "domains": [
+      "smilingmind.com.au"
+    ]
+  },
+  {
+    "appId": "com.amomedia.madmuscles",
+    "title": "MadMuscles: Workouts & Diet",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.056604,
+    "installs": 1000000,
+    "domains": [
+      "madmuscles.com"
+    ]
+  },
+  {
+    "appId": "com.liteup.getgains",
+    "title": "Gravl: Personal Trainer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.4347825,
+    "installs": 500000,
+    "domains": [
+      "gravl.ai"
+    ]
+  },
+  {
+    "appId": "com.men.gym.buddy.pro",
+    "title": "Men's Gym Buddy",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": null,
+    "installs": 10000,
+    "domains": [
+      "docs.google.com"
+    ]
+  },
+  {
+    "appId": "com.fitnow.loseit",
+    "title": "Calorie Counter by Lose It!",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.654135,
+    "installs": 10000000,
+    "domains": [
+      "loseit.com"
+    ]
+  },
+  {
+    "appId": "com.technogym.mywellness.fitnesscartelaustralia",
+    "title": "Fitness Cartel",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4,
+    "installs": 10000,
+    "domains": [
+      "fitnesscartel.com.au",
+      "idgets.mywellness.com"
+    ]
+  },
+  {
+    "appId": "digifit.android.virtuagym.pro.bravofitcentral",
+    "title": "Planet Fitness Australia",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7434554,
+    "installs": 100000,
+    "domains": [
+      "virtuagym.com"
+    ]
+  },
+  {
+    "appId": "com.ionicframework.bettercaring45581069",
+    "title": "Mable",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.349138,
+    "installs": 100000,
+    "domains": [
+      "mable.com.au"
+    ]
+  },
+  {
+    "appId": "com.mobilenation.hbf",
+    "title": "HBF Health",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.653272,
+    "installs": 100000,
+    "domains": [
+      "hbf.com.au"
+    ]
+  },
+  {
+    "appId": "com.walkearn.stepscash",
+    "title": "WalkEarn - Steps to Cash",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6796117,
+    "installs": 1000000,
+    "domains": [
+      "d1z1wzuizrhw9q.cloudfront.net",
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "com.mindbodyonline.connect",
+    "title": "Mindbody: Fitness & Wellness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.721198,
+    "installs": 5000000,
+    "domains": [
+      "co.mindbodyonline.com",
+      "mindbody.io"
+    ]
+  },
+  {
+    "appId": "com.gen.workoutme",
+    "title": "BetterMe: Health Coaching",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.2818604,
+    "installs": 10000000,
+    "domains": [
+      "betterme.world"
+    ]
+  },
+  {
+    "appId": "com.fitifyworkouts.bodyweight.workoutapp",
+    "title": "Fitify: Fitness, Home Workout",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.59,
+    "installs": 10000000,
+    "domains": [
+      "gofitify.com"
+    ]
+  },
+  {
+    "appId": "com.stepsappgmbh.stepsapp",
+    "title": "StepsApp \u2013 Step Counter",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.57,
+    "installs": 10000000,
+    "domains": [
+      "steps.app"
+    ]
+  },
+  {
+    "appId": "com.alphaprogression.alphaprogression",
+    "title": "Alpha Progression Gym Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7821784,
+    "installs": 1000000,
+    "domains": [
+      "alphaprogression.com"
+    ]
+  },
+  {
+    "appId": "com.yc.gloryfit",
+    "title": "Glory Fit",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.6237624,
+    "installs": 10000000,
+    "domains": [
+      "app.help-document.com",
+      "ute-tech.com.cn"
+    ]
+  },
+  {
+    "appId": "com.vivaleisure.clublime_member",
+    "title": "Club Lime - 24/7 Gym Access",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.072,
+    "installs": 100000,
+    "domains": [
+      "clublime.com.au",
+      "vivaleisure.group"
+    ]
+  },
+  {
+    "appId": "com.viraldevelopment.calai",
+    "title": "Cal AI - Food Calorie Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.609091,
+    "installs": 1000000,
+    "domains": [
+      "viraldevelopment.co"
+    ]
+  },
+  {
+    "appId": "in.sweatco.app",
+    "title": "Sweatcoin\u30fbWalking Step Counter",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.9059305,
+    "installs": 100000000,
+    "domains": [
+      "sweatco.in"
+    ]
+  },
+  {
+    "appId": "com.trainerize.Trainerize",
+    "title": "ABC Trainerize",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.75,
+    "installs": 1000000,
+    "domains": [
+      "trainerize.com"
+    ]
+  },
+  {
+    "appId": "com.sec.android.app.shealth",
+    "title": "Samsung Health",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.2457886,
+    "installs": 1000000000,
+    "domains": [
+      "samsung.com",
+      "samsunghealth.com"
+    ]
+  },
+  {
+    "appId": "splits.splitstraining.dothesplits.splitsin30days",
+    "title": "Splits Training in 30 Days",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.825688,
+    "installs": 50000000,
+    "domains": [
+      "leap.app",
+      "z.leap.app"
+    ]
+  },
+  {
+    "appId": "bloodpressure.bloodpressureapp.bloodpressuretracker",
+    "title": "Blood Pressure App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.029703,
+    "installs": 50000000,
+    "domains": [
+      "deepthought.industries"
+    ]
+  },
+  {
+    "appId": "jp.co.omron.healthcare.omron_connect",
+    "title": "OMRON connect",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.072,
+    "installs": 1000000,
+    "domains": [
+      "omronconnect.com"
+    ]
+  },
+  {
+    "appId": "com.watch.life",
+    "title": "VeryFit",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.371951,
+    "installs": 5000000,
+    "domains": [
+      "life-content.idoocloud.com"
+    ]
+  },
+  {
+    "appId": "com.mighty.muscle.builder.strong",
+    "title": "Mighty Muscle Builder",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 0,
+    "installs": 100000,
+    "domains": [
+      "docs.google.com"
+    ]
+  },
+  {
+    "appId": "com.betterhelp",
+    "title": "BetterHelp - Therapy",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.53,
+    "installs": 1000000,
+    "domains": [
+      "betterhelp.com"
+    ]
+  },
+  {
+    "appId": "ai.replika.app",
+    "title": "Replika: My AI Friend",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.212479,
+    "installs": 10000000,
+    "domains": [
+      "replika.ai"
+    ]
+  },
+  {
+    "appId": "com.aia.gr.rn.au.v2020.vitality",
+    "title": "AIA Vitality Australia",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.706767,
+    "installs": 10000,
+    "domains": [
+      "aia.com.au"
+    ]
+  },
+  {
+    "appId": "com.homecardio.workout.offline",
+    "title": "Home Cardio - Offline Workout",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": null,
+    "installs": 50000,
+    "domains": [
+      "ashiba.beauty",
+      "docs.google.com"
+    ]
+  },
+  {
+    "appId": "com.everfit",
+    "title": "Everfit",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.52,
+    "installs": 100000,
+    "domains": [
+      "everfit.io"
+    ]
+  },
+  {
+    "appId": "com.bodyfast",
+    "title": "BodyFast: Intermittent Fasting",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.6298075,
+    "installs": 10000000,
+    "domains": [
+      "bodyfast.app",
+      "bodyfast.de",
+      "my.bodyfast.app"
+    ]
+  },
+  {
+    "appId": "journaling.app",
+    "title": "Honestly: Wellbeing Coaching",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.53,
+    "installs": 100000,
+    "domains": [
+      "reface.ai"
+    ]
+  },
+  {
+    "appId": "com.clue.android",
+    "title": "Clue Cycle & Period Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.405548,
+    "installs": 50000000,
+    "domains": [
+      "helloclue.com"
+    ]
+  },
+  {
+    "appId": "com.mearsure.heartratepro.manage",
+    "title": "Blood Pressure App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.990099,
+    "installs": 10000000,
+    "domains": [
+      "heartratepros.com"
+    ]
+  },
+  {
+    "appId": "bloodsugar.bloodsugarapp.diabetes.diabetesapp",
+    "title": "Blood Sugar - Diabetes App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.26,
+    "installs": 10000000,
+    "domains": [
+      "deepthought.industries"
+    ]
+  },
+  {
+    "appId": "com.xiaomi.wearable",
+    "title": "Mi Fitness (Xiaomi Wear)",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.162393,
+    "installs": 50000000,
+    "domains": [
+      "us.watch.iot.mi.com"
+    ]
+  },
+  {
+    "appId": "com.sbs.diet",
+    "title": "MacroFactor - Macro Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.74,
+    "installs": 500000,
+    "domains": [
+      "macrofactorapp.com",
+      "opendatacommons.org",
+      "openfoodfacts.org",
+      "privacy.macrofactorapp.com",
+      "terms.macrofactorapp.com"
+    ]
+  },
+  {
+    "appId": "com.thestepupapp.stepup",
+    "title": "StepUp Pedometer Step Counter",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.75,
+    "installs": 1000000,
+    "domains": [
+      "thestepupapp.com"
+    ]
+  },
+  {
+    "appId": "home.fitness.challenge",
+    "title": "FitMe - Lazy Workout at Home",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.0147057,
+    "installs": 100000,
+    "domains": [
+      "gismart.com",
+      "licenses44.wixstudio.com"
+    ]
+  },
+  {
+    "appId": "org.howwefeel.moodmeter",
+    "title": "How We Feel",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.64,
+    "installs": 500000,
+    "domains": [
+      "howwefeel.org"
+    ]
+  },
+  {
+    "appId": "com.musclecharge.app",
+    "title": "Muscle Charge",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.714286,
+    "installs": 1000,
+    "domains": [
+      "musclecharge.app"
+    ]
+  },
+  {
+    "appId": "com.stardust.app",
+    "title": "Stardust: Period & Pregnancy",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.41,
+    "installs": 1000000,
+    "domains": [
+      "stardust.app"
+    ]
+  },
+  {
+    "appId": "com.fitbod.fitbod",
+    "title": "Fitbod: Workout & Gym Planner",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.66,
+    "installs": 1000000,
+    "domains": [
+      "fitbod.me"
+    ]
+  },
+  {
+    "appId": "au.com.teachershealth.teachers",
+    "title": "My Teachers Health",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 5,
+    "installs": 5000,
+    "domains": [
+      "teachershealth.com.au"
+    ]
+  },
+  {
+    "appId": "fit.withu.flutter.withu",
+    "title": "WithU: Workout & Fitness App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.34,
+    "installs": 100000,
+    "domains": [
+      "ithutraining.com"
+    ]
+  },
+  {
+    "appId": "ryze.connect.directed",
+    "title": "Ryze Connect",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.55,
+    "installs": 50000,
+    "domains": [
+      "life-content.idoocloud.com"
+    ]
+  },
+  {
+    "appId": "fitness.home.workout.weight.loss",
+    "title": "JustFit - Lazy Workout",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.5869565,
+    "installs": 10000000,
+    "domains": [
+      "enerjoy.life"
+    ]
+  },
+  {
+    "appId": "com.mapmywalk.android2",
+    "title": "Map My Walk: Walking Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.705234,
+    "installs": 10000000,
+    "domains": [
+      "mapmywalk.com",
+      "outsideinc.com"
+    ]
+  },
+  {
+    "appId": "org.au.oceanstooutback",
+    "title": "Oceans to Outback",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "oceanstooutback.org.au"
+    ]
+  },
+  {
+    "appId": "au.com.xyris.eddflutter",
+    "title": "Easy Diet Diary",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.7374005,
+    "installs": 100000,
+    "domains": [
+      "foodworks.online",
+      "support.easydietdiary.com",
+      "xyris.com.au"
+    ]
+  },
+  {
+    "appId": "chairyogaforseniors.yogaworkout.chairworkout.loseweight",
+    "title": "Chair Yoga for Seniors at Home",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 0,
+    "installs": 10000,
+    "domains": [
+      "chairyoga.ezhealth.app",
+      "ezhealth.app"
+    ]
+  },
+  {
+    "appId": "dance.fit.zumba.weightloss.danceburn",
+    "title": "Dancefitme: Fun Workouts",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.257426,
+    "installs": 10000000,
+    "domains": [
+      "dancefit.me",
+      "facebook.com",
+      "instagram.com"
+    ]
+  },
+  {
+    "appId": "com.lyfta",
+    "title": "Lyfta: Gym Log Workout Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.78,
+    "installs": 1000000,
+    "domains": [
+      "lyfta.app"
+    ]
+  },
+  {
+    "appId": "com.sisuhealthgroup.app",
+    "title": "SiSU Health Mobile App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.79,
+    "installs": 50000,
+    "domains": [
+      "sisuhealthgroup.com"
+    ]
+  },
+  {
+    "appId": "homeworkoutapp.homeworkout.fitness.workout.loseweight",
+    "title": "Home Workout App: Fitness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.81,
+    "installs": 5000000,
+    "domains": [
+      "ezhealth.app"
+    ]
+  },
+  {
+    "appId": "daily.planner.routine.habits",
+    "title": "Me+ Lifestyle Routine",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8126235,
+    "installs": 10000000,
+    "domains": [
+      "enerjoy.life"
+    ]
+  },
+  {
+    "appId": "com.healthapplines.android.stepcounter",
+    "title": "Step Counter - Pedometer & BMI",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.5555553,
+    "installs": 1000000,
+    "domains": [
+      "healthapplines.com"
+    ]
+  },
+  {
+    "appId": "swiftflyers.weightloss.workout.athome",
+    "title": "Home Workout for Women",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.857143,
+    "installs": 1000000,
+    "domains": [
+      "appsdevlab.com",
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "com.lifefitness.connect",
+    "title": "Life Fitness Connect App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.310811,
+    "installs": 100000,
+    "domains": [
+      "halo.fitness",
+      "lfconnect.com"
+    ]
+  },
+  {
+    "appId": "com.snorelab.app",
+    "title": "SnoreLab : Record Your Snoring",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.557971,
+    "installs": 5000000,
+    "domains": [
+      "snorelab.com"
+    ]
+  },
+  {
+    "appId": "heartrate.heartratemonitor.bloodpressure",
+    "title": "Heart Rate: Blood Pressure App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.233333,
+    "installs": 1000000,
+    "domains": [
+      "zankhana.ltd"
+    ]
+  },
+  {
+    "appId": "women.workout.female.fitness",
+    "title": "Workout for Women: Fit at Home",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8095236,
+    "installs": 50000000,
+    "domains": [
+      "leap.app",
+      "z.leap.app"
+    ]
+  },
+  {
+    "appId": "com.humansolutions.toiletmap",
+    "title": "National Public Toilet Map",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.5742574,
+    "installs": 50000,
+    "domains": [
+      "toiletmap.gov.au"
+    ]
+  },
+  {
+    "appId": "com.groundspeak.geocaching.intro",
+    "title": "Geocaching\u00ae",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.754658,
+    "installs": 10000000,
+    "domains": [
+      "geocaching.com"
+    ]
+  },
+  {
+    "appId": "vc.eucalyptus.juniper",
+    "title": "Juniper \u2013 Women\u2019s Weight Loss",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.1794872,
+    "installs": 50000,
+    "domains": [
+      "myjuniper.com"
+    ]
+  },
+  {
+    "appId": "org.au.funraisin.onefootforward",
+    "title": "One Foot Forward",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.3333333,
+    "installs": 5000,
+    "domains": [
+      "onefootforward.org.au"
+    ]
+  },
+  {
+    "appId": "com.ovumai.ovum",
+    "title": "Ovum: AI Health Journal",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "askovum.com"
+    ]
+  },
+  {
+    "appId": "com.blood.sugar.monitor",
+    "title": "Blood Pressure & Sugar:Track",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.9726028,
+    "installs": 10000000,
+    "domains": [
+      "sites.google.com",
+      "zapps-studio.com"
+    ]
+  },
+  {
+    "appId": "com.welltastic.healthtrack.pressure",
+    "title": "Health View",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": null,
+    "installs": 100000,
+    "domains": [
+      "elltastic-app.com"
+    ]
+  },
+  {
+    "appId": "com.nike.plusgps",
+    "title": "Nike Run Club - Running Coach",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.2854033,
+    "installs": 50000000,
+    "domains": [
+      "nike.com"
+    ]
+  },
+  {
+    "appId": "com.fatsecret.android",
+    "title": "Calorie Counter by fatsecret",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7,
+    "installs": 50000000,
+    "domains": [
+      "fatsecret.com"
+    ]
+  },
+  {
+    "appId": "life.simple",
+    "title": "Simple: Weight Loss Coach",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.578199,
+    "installs": 5000000,
+    "domains": [
+      "simple.life"
+    ]
+  },
+  {
+    "appId": "jawline.exercises.slim.face.yoga",
+    "title": "Jawline Exercises - Face Yoga",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.73,
+    "installs": 10000000,
+    "domains": [
+      "simpledesign.ltd"
+    ]
+  },
+  {
+    "appId": "com.elevatelabs.geonosis",
+    "title": "Balance: Meditation & Sleep",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7172413,
+    "installs": 1000000,
+    "domains": [
+      "balanceapp.com"
+    ]
+  },
+  {
+    "appId": "com.nike.ntc",
+    "title": "Nike Training Club",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.3626375,
+    "installs": 10000000,
+    "domains": [
+      "nike.com"
+    ]
+  },
+  {
+    "appId": "com.northcube.sleepcycle",
+    "title": "Sleep Cycle: Sleep Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.2894735,
+    "installs": 10000000,
+    "domains": [
+      "sleepcycle.com",
+      "support.sleepcycle.com"
+    ]
+  },
+  {
+    "appId": "reverse.health.app",
+    "title": "RH: Weight Loss and Fitness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.147059,
+    "installs": 100000,
+    "domains": [
+      "eu.reverse.health",
+      "reverse.health"
+    ]
+  },
+  {
+    "appId": "loseweight.weightloss.workout.fitness",
+    "title": "Lose Weight - Weight Loss App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.855967,
+    "installs": 100000000,
+    "domains": [
+      "simpledesign.ltd"
+    ]
+  },
+  {
+    "appId": "com.visionwizard.eatwise",
+    "title": "Eatwise AI: Calorie Counter",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.34,
+    "installs": 1000000,
+    "domains": [
+      "static.eatwiseai.app",
+      "storage.googleapis.com",
+      "visionwizard.co"
+    ]
+  },
+  {
+    "appId": "com.veepoo.hband",
+    "title": "H Band",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.47,
+    "installs": 5000000,
+    "domains": [
+      "vphband.com"
+    ]
+  },
+  {
+    "appId": "me.rtrt.app.irma",
+    "title": "IRONMAN Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7222223,
+    "installs": 1000000,
+    "domains": [
+      "rtrt.me"
+    ]
+  },
+  {
+    "appId": "com.hapana.strongpilates",
+    "title": "STRONG Pilates",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.7692308,
+    "installs": 10000,
+    "domains": [
+      "hapana.com",
+      "strongpilates.com.au"
+    ]
+  },
+  {
+    "appId": "com.gymbros.app",
+    "title": "Liftoff - Ranked Gym Workouts",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8,
+    "installs": 500000,
+    "domains": [
+      "getgymbros.com",
+      "info.getgymbros.com"
+    ]
+  },
+  {
+    "appId": "de.komoot.android",
+    "title": "komoot - hike, bike & run",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.46,
+    "installs": 10000000,
+    "domains": [
+      "komoot.com"
+    ]
+  },
+  {
+    "appId": "io.strongapp.strong",
+    "title": "Strong Workout Tracker Gym Log",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.300518,
+    "installs": 1000000,
+    "domains": [
+      "strong.app"
+    ]
+  },
+  {
+    "appId": "sixpack.sixpackabs.absworkout",
+    "title": "Six Pack in 30 Days",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.94491,
+    "installs": 100000000,
+    "domains": [
+      "leap.app",
+      "z.leap.app"
+    ]
+  },
+  {
+    "appId": "com.clearblue.alaska",
+    "title": "Period & Cycle Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.8181818,
+    "installs": 100000,
+    "domains": [
+      "clearblue.com"
+    ]
+  },
+  {
+    "appId": "com.pg.oralb.oralbapp",
+    "title": "Oral-B",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.5384617,
+    "installs": 5000000,
+    "domains": [
+      "pg.com",
+      "privacypolicy.pg.com"
+    ]
+  },
+  {
+    "appId": "gymworkout.gym.gymlog.gymtrainer",
+    "title": "Gym Workout Tracker: Gym Log",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.9305553,
+    "installs": 10000000,
+    "domains": [
+      "leap.app",
+      "z.leap.app"
+    ]
+  },
+  {
+    "appId": "com.whoop.android",
+    "title": "WHOOP",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3,
+    "installs": 500000,
+    "domains": [
+      "hoop.com"
+    ]
+  },
+  {
+    "appId": "com.interval.timer.workout.tabata.hiit.free",
+    "title": "Interval Timer & Tabata Timer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.767123,
+    "installs": 1000000,
+    "domains": [
+      "simpleinnovation.us"
+    ]
+  },
+  {
+    "appId": "com.mnogogames.zenquiz",
+    "title": "Antistress trivia - Zen Quiz",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.647059,
+    "installs": 500000,
+    "domains": [
+      "zenquiz.mnogoteams.com"
+    ]
+  },
+  {
+    "appId": "cc.dreamspark.intervaltimer",
+    "title": "Interval Timer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.95114,
+    "installs": 10000000,
+    "domains": [
+      "beasting.app"
+    ]
+  },
+  {
+    "appId": "com.withings.wiscale2",
+    "title": "Withings",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.3905883,
+    "installs": 5000000,
+    "domains": [
+      "ithings.com"
+    ]
+  },
+  {
+    "appId": "com.cactus.steptracker.walk",
+    "title": "Step Tracker - Walk & Run",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": null,
+    "installs": 50000,
+    "domains": [
+      "cactus-bp.com",
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "com.tuan.cash.pace",
+    "title": "Cash Pace",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 0,
+    "installs": 50000,
+    "domains": [
+      "cashiepace.com",
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "com.sidekick.app.sobersidekick",
+    "title": "Sober Sidekick: Quit Addiction",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.78,
+    "installs": 500000,
+    "domains": [
+      "app.termly.io",
+      "sobersidekick.com"
+    ]
+  },
+  {
+    "appId": "com.winwalk.android",
+    "title": "winwalk - it pays to walk",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.34,
+    "installs": 1000000,
+    "domains": [
+      "inwalk.app"
+    ]
+  },
+  {
+    "appId": "com.runtastic.android",
+    "title": "adidas Running: Run Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.60989,
+    "installs": 50000000,
+    "domains": [
+      "help.runtastic.com",
+      "runtastic.com"
+    ]
+  },
+  {
+    "appId": "breastenlarger.bodyeditor.photoeditor",
+    "title": "Face & Body Editor - FixPlus",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.62,
+    "installs": 50000000,
+    "domains": [
+      "inshot.app",
+      "inshot.cc"
+    ]
+  },
+  {
+    "appId": "com.claytonindustries.parkrun",
+    "title": "5K parkrunner results",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.88,
+    "installs": 100000,
+    "domains": [
+      "claytoninds.com"
+    ]
+  },
+  {
+    "appId": "com.endel.endel",
+    "title": "Endel: Focus, Relax & Sleep",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.35,
+    "installs": 1000000,
+    "domains": [
+      "endel.io",
+      "endel.zendesk.com"
+    ]
+  },
+  {
+    "appId": "com.yc.gloryfitpro",
+    "title": "GloryFitPro",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.24,
+    "installs": 1000000,
+    "domains": [
+      "app.uteasy.com"
+    ]
+  },
+  {
+    "appId": "com.simplyswim.app",
+    "title": "SimplyPortal",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 0,
+    "installs": 10000,
+    "domains": [
+      "simplyswim.com.au"
+    ]
+  },
+  {
+    "appId": "relax.sleep.relaxation.sleepingsounds",
+    "title": "Sleep Sounds - relaxing sounds",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.82266,
+    "installs": 5000000,
+    "domains": [
+      "htmlpreview.github.io",
+      "sleepsoundsapp.xyz"
+    ]
+  },
+  {
+    "appId": "heartrate.heartratemonitor.heartrateapp.heartratetracker",
+    "title": "Heart Rate: Heart Rate Monitor",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.72,
+    "installs": 1000000,
+    "domains": [
+      "leap.app"
+    ]
+  },
+  {
+    "appId": "com.vita.track.health",
+    "title": "VitaTrack-Focus on Your Health",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 0,
+    "installs": 100000,
+    "domains": [
+      "chatmateapp.com",
+      "vitatrack.chatmateapp.com"
+    ]
+  },
+  {
+    "appId": "com.tomsmucenieks.asimplevibrator",
+    "title": "Vibrator: Strong Vibration App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.3207545,
+    "installs": 1000000,
+    "domains": [
+      "xtactic.net"
+    ]
+  },
+  {
+    "appId": "com.easyfastapp.app",
+    "title": "Easy Fast Intermittent Fasting",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.98,
+    "installs": 500000,
+    "domains": [
+      "easyfastapp.com"
+    ]
+  },
+  {
+    "appId": "au.com.hireup.app",
+    "title": "Hireup - NDIS provider",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.7763977,
+    "installs": 10000,
+    "domains": [
+      "hireup.com.au"
+    ]
+  },
+  {
+    "appId": "co.justimagine.rosebud",
+    "title": "Rosebud: AI Journal & Diary",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.786667,
+    "installs": 50000,
+    "domains": [
+      "help.rosebud.app",
+      "rosebud.app"
+    ]
+  },
+  {
+    "appId": "ie.zappy.fennec.oneapp_glofox",
+    "title": "Glofox",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.54,
+    "installs": 500000,
+    "domains": [
+      "glofox.com"
+    ]
+  },
+  {
+    "appId": "com.samwood28",
+    "title": "28 by Sam Wood",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.5931034,
+    "installs": 50000,
+    "domains": [
+      "28bysamwood.com"
+    ]
+  },
+  {
+    "appId": "com.theprojectfactory.quitbuddy",
+    "title": "My QuitBuddy",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.44,
+    "installs": 100000,
+    "domains": [
+      "health.gov.au",
+      "quitnow.gov.au"
+    ]
+  },
+  {
+    "appId": "steptracker.healthandfitness.walkingtracker.pedometer",
+    "title": "Step Tracker - Pedometer",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.780488,
+    "installs": 50000000,
+    "domains": [
+      "leap.app",
+      "z.leap.app"
+    ]
+  },
+  {
+    "appId": "au.org.blackdoginstitute.tt",
+    "title": "ClearlyMe\u00ae",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.72,
+    "installs": 10000,
+    "domains": [
+      "blackdoginstitute.org.au"
+    ]
+  },
+  {
+    "appId": "com.rkperiodtracker.womancalendar",
+    "title": "Period Tracker & Pregnancy",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": null,
+    "installs": 100000,
+    "domains": [
+      "freeprivacypolicy.com",
+      "zizagift.com"
+    ]
+  },
+  {
+    "appId": "com.garmin.android.apps.vivokid",
+    "title": "Garmin Jr.\u2122",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.4238095,
+    "installs": 1000000,
+    "domains": [
+      "garmin.com",
+      "garmin.com.en-us"
+    ]
+  },
+  {
+    "appId": "com.cardio.me.blood.pressure",
+    "title": "CardioMe - Heart Rate Monitor",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": null,
+    "installs": 500000,
+    "domains": [
+      "cardiome.matrixmobile.net",
+      "mate.matrixmobile.net"
+    ]
+  },
+  {
+    "appId": "au.org.healthhub.Android",
+    "title": "Health Hub",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.3454545,
+    "installs": 10000,
+    "domains": [
+      "health-hub.org.au",
+      "thewomens.org.au"
+    ]
+  },
+  {
+    "appId": "app.harna.android",
+    "title": "HARNA: Workout & Fitness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.68,
+    "installs": 100000,
+    "domains": [
+      "harnafit.com"
+    ]
+  },
+  {
+    "appId": "com.weward",
+    "title": "WeWard - Walk & Earn Rewards",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.5049505,
+    "installs": 10000000,
+    "domains": [
+      "eward.fr",
+      "ewardapp.com"
+    ]
+  },
+  {
+    "appId": "com.clubworx.production",
+    "title": "Clubworx",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.6666667,
+    "installs": 10000,
+    "domains": [
+      "clubworx.com"
+    ]
+  },
+  {
+    "appId": "com.hrd.iam",
+    "title": "I am - Daily affirmations",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.77044,
+    "installs": 5000000,
+    "domains": [
+      "iamaffirmations.app",
+      "monkeytaps.net"
+    ]
+  },
+  {
+    "appId": "com.technogym.mywellness.fernwood",
+    "title": "Fernwood Fitness",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.93,
+    "installs": 50000,
+    "domains": [
+      "fernwoodfitness.com.au"
+    ]
+  },
+  {
+    "appId": "com.getmosh.app",
+    "title": "Mosh",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.5714285,
+    "installs": 5000,
+    "domains": [
+      "getmosh.com.au"
+    ]
+  },
+  {
+    "appId": "com.Tropic.tai_chi_workout",
+    "title": "Tai Chi & Chair Yoga at Home",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 0,
+    "installs": 10000,
+    "domains": [
+      "tropicinnovation.com"
+    ]
+  },
+  {
+    "appId": "com.goodsam.responder",
+    "title": "GoodSAM Responder",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.732673,
+    "installs": 100000,
+    "domains": [
+      "goodsamapp.org"
+    ]
+  },
+  {
+    "appId": "com.fiton.android",
+    "title": "FitOn Workouts & Fitness Plans",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.435185,
+    "installs": 5000000,
+    "domains": [
+      "app.fitonapp.com",
+      "fitonapp.com"
+    ]
+  },
+  {
+    "appId": "com.wachanga.womancalendar",
+    "title": "Clover\uff0dPeriod & Cycle Tracker",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.23,
+    "installs": 5000000,
+    "domains": [
+      "achanga.com"
+    ]
+  },
+  {
+    "appId": "com.blood.pressure.bptracker",
+    "title": "Blood Pressure App: BP Monitor",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 3.4761906,
+    "installs": 10000000,
+    "domains": [
+      "sites.google.com",
+      "zapps-studio.com"
+    ]
+  },
+  {
+    "appId": "loseweightapp.loseweightappforwomen.womenworkoutathome",
+    "title": "Lose Weight App for Women",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.8798075,
+    "installs": 100000000,
+    "domains": [
+      "leap.app",
+      "z.leap.app"
+    ]
+  },
+  {
+    "appId": "app.feelsy",
+    "title": "Feelsy: Stress Anxiety Relief",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.0879397,
+    "installs": 10000000,
+    "domains": [
+      "heavyplumbapps.com"
+    ]
+  },
+  {
+    "appId": "au.com.hotdoc.android.hotdoc",
+    "title": "HotDoc",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.5841975,
+    "installs": 1000000,
+    "domains": [
+      "hotdoc.com.au"
+    ]
+  },
+  {
+    "appId": "com.au.updoc",
+    "title": "Updoc - Same-day Healthcare",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.513089,
+    "installs": 100000,
+    "domains": [
+      "updoc.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.cwretailservices.cwapp",
+    "title": "The Chemist Warehouse App",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.5922747,
+    "installs": 500000,
+    "domains": [
+      "chemistwarehouse.com.au",
+      "cwapp.mychemist.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.twcmhealth.app",
+    "title": "Terry White",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.7917504,
+    "installs": 100000,
+    "domains": [
+      "terrywhitechemmart.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.donateblood.donorapp.prod",
+    "title": "Lifeblood",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.893793,
+    "installs": 100000,
+    "domains": [
+      "lifeblood.com.au",
+      "my.donateblood.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.qxr.patient.droid",
+    "title": "QXR Patient Portal",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.14,
+    "installs": 100000,
+    "domains": [
+      "patient.qldxray.com.au"
+    ]
+  },
+  {
+    "appId": "com.packapill.app",
+    "title": "Hola: GP Telehealth in 15 mins",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.36,
+    "installs": 50000,
+    "domains": [
+      "hola.health",
+      "packapill.com"
+    ]
+  },
+  {
+    "appId": "au.com.instant",
+    "title": "InstantScripts",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.39011,
+    "installs": 100000,
+    "domains": [
+      "instantscripts.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.sicky.prod",
+    "title": "Sicky: Medical Certificate",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.990099,
+    "installs": 100000,
+    "domains": [
+      "sicky.com.au"
+    ]
+  },
+  {
+    "appId": "com.automedsystems.AMSConnect",
+    "title": "AMS Connect",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.6902175,
+    "installs": 100000,
+    "domains": [
+      "automedsystems.com.au"
+    ]
+  },
+  {
+    "appId": "medadvisor.main",
+    "title": "MedAdvisor Medication Tracker",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.0316343,
+    "installs": 100000,
+    "domains": [
+      "mymedadvisor.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.zedlink.au.prp.patient.android",
+    "title": "myPRP",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.15,
+    "installs": 100000,
+    "domains": [
+      "myprp.prpimaging.com.au",
+      "prpimaging.com.au"
+    ]
+  },
+  {
+    "appId": "com.qas.frg.x2015",
+    "title": "QAS FRG",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 100,
+    "domains": [
+      "ambulance.qld.gov.au",
+      "health.qld.gov.au"
+    ]
+  },
+  {
+    "appId": "com.instantconsult",
+    "title": "Instant Consult: #1 Telehealth",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.7620816,
+    "installs": 100000,
+    "domains": [
+      "instantconsult.com.au"
+    ]
+  },
+  {
+    "appId": "com.resmed.myair",
+    "title": "myAir\u2122 by Resmed",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.990196,
+    "installs": 1000000,
+    "domains": [
+      "myair.resmed.com",
+      "resmed.com"
+    ]
+  },
+  {
+    "appId": "com.oticon.app",
+    "title": "Oticon Companion",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.76,
+    "installs": 1000000,
+    "domains": [
+      "oticon.com",
+      "oticon.global"
+    ]
+  },
+  {
+    "appId": "au.com.stjohnambulance.stjohnappprod",
+    "title": "St John: First Responder",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.25,
+    "installs": 100000,
+    "domains": [
+      "stjohnambulance.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.hotdoc.android.primary",
+    "title": "ForHealth",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.2777777,
+    "installs": 100000,
+    "domains": [
+      "hotdoc.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.visionradiology.patient.droid",
+    "title": "Vision Radiology",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.117647,
+    "installs": 10000,
+    "domains": [
+      "patient.visionradiology.com.au",
+      "visionradiology.com.au"
+    ]
+  },
+  {
+    "appId": "com.zeroapp.bloodpresshelp.app",
+    "title": "Dr. Blood Pressure: Diabetes",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.6666667,
+    "installs": 1000000,
+    "domains": [
+      "healthcast.app",
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.iq.patient.droid",
+    "title": "IQ VUE",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.1973684,
+    "installs": 50000,
+    "domains": [
+      "imagingqueensland.com.au",
+      "iqvue.com.au"
+    ]
+  },
+  {
+    "appId": "com.gnhearing.hearingau",
+    "title": "Hearing Australia",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.5,
+    "installs": 10000,
+    "domains": [
+      "hearing.com.au"
+    ]
+  },
+  {
+    "appId": "com.gnhearing.gnbemore",
+    "title": "BeMore",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.12,
+    "installs": 100000,
+    "domains": [
+      "gnhearing.com",
+      "go.gn.com"
+    ]
+  },
+  {
+    "appId": "com.h2sync.android.h2syncapp",
+    "title": "Health2Sync - Diabetes Tracker",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.5625,
+    "installs": 1000000,
+    "domains": [
+      "health2sync.com",
+      "health2sync.com.",
+      "jmir.org",
+      "mhealth.jmir.org"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.iag.patient.droid",
+    "title": "IA X-rays",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.081967,
+    "installs": 100000,
+    "domains": [
+      "images.imagingassociates.net.au",
+      "imagingassociates.net.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.mygda.patient.droid",
+    "title": "myRad",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.96,
+    "installs": 50000,
+    "domains": [
+      "integraldiagnostics.com.au"
+    ]
+  },
+  {
+    "appId": "au.org.beyondblue.beyondnow",
+    "title": "Beyond Now suicide safety plan",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.26,
+    "installs": 50000,
+    "domains": [
+      "lifeline.org.au"
+    ]
+  },
+  {
+    "appId": "com.sonova.phonak.dsapp",
+    "title": "myPhonak",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.099099,
+    "installs": 1000000,
+    "domains": [
+      "phonak.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.lake.patient.droid",
+    "title": "Lake Images",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.24,
+    "installs": 50000,
+    "domains": [
+      "integraldiagnostics.com.au",
+      "lakeimaging.com.au"
+    ]
+  },
+  {
+    "appId": "au.gov.act.health.mydhr",
+    "title": "MyDHR",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.2277226,
+    "installs": 10000,
+    "domains": [
+      "act.gov.au",
+      "health.act.gov.au"
+    ]
+  },
+  {
+    "appId": "com.ausmed.app.cpdo",
+    "title": "Ausmed - CE Portfolio App",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.537037,
+    "installs": 100000,
+    "domains": [
+      "ausmed.co.uk",
+      "ausmed.com"
+    ]
+  },
+  {
+    "appId": "com.lbrc.PeriodCalendar",
+    "title": "Period Tracker and Calendar",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.9014087,
+    "installs": 10000000,
+    "domains": [
+      "facebook.com",
+      "period-tracker.com",
+      "simpleinnovation.us",
+      "twitter.com"
+    ]
+  },
+  {
+    "appId": "com.sonova.vista.rcapp",
+    "title": "Hearing Remote",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.287129,
+    "installs": 500000,
+    "domains": [
+      "d-dx.aurafitphone.com",
+      "vistahearingsolutions.com"
+    ]
+  },
+  {
+    "appId": "dk.resound.smart3d",
+    "title": "ReSound Smart 3D",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4051723,
+    "installs": 1000000,
+    "domains": [
+      "resound.com"
+    ]
+  },
+  {
+    "appId": "com.resmed.airmini",
+    "title": "AirMini\u2122 by ResMed",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 2.94,
+    "installs": 100000,
+    "domains": [
+      "resmed.com"
+    ]
+  },
+  {
+    "appId": "com.ascensia.contour.au",
+    "title": "CONTOUR DIABETES app (AU)",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.68,
+    "installs": 50000,
+    "domains": [
+      "contourcloudasia.ascensia.com",
+      "diabetes.ascensia.com"
+    ]
+  },
+  {
+    "appId": "com.ronasoftstudios.earmaxfxpro",
+    "title": "Microphone Amplifier",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.5789473,
+    "installs": 5000000,
+    "domains": [
+      "dosaapps.com"
+    ]
+  },
+  {
+    "appId": "com.mysugr.android.companion",
+    "title": "mySugr - Diabetes Tracker Log",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.684874,
+    "installs": 5000000,
+    "domains": [
+      "legal.mysugr.com",
+      "mysugr.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.skg.patient.droid",
+    "title": "SKG Radiology Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.8428571,
+    "installs": 10000,
+    "domains": [
+      "skg.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.hotdoc.android.healthscope",
+    "title": "Partnered Health",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.45,
+    "installs": 50000,
+    "domains": [
+      "hotdoc.com.au"
+    ]
+  },
+  {
+    "appId": "com.amplifon.mdapp",
+    "title": "Amplifon",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.16,
+    "installs": 500000,
+    "domains": [
+      "amplifon.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.radtas.patient.droid",
+    "title": "Radiology Tasmania Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.857143,
+    "installs": 5000,
+    "domains": [
+      "integraldiagnostics.com.au"
+    ]
+  },
+  {
+    "appId": "org.nativescript.LibreLinkUp",
+    "title": "LibreLinkUp",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.64,
+    "installs": 1000000,
+    "domains": [
+      "files.libreview.io",
+      "librelinkup.com"
+    ]
+  },
+  {
+    "appId": "com.earcare.apps.hearingaid",
+    "title": "Hearing Aid App for Android",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.7272727,
+    "installs": 500000,
+    "domains": [
+      "firehawk.ai"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.zedlink.alfredmedicalimaging.patient.android",
+    "title": "Alfred Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.7096775,
+    "installs": 10000,
+    "domains": [
+      "alfredimaging.com.au",
+      "patients.alfredimaging.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.hamrad.patient.droid",
+    "title": "I-MED MyImages",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 10000,
+    "domains": [
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.stemzhealthcare.qmc_app",
+    "title": "QMC",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": null,
+    "installs": 100000,
+    "domains": [
+      "qatarmedicalcenter.com"
+    ]
+  },
+  {
+    "appId": "com.AnatomyLearning.Anatomy3DViewer3",
+    "title": "Anatomy Learning - 3D Anatomy",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.5,
+    "installs": 10000000,
+    "domains": [
+      "anatomylearning.com"
+    ]
+  },
+  {
+    "appId": "com.sonova.unitron.rcapp",
+    "title": "Unitron Remote Plus",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.46,
+    "installs": 100000,
+    "domains": [
+      "unitron.com"
+    ]
+  },
+  {
+    "appId": "com.azaknordive.body.temperature.tracker.thermometer.fever.checker.diary.history.info.monitor.records.calc.hypo",
+    "title": "Body Temperature Fever Tracker",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.5,
+    "installs": 500000,
+    "domains": [
+      "useprometheus.app"
+    ]
+  },
+  {
+    "appId": "com.bluefish.bloodpressure",
+    "title": "Blood Pressure Diary",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.7058825,
+    "installs": 1000000,
+    "domains": [
+      "sites.google.com",
+      "smartailab.blogspot.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.hr.patient.droid",
+    "title": "Harbour Radiology Portal",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.142857,
+    "installs": 5000,
+    "domains": [
+      "patient.harbour-radiology.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.primemedic",
+    "title": "Prime Medic - Online Clinic",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.1,
+    "installs": 10000,
+    "domains": [
+      "primemedic.com.au"
+    ]
+  },
+  {
+    "appId": "com.rubytribe.skinvision.ac",
+    "title": "SkinVision - Find Skin Cancer",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.02,
+    "installs": 1000000,
+    "domains": [
+      "facebook.com",
+      "instagram.com",
+      "skinvision-static-content.s3-eu-west-1.amazonaws.com",
+      "skinvision.com",
+      "twitter.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.iop.patient.droid",
+    "title": "IOP Patient Portal",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 5000,
+    "domains": [
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.minerva_medical.minerva",
+    "title": "Full Code Medical Simulation",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.465909,
+    "installs": 1000000,
+    "domains": [
+      "fullcodemedical.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.sonic.higpatient",
+    "title": "HIG Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.6153846,
+    "installs": 10000,
+    "domains": [
+      "patient.hunterimaging.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.alpenglow.patient.android",
+    "title": "Alpenglow Patient Results",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.5882354,
+    "installs": 10000,
+    "domains": [
+      "qscangroup.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.radiologygroup.patient.droid",
+    "title": "Radiology Group Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.78125,
+    "installs": 10000,
+    "domains": [
+      "radiologygroup.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "eu.smartpatient.mytherapy",
+    "title": "Meds & Pill Reminder MyTherapy",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.746479,
+    "installs": 5000000,
+    "domains": [
+      "legal.mytherapyapp.com",
+      "mytherapyapp.com"
+    ]
+  },
+  {
+    "appId": "au.com.hotdoc.android.ochre",
+    "title": "Ochre Health",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.45,
+    "installs": 50000,
+    "domains": [
+      "hotdoc.com.au",
+      "ochrehealth.com.au"
+    ]
+  },
+  {
+    "appId": "com.ins.smarthomemini",
+    "title": "INS LifeGuardian",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4444447,
+    "installs": 1000,
+    "domains": [
+      "inslifeguard.com.au",
+      "theinsgroup.com.au"
+    ]
+  },
+  {
+    "appId": "directchemistoutlet.main",
+    "title": "Direct Chemist Outlet",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.8070176,
+    "installs": 10000,
+    "domains": [
+      "medadvisor.com.au",
+      "mymedadvisor.com"
+    ]
+  },
+  {
+    "appId": "com.dental.d99.d99",
+    "title": "Dental 99",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.95098,
+    "installs": 50000,
+    "domains": [
+      "dental99.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.radius.patient.droid",
+    "title": "My RADIUS Images",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "patient.radiusimaging.com.au",
+      "radius.zed.link",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.blood.sugar.tracker.glucometer.Diary.test.diabetes.checker.info.glucose.convert.logger.health.fitness.monitor.history",
+    "title": "Blood Sugar Diary for Diabetes",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.9444444,
+    "installs": 1000000,
+    "domains": [
+      "cardsapp.com"
+    ]
+  },
+  {
+    "appId": "com.superhearing.soundamplifier",
+    "title": "Hearing from Distance: Spy Ear",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.0434785,
+    "installs": 100000,
+    "domains": [
+      "alletpasses.me"
+    ]
+  },
+  {
+    "appId": "ai.mxlabs.heartmonitor",
+    "title": "Heart Monitor: Measure BP & HR",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.075,
+    "installs": 100000,
+    "domains": [
+      "mxlabs.ai",
+      "shen.ai"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.cig.patient.droid",
+    "title": "CIG MyResults",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.3235295,
+    "installs": 10000,
+    "domains": [
+      "canberraimaging.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.hotdoc.android.bettermedical",
+    "title": "Better Medical",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.6666665,
+    "installs": 10000,
+    "domains": [
+      "bettermedical.com.au",
+      "hotdoc.com.au"
+    ]
+  },
+  {
+    "appId": "org.au.medcann",
+    "title": "MiCann",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.054054,
+    "installs": 5000,
+    "domains": [
+      "cannihelp.com.au",
+      "medcanaustralia.com.au"
+    ]
+  },
+  {
+    "appId": "com.sixoversix.copyglass",
+    "title": "GlassesOn | Pupils & Lenses",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.7,
+    "installs": 500000,
+    "domains": [
+      "6over6.com",
+      "luna.io"
+    ]
+  },
+  {
+    "appId": "com.doctorsondemand.app",
+    "title": "Doctors on Demand Australia",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3,
+    "installs": 10000,
+    "domains": [
+      "doctorsondemand.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.rhsrk.patient.droid",
+    "title": "Specialist Radiology Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "patient.specradkingswood.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "amcal.pharmacy.main",
+    "title": "Amcal Pharmacy",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.52,
+    "installs": 10000,
+    "domains": [
+      "medadvisor.com.au",
+      "mymedadvisor.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.medscan.patient.droid",
+    "title": "Medscan Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.2682927,
+    "installs": 10000,
+    "domains": [
+      "patient.medscan.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.rayswellness.app",
+    "title": "Rays Wellness",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.8888888,
+    "installs": 1000,
+    "domains": [
+      "rayswellness.com.au"
+    ]
+  },
+  {
+    "appId": "com.viveogroup.firstaidkitselectronicguide",
+    "title": "First Aid",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.571429,
+    "installs": 10000,
+    "domains": [
+      "firstaidkitsaustralia.com.au"
+    ]
+  },
+  {
+    "appId": "com.boehringer.PetHealthPassportAU",
+    "title": "Pet Health Passport",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3,
+    "installs": 5000,
+    "domains": [
+      "boehringer-ingelheim.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.ser.patient.droid",
+    "title": "SER Patient Results",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 2.925926,
+    "installs": 10000,
+    "domains": [
+      "qscangroup.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.hotdoc.android.jupiterhealth",
+    "title": "Jupiter Health",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4666667,
+    "installs": 10000,
+    "domains": [
+      "hotdoc.com.au",
+      "jupiterhealthservices.com.au"
+    ]
+  },
+  {
+    "appId": "com.chemist2u.app",
+    "title": "Chemist2U - Pharmacy Delivery",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.01,
+    "installs": 10000,
+    "domains": [
+      "chemist2u.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.sonic.caspatient",
+    "title": "CAS Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.707317,
+    "installs": 10000,
+    "domains": [
+      "casimaging.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.zedlink.garran.patient.droid",
+    "title": "Garran Medical Imaging Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "patient.garranmedicalimaging.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.radiant.patient.droid",
+    "title": "Radiant Radiology Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 10000,
+    "domains": [
+      "radiantradiology.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "net.medicarebduser.app",
+    "title": "Medicare",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "medicarebd.net",
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "com.DevExtras.VoiceTools",
+    "title": "Voice Tools",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.724138,
+    "installs": 500000,
+    "domains": [
+      "devextras.com"
+    ]
+  },
+  {
+    "appId": "co.oexa.scripty.app",
+    "title": "Scripty",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4716983,
+    "installs": 5000,
+    "domains": [
+      "getscripty.app"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.DDRPatientAccess",
+    "title": "DDR iVue",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.642857,
+    "installs": 10000,
+    "domains": [
+      "ddrivue.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.superscan.patient.droid",
+    "title": "Superscan Patient Portal",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.3333335,
+    "installs": 1000,
+    "domains": [
+      "patients.superscan.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.radx.patient.droid",
+    "title": "Rad X Patient Portal",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "patient.rad-x.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.crystal.patient.droid",
+    "title": "Crystal Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.3333335,
+    "installs": 5000,
+    "domains": [
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "au.org.rch.Android",
+    "title": "My RCH Portal",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.1153846,
+    "installs": 10000,
+    "domains": [
+      "rch.org.au"
+    ]
+  },
+  {
+    "appId": "com.h43.dentalmonitoring",
+    "title": "DentalMonitoring",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.75,
+    "installs": 100000,
+    "domains": [
+      "dental-monitoring.com",
+      "go.dental-monitoring.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.san.patient.droid",
+    "title": "mySRNM Medical Imaging",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "mysrnm.sanradiology.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.bestfuncoolapps.TakeYourPills",
+    "title": "TakeYourPills Pill Reminder",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.64,
+    "installs": 100000,
+    "domains": [
+      "sites.google.com",
+      "takeyourpillsapp.com"
+    ]
+  },
+  {
+    "appId": "com.xtramilesolutions.sistr",
+    "title": "SISTR",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "sistr.com.au"
+    ]
+  },
+  {
+    "appId": "com.alivecor.aliveecg",
+    "title": "Kardia",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.6,
+    "installs": 1000000,
+    "domains": [
+      "alivecor.com"
+    ]
+  },
+  {
+    "appId": "com.healint.migraineapp",
+    "title": "Migraine Buddy: Track Headache",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.79,
+    "installs": 1000000,
+    "domains": [
+      "migrainebuddy.com"
+    ]
+  },
+  {
+    "appId": "com.wsa.connexx.fwupdater",
+    "title": "Connexx myUpdater",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": null,
+    "installs": 1000,
+    "domains": [
+      "sa.com"
+    ]
+  },
+  {
+    "appId": "com.drugscom.app",
+    "title": "Drugs.com Medication Guide",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.66,
+    "installs": 1000000,
+    "domains": [
+      "drugs.com"
+    ]
+  },
+  {
+    "appId": "com.ronasoftstudios.soundmagnifier",
+    "title": "Microphone Amplifier",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.72,
+    "installs": 1000000,
+    "domains": [
+      "firehawk.ai"
+    ]
+  },
+  {
+    "appId": "net.sinovo.mylife.app",
+    "title": "mylife\u2122 App",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.09,
+    "installs": 100000,
+    "domains": [
+      "mylife-diabetescare.com",
+      "mylife-software.net"
+    ]
+  },
+  {
+    "appId": "com.openevidence",
+    "title": "OpenEvidence",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 5,
+    "installs": 100000,
+    "domains": [
+      "openevidence.com"
+    ]
+  },
+  {
+    "appId": "au.com.caringathomeprojectnew.www.pallimeds",
+    "title": "palliMEDS",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.875,
+    "installs": 5000,
+    "domains": [
+      "caringathomeproject.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.caprad.patient.droid",
+    "title": "Capital Rad",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "patient.capitalradiology.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.lh.coblconnect",
+    "title": "COBL Connect",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 100,
+    "domains": [
+      "donate.mylifehouse.org.au",
+      "mylifehouse.org.au"
+    ]
+  },
+  {
+    "appId": "com.skinive.App",
+    "title": "Skin Scanner: Health & Beauty",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.6585367,
+    "installs": 100000,
+    "domains": [
+      "skinive.com"
+    ]
+  },
+  {
+    "appId": "com.automedsystems.oursage",
+    "title": "Our Sage",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.59,
+    "installs": 10000,
+    "domains": [
+      "oursage.com.au"
+    ]
+  },
+  {
+    "appId": "discountDrugStore.main",
+    "title": "Discount Drug Stores",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.597826,
+    "installs": 10000,
+    "domains": [
+      "medadvisor.com.au",
+      "mymedadvisor.com"
+    ]
+  },
+  {
+    "appId": "au.com.caremaster.sostg.worker",
+    "title": "CareMaster Worker",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4059405,
+    "installs": 10000,
+    "domains": [
+      "caremaster.com.au"
+    ]
+  },
+  {
+    "appId": "com.camdiab.fx_alert.mmoll",
+    "title": "CamAPS FX (mmol/L)",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.368421,
+    "installs": 10000,
+    "domains": [
+      "camdiab.com"
+    ]
+  },
+  {
+    "appId": "com.everlab.app",
+    "title": "Everlab",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 500,
+    "domains": [
+      "everlab.com.au"
+    ]
+  },
+  {
+    "appId": "com.aadhk.lite.bptracker",
+    "title": "Blood Pressure Tracker",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.73,
+    "installs": 1000000,
+    "domains": [
+      "androidappshk.com",
+      "support.androidappshk.com"
+    ]
+  },
+  {
+    "appId": "com.portalgroove.bpjournal",
+    "title": "BP Journal: Blood Pressure Log",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.82,
+    "installs": 100000,
+    "domains": [
+      "bpjournal.portalgroove.com"
+    ]
+  },
+  {
+    "appId": "au.com.nationalpharmacies",
+    "title": "National Pharmacies",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.25,
+    "installs": 5000,
+    "domains": [
+      "mymedadvisor.com"
+    ]
+  },
+  {
+    "appId": "com.aligntech.myinvisalign.apac",
+    "title": "My Invisalign",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.12,
+    "installs": 50000,
+    "domains": [
+      "invisalign.co.jp",
+      "invisalign.com"
+    ]
+  },
+  {
+    "appId": "com.beltone.hearmax",
+    "title": "Beltone HearMax",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4,
+    "installs": 100000,
+    "domains": [
+      "beltone.com"
+    ]
+  },
+  {
+    "appId": "ai.thedeep.droracleandroid",
+    "title": "Dr.Oracle AI Medical Assistant",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 10000,
+    "domains": [
+      "droracle.ai"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.zedlink.nsr.patient.droid",
+    "title": "My NSR",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.7272727,
+    "installs": 5000,
+    "domains": [
+      "patient.northshoreradiology.com.au"
+    ]
+  },
+  {
+    "appId": "au.com.hotdoc.android.skincheckwa",
+    "title": "Skin Check WA",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.0625,
+    "installs": 10000,
+    "domains": [
+      "hotdoc.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.rhr.patient.droid",
+    "title": "RHR Online",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.1666665,
+    "installs": 5000,
+    "domains": [
+      "patient.rousehillradiology.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.mdaware.mdcalc",
+    "title": "MDCalc Medical Calculator",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.81,
+    "installs": 1000000,
+    "domains": [
+      "mdcalc.com"
+    ]
+  },
+  {
+    "appId": "com.ypsomed.ypu.demo",
+    "title": "YpsoPump Explorer",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 10000,
+    "domains": [
+      "mylife-diabetescare.com"
+    ]
+  },
+  {
+    "appId": "com.moodtools.depressiontest",
+    "title": "Depression Test",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.225806,
+    "installs": 100000,
+    "domains": [
+      "medium.com",
+      "moodtools.org"
+    ]
+  },
+  {
+    "appId": "com.microphone.soundmagnifier",
+    "title": "Super Hearing from Distance",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.0634923,
+    "installs": 500000,
+    "domains": [
+      "dosaapps.com"
+    ]
+  },
+  {
+    "appId": "com.bernafon.bernafonapp",
+    "title": "Bernafon App",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.6666667,
+    "installs": 100000,
+    "domains": [
+      "bernafon.com"
+    ]
+  },
+  {
+    "appId": "com.actegy.app.revitive",
+    "title": "Revitive: Leg Therapy",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.356436,
+    "installs": 10000,
+    "domains": [
+      "revitive.com"
+    ]
+  },
+  {
+    "appId": "com.medela.mymedela.live",
+    "title": "Medela Family - Breast Feeding",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.84,
+    "installs": 500000,
+    "domains": [
+      "medela.com",
+      "shop.medela.co.uk"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.zedlink.fsr.patient.droid",
+    "title": "FSR Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.7333333,
+    "installs": 10000,
+    "domains": [
+      "fsradiology.com.au",
+      "integraldiagnostics.com.au"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.carescan.patient.droid",
+    "title": "myCareScan",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "patients.carescan.com.au",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.naturalcycles.cordova",
+    "title": "Natural Cycles - Birth Control",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.69,
+    "installs": 1000000,
+    "domains": [
+      "naturalcycles.com"
+    ]
+  },
+  {
+    "appId": "com.powerfulmedical.pmcardio",
+    "title": "PMcardio for Individuals",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.6,
+    "installs": 50000,
+    "domains": [
+      "powerfulmedical.com"
+    ]
+  },
+  {
+    "appId": "com.bodytemperatureThermometer.feverRecordsdiary",
+    "title": "Body Temperature Thermometer",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.7142856,
+    "installs": 1000000,
+    "domains": [
+      "interpressurehub.blogspot.com"
+    ]
+  },
+  {
+    "appId": "au.gov.vic.ambulance.cpgpublic",
+    "title": "Clinical Practice Guidelines",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.775,
+    "installs": 10000,
+    "domains": [
+      "ambulance.vic.gov.au"
+    ]
+  },
+  {
+    "appId": "com.lmt.sleeppatientapp",
+    "title": "prisma APP",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.4444444,
+    "installs": 100000,
+    "domains": [
+      "loewensteinmedical.com",
+      "my.prismacloud.com"
+    ]
+  },
+  {
+    "appId": "org.healthybirthday.countthekicks",
+    "title": "Count the Kicks",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.0454545,
+    "installs": 100000,
+    "domains": [
+      "countthekicks.org"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.MRPatientAccess",
+    "title": "MR iVue",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4,
+    "installs": 10000,
+    "domains": [
+      "integraldiagnostics.com.au"
+    ]
+  },
+  {
+    "appId": "mobile.eaudiologia",
+    "title": "Hearing Test",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.62,
+    "installs": 1000000,
+    "domains": [
+      "e-audiologia.pl"
+    ]
+  },
+  {
+    "appId": "app.bpjs.mobile",
+    "title": "Mobile JKN",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.65,
+    "installs": 50000000,
+    "domains": [
+      "bpjs-kesehatan.go.id",
+      "sipp.bpjs-kesehatan.go.id"
+    ]
+  },
+  {
+    "appId": "com.coredancer.huasheng.play",
+    "title": "Baby Kicks - Count the Kicks",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 50000,
+    "domains": [
+      "chocokoko.github.io"
+    ]
+  },
+  {
+    "appId": "com.fphcare.airvo2",
+    "title": "AIRVO 2",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.2222223,
+    "installs": 100000,
+    "domains": [
+      "fphcare.com"
+    ]
+  },
+  {
+    "appId": "au.gov.act.health",
+    "title": "ACT Health",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.1733334,
+    "installs": 10000,
+    "domains": [
+      "health.act.gov.au"
+    ]
+  },
+  {
+    "appId": "com.visiblebody.subscription",
+    "title": "Visible Body Suite",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.3846154,
+    "installs": 100000,
+    "domains": [
+      "visiblebody.com"
+    ]
+  },
+  {
+    "appId": "com.mal92.emergencyprocedures",
+    "title": "Emergency Procedures",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 5000,
+    "domains": [
+      "emergencyprocedures.org"
+    ]
+  },
+  {
+    "appId": "com.a3d4medical.completeanatomy",
+    "title": "Complete Anatomy",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.4117646,
+    "installs": 1000000,
+    "domains": [
+      "3d4medical.com"
+    ]
+  },
+  {
+    "appId": "com.Nuance.Mobility.DMic.Live",
+    "title": "PowerMic Mobile",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 100000,
+    "domains": [
+      "nuance.com"
+    ]
+  },
+  {
+    "appId": "com.apirox.sleeprecorder",
+    "title": "Sleep Tracker & Sleep Recorder",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.8125,
+    "installs": 100000,
+    "domains": [
+      "apirox.com"
+    ]
+  },
+  {
+    "appId": "com.aci.itim.trauma",
+    "title": "NSW Trauma",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.1304348,
+    "installs": 10000,
+    "domains": [
+      "aci.health.nsw.gov.au",
+      "itim.nsw.gov.au"
+    ]
+  },
+  {
+    "appId": "gov.nih.nlm.erg2012",
+    "title": "ERG for Android",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.6,
+    "installs": 1000000,
+    "domains": [
+      "phmsa.dot.gov"
+    ]
+  },
+  {
+    "appId": "au.com.midoc.app15835",
+    "title": "MIDOC",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.65,
+    "installs": 1000,
+    "domains": [
+      "midoc.com.au"
+    ]
+  },
+  {
+    "appId": "com.irwaa.medicareminders",
+    "title": "Medication Reminder & Tracker",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.56,
+    "installs": 100000,
+    "domains": [
+      "medicaapp.com"
+    ]
+  },
+  {
+    "appId": "de.stoehr.loviapps.wezoom",
+    "title": "weZoom Magnifying Glass",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.8,
+    "installs": 100000,
+    "domains": [
+      "loviapps.jimdo.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.zedlink.rvc.quantum.patient.droid",
+    "title": "Quantum Medical Imaging",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "zedtechnologies.com"
+    ]
+  },
+  {
+    "appId": "com.philips.hearlink2",
+    "title": "Philips HearLink 2",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.392857,
+    "installs": 100000,
+    "domains": [
+      "hearingsolutions.philips.com"
+    ]
+  },
+  {
+    "appId": "com.imaios.imaiosdicomviewer",
+    "title": "IDV - IMAIOS DICOM Viewer",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 500000,
+    "domains": [
+      "imaios.com"
+    ]
+  },
+  {
+    "appId": "com.otitismediaguidelines.guidelines",
+    "title": "Otitis Media Guidelines",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.714286,
+    "installs": 1000,
+    "domains": [
+      "app.otitismediaguidelines.com",
+      "otitismediaguidelines.com"
+    ]
+  },
+  {
+    "appId": "com.foodmap",
+    "title": "FODMAP Friendly",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.2857144,
+    "installs": 50000,
+    "domains": [
+      "fodmapfriendly.com"
+    ]
+  },
+  {
+    "appId": "com.lacevo.lacevoApp",
+    "title": "Lacevo +",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 100,
+    "domains": [
+      "lacevo.com",
+      "lacevo.us"
+    ]
+  },
+  {
+    "appId": "com.rch.kidshealth",
+    "title": "Kids Health Info",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4545455,
+    "installs": 10000,
+    "domains": [
+      "rch.org.au"
+    ]
+  },
+  {
+    "appId": "com.tappytaps.android.storky",
+    "title": "Storky - Contraction Timer",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": null,
+    "installs": 10000,
+    "domains": [
+      "getstorky.com",
+      "iubenda.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.nswh.patient.droid",
+    "title": "NSW Health My Medical Imaging",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "zedtechnologies.com",
+      "zedtechnologies.com.au"
+    ]
+  },
+  {
+    "appId": "com.catfishanimationstudio.MuscularSystemLite",
+    "title": "Anatomy 3D Atlas",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.5,
+    "installs": 5000000,
+    "domains": [
+      "anatomy3datlas.com"
+    ]
+  },
+  {
+    "appId": "com.zedtechnologies.sonic.irgpatient",
+    "title": "IRG Patient",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "irg.com.au"
+    ]
+  },
+  {
+    "appId": "org.mywellbeingindex.mywell_beingindex",
+    "title": "My Well-Being Index",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": null,
+    "installs": 10000,
+    "domains": [
+      "app.mywellbeingindex.org",
+      "mywellbeingindex.org"
+    ]
+  },
+  {
+    "appId": "au.com.cp.app",
+    "title": "Chempro Chemists",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.5555556,
+    "installs": 1000,
+    "domains": [
+      "medadvisor.com.au",
+      "mymedadvisor.com"
+    ]
+  },
+  {
+    "appId": "com.mims.elite.prod",
+    "title": "eMIMS Elite",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 1.8,
+    "installs": 1000,
+    "domains": [
+      "app.emims.plus",
+      "mims.com"
+    ]
+  },
+  {
+    "appId": "com.perxhealth.qbe",
+    "title": "MyRecovery",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 100,
+    "domains": [
+      "perxhealth.com"
+    ]
+  },
+  {
+    "appId": "com.phonegap.whichderm",
+    "title": "Model Dermatol \u2013 Skin Disease",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4418607,
+    "installs": 500000,
+    "domains": [
+      "modelderm.com"
+    ]
+  },
+  {
+    "appId": "shop.shop_apotheke.com.shopapotheke",
+    "title": "Shop Apotheke: E-Rezept App",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.866667,
+    "installs": 5000000,
+    "domains": [
+      "shop-apotheke.com"
+    ]
+  },
+  {
+    "appId": "au.org.p6433FJ",
+    "title": "APLS Australia",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4,
+    "installs": 10000,
+    "domains": [
+      "apls.org.au"
+    ]
+  },
+  {
+    "appId": "com.emedici.eMedici",
+    "title": "eMedici Medical Education",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.9315066,
+    "installs": 5000,
+    "domains": [
+      "emedici.com"
+    ]
+  },
+  {
+    "appId": "com.dhf.main",
+    "title": "Doctors Health Fund",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4,
+    "installs": 5000,
+    "domains": [
+      "doctorshealthfund.com.au"
+    ]
+  },
+  {
+    "appId": "fr.doctolib.www",
+    "title": "Doctolib - Your health partner",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.5555553,
+    "installs": 10000000,
+    "domains": [
+      "about.doctolib.fr"
+    ]
+  },
+  {
+    "appId": "com.cochlear.clientremote",
+    "title": "Nucleus Smart",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3,
+    "installs": 100000,
+    "domains": [
+      "cochlear.com",
+      "nucleussmartapp.com"
+    ]
+  },
+  {
+    "appId": "com.smartbloodpressure",
+    "title": "Blood Pressure App - SmartBP",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4,
+    "installs": 1000000,
+    "domains": [
+      "smartbp.app"
+    ]
+  },
+  {
+    "appId": "com.uptodate.android",
+    "title": "UpToDate",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.6981132,
+    "installs": 1000000,
+    "domains": [
+      "uptodate.com"
+    ]
+  },
+  {
+    "appId": "com.sbohearing.remotelink2",
+    "title": "RemoteLink 2",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.3333335,
+    "installs": 100000,
+    "domains": [
+      "sbohearing.com"
+    ]
+  },
+  {
+    "appId": "com.curablehealth.clara",
+    "title": "Curable: Chronic Pain Relief",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.1,
+    "installs": 100000,
+    "domains": [
+      "curablehealth.com",
+      "symptomatic.me"
+    ]
+  },
+  {
+    "appId": "tk.glucodata",
+    "title": "Juggluco",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.8181818,
+    "installs": 50000,
+    "domains": [
+      "juggluco.nl"
+    ]
+  },
+  {
+    "appId": "pk.gov.nadra.nims.certificate",
+    "title": "PAK Covid-19 Vaccination Pass",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.1666665,
+    "installs": 500000,
+    "domains": [
+      "nims.nadra.gov.pk"
+    ]
+  },
+  {
+    "appId": "com.bmc.paplink",
+    "title": "PAP Link",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "testpap3.paplink.com"
+    ]
+  },
+  {
+    "appId": "com.molescope",
+    "title": "MoleScope",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.375,
+    "installs": 10000,
+    "domains": [
+      "metaoptima.com",
+      "molescope.com",
+      "molescope.com."
+    ]
+  },
+  {
+    "appId": "com.sonova.easyline.rcapp",
+    "title": "Easy Line Remote",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.5972223,
+    "installs": 100000,
+    "domains": [
+      "ks10userportal.com",
+      "phonak.com",
+      "sonova.com"
+    ]
+  },
+  {
+    "appId": "com.cmee4.soundscouts",
+    "title": "Sound Scouts - Hearing Test",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.69,
+    "installs": 10000,
+    "domains": [
+      "soundscouts.com",
+      "soundscouts.com.au"
+    ]
+  },
+  {
+    "appId": "org.minddiagnostics",
+    "title": "Mental Health Tests",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.862745,
+    "installs": 500000,
+    "domains": [
+      "facebook.com",
+      "instagram.com",
+      "mind-diagnostics.org",
+      "twitter.com"
+    ]
+  },
+  {
+    "appId": "com.aktiia.android.production",
+    "title": "Hilo",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4722223,
+    "installs": 10000,
+    "domains": [
+      "hilo.com"
+    ]
+  },
+  {
+    "appId": "com.ada.app",
+    "title": "Ada \u2013 check your health",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.66,
+    "installs": 10000000,
+    "domains": [
+      "ada.com"
+    ]
+  },
+  {
+    "appId": "com.vinrei.fodmap",
+    "title": "Fodmate: Low FODMAP Foods",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.6363635,
+    "installs": 10000,
+    "domains": [
+      "fodmate.app"
+    ]
+  },
+  {
+    "appId": "com.perxhealth.android",
+    "title": "Perx Health",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.019802,
+    "installs": 10000,
+    "domains": [
+      "perxhealth.com"
+    ]
+  },
+  {
+    "appId": "com.medm.app.health",
+    "title": "Health Diary by MedM",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.425,
+    "installs": 100000,
+    "domains": [
+      "health.medm.com",
+      "medm.com"
+    ]
+  },
+  {
+    "appId": "au.csiro.aehrc.CALDAssist",
+    "title": "CALD Assist",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 5000,
+    "domains": [
+      "csiro.au"
+    ]
+  },
+  {
+    "appId": "com.universitedemontreal.felinegrimacescale",
+    "title": "Feline Grimace Scale",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.6,
+    "installs": 100000,
+    "domains": [
+      "felinegrimacescale.com"
+    ]
+  },
+  {
+    "appId": "com.automedsystems.amsdocs",
+    "title": "AMS Doc Connect",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.4444447,
+    "installs": 1000,
+    "domains": [
+      "automedsystems.com.au"
+    ]
+  },
+  {
+    "appId": "com.abqappsource.childgrowthtracker",
+    "title": "Child Growth Tracker",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.89,
+    "installs": 1000000,
+    "domains": [
+      "childgrowthtracker.com"
+    ]
+  },
+  {
+    "appId": "epic.mychart.android",
+    "title": "MyChart",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 3.7826087,
+    "installs": 10000000,
+    "domains": [
+      "epic.com"
+    ]
+  },
+  {
+    "appId": "com.abbott.crm.ngq.patient.anz",
+    "title": "myMerlinPulse\u2122",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "abbott.com",
+      "cardiovascular.abbott.com"
+    ]
+  },
+  {
+    "appId": "com.geniegeniesolutions",
+    "title": "Gentu Mobile",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 0,
+    "installs": 1000,
+    "domains": [
+      "magentus.com"
+    ]
+  },
+  {
+    "appId": "com.ekodevices.android",
+    "title": "Eko: Digital Stethoscopes",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.107143,
+    "installs": 100000,
+    "domains": [
+      "ekohealth.com"
+    ]
+  },
+  {
+    "appId": "com.kenhub.dailyanatomy.musclesandbones",
+    "title": "Daily Anatomy Flashcards",
+    "genre": "Medical",
+    "tag": "medical",
+    "score": 4.72,
+    "installs": 500000,
+    "domains": [
+      "iubenda.com",
+      "kenhub.com"
+    ]
+  },
+  {
+    "appId": "com.duckduckgo.mobile.android",
+    "title": "DuckDuckGo Browser, Search, AI",
+    "genre": "Productivity",
+    "tag": "vpn",
+    "score": 4.689547,
+    "installs": 50000000,
+    "domains": [
+      "duckduckgo.com",
+      "help.duckduckgo.com"
+    ]
+  },
+  {
+    "appId": "com.freevpnplanet",
+    "title": "Planet Free VPN \u2122 Super Proxy",
+    "genre": "Productivity",
+    "tag": "vpn",
+    "score": 4.4732823,
+    "installs": 10000000,
+    "domains": [
+      "freeplanetvpn.com",
+      "freevpnplanet.com"
+    ]
+  },
+  {
+    "appId": "proton.android.authenticator",
+    "title": "Proton Authenticator",
+    "genre": "Productivity",
+    "tag": "vpn",
+    "score": 4.489362,
+    "installs": 100000,
+    "domains": [
+      "proton.me"
+    ]
+  },
+  {
+    "appId": "dev.alo.vpn",
+    "title": "Alo Plus VPN",
+    "genre": "Social",
+    "tag": "vpn",
+    "score": null,
+    "installs": 100000,
+    "domains": [
+      "sites.google.com"
+    ]
+  },
+  {
+    "appId": "com.technore.xrptunnelplus",
+    "title": "X-rp Tunnel Plus",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.29,
+    "installs": 500000,
+    "domains": [
+      "aliavpn.xyz",
+      "aztunnel.blogspot.com"
+    ]
+  },
+  {
+    "appId": "com.nordvpn.android",
+    "title": "NordVPN \u2013 fast VPN for privacy",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.5821486,
+    "installs": 100000000,
+    "domains": [
+      "my.nordaccount.com",
+      "nordvpn.com"
+    ]
+  },
+  {
+    "appId": "ch.protonvpn.android",
+    "title": "VPN Proton: Fast & Secure VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.597826,
+    "installs": 50000000,
+    "domains": [
+      "proton.me",
+      "protonvpn.com"
+    ]
+  },
+  {
+    "appId": "com.symantec.mobilesecurity",
+    "title": "Norton360 Antivirus & Security",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.582457,
+    "installs": 50000000,
+    "domains": [
+      "norton.com",
+      "nortonlifelock.com"
+    ]
+  },
+  {
+    "appId": "private.internet.access.vpn.lumos",
+    "title": "VPN Lumos: Fast VPN Master",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.1960783,
+    "installs": 10000000,
+    "domains": [
+      "lumos.mobi"
+    ]
+  },
+  {
+    "appId": "com.trm.tunnel",
+    "title": "TRM TUNNEL",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.33,
+    "installs": 1000000,
+    "domains": [
+      "trmprivacy.blogspot.com",
+      "trmtunnel.blogspot.com"
+    ]
+  },
+  {
+    "appId": "com.surfshark.vpnclient.android",
+    "title": "Surfshark: VPN for Australia",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.610309,
+    "installs": 10000000,
+    "domains": [
+      "surfshark.com"
+    ]
+  },
+  {
+    "appId": "org.malwarebytes.antimalware",
+    "title": "Malwarebytes Mobile Security",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.581431,
+    "installs": 10000000,
+    "domains": [
+      "malwarebytes.com"
+    ]
+  },
+  {
+    "appId": "com.free.vpn.super.hotspot.open",
+    "title": "VPN - Super Unlimited Proxy",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.696,
+    "installs": 100000000,
+    "domains": [
+      "vpnsuper.com"
+    ]
+  },
+  {
+    "appId": "com.symantec.securewifi",
+    "title": "Norton VPN \u2013 Fast & Secure",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.464455,
+    "installs": 10000000,
+    "domains": [
+      "nortonlifelock.com",
+      "support.norton.com"
+    ]
+  },
+  {
+    "appId": "com.apnatunnel.lite",
+    "title": "APNA TUNNEL LITE",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.5339804,
+    "installs": 10000000,
+    "domains": [
+      "amtun.xyz",
+      "apnatunnellite.blogspot.com"
+    ]
+  },
+  {
+    "appId": "com.mxtunnel.pro",
+    "title": "MX Tunnel Pro",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.3584905,
+    "installs": 1000000,
+    "domains": [
+      "mxproloop.xyz",
+      "mxtunnelprovpn.blogspot.com"
+    ]
+  },
+  {
+    "appId": "com.mtmtunnel.lite",
+    "title": "MTM Tunnel Lite",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.35,
+    "installs": 10000000,
+    "domains": [
+      "mtmworkz.blogspot.com",
+      "tmtunnel.com"
+    ]
+  },
+  {
+    "appId": "com.hxtunnel.vpn",
+    "title": "HX Tunnel VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.177778,
+    "installs": 1000000,
+    "domains": [
+      "hxtunnel.blogspot.com",
+      "hxtunnelweb.blogspot.com"
+    ]
+  },
+  {
+    "appId": "app.jumpjumpvpn.jumpjumpvpn",
+    "title": "JumpJumpVPN \u2013 Super Unlimited",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.372549,
+    "installs": 10000000,
+    "domains": [
+      "jumpjump.io"
+    ]
+  },
+  {
+    "appId": "com.expressvpn.vpn",
+    "title": "ExpressVPN: Fast & Secure VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.6138806,
+    "installs": 50000000,
+    "domains": [
+      "expressvpn.com"
+    ]
+  },
+  {
+    "appId": "com.totalav.android",
+    "title": "TotalAV Mobile Security",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.2291064,
+    "installs": 5000000,
+    "domains": [
+      "totalav.com"
+    ]
+  },
+  {
+    "appId": "com.fx.tunnel",
+    "title": "Fx Tunnel vpn - Super Fast Net",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.2708335,
+    "installs": 1000000,
+    "domains": [
+      "fxloop.xyz",
+      "fxtunnelvpn.blogspot.com"
+    ]
+  },
+  {
+    "appId": "app.vpn.amtunnellite",
+    "title": "AM TUNNEL LITE VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.5597486,
+    "installs": 10000000,
+    "domains": [
+      "antunnellite.blogspot.com",
+      "rozarvpn.xyz"
+    ]
+  },
+  {
+    "appId": "com.rjctunnel.vpn",
+    "title": "RJC TUNNEL VPN - Fast & Secure",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.142857,
+    "installs": 500000,
+    "domains": [
+      "rjctunnelvpn.blogspot.com",
+      "rjctunnelvpn.xyz"
+    ]
+  },
+  {
+    "appId": "com.wsandroid.suite",
+    "title": "McAfee Security: Antivirus VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 3.7673378,
+    "installs": 50000000,
+    "domains": [
+      "mcafee.com",
+      "service.mcafee.com"
+    ]
+  },
+  {
+    "appId": "com.mxdev.tunnel",
+    "title": "Mx Tunnel Vpn - Super fast Net",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.642857,
+    "installs": 1000000,
+    "domains": [
+      "mxtunnelvpn.blogspot.com",
+      "sarkarmx.xyz"
+    ]
+  },
+  {
+    "appId": "con.hotspot.vpn.free.master",
+    "title": "Free VPN Super\u2122 -Fast & Secure",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.6969695,
+    "installs": 50000000,
+    "domains": [
+      "supershell.me"
+    ]
+  },
+  {
+    "appId": "cleaner.antivirus",
+    "title": "Antivirus - Cleaner + VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.633663,
+    "installs": 10000000,
+    "domains": [
+      "kigelapps.com"
+    ]
+  },
+  {
+    "appId": "com.jm.apnatunnel",
+    "title": "APNA TUNNEL",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.32,
+    "installs": 5000000,
+    "domains": [
+      "amtun.xyz",
+      "apnatunnel1.blogspot.com"
+    ]
+  },
+  {
+    "appId": "dastan.prince.bdfreevpn",
+    "title": "BD NET VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.5,
+    "installs": 10000000,
+    "domains": [
+      "sulitnetsoft.com"
+    ]
+  },
+  {
+    "appId": "com.fast.free.unblock.secure.vpn",
+    "title": "Secure VPN\uff0dSafer Internet",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.4294477,
+    "installs": 100000000,
+    "domains": [
+      "securesignal.app"
+    ]
+  },
+  {
+    "appId": "free.vpn.unblock.proxy.turbovpn",
+    "title": "Turbo VPN - Secure VPN Proxy",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.571429,
+    "installs": 100000000,
+    "domains": [
+      "turbovpn.co",
+      "turbovpn.com"
+    ]
+  },
+  {
+    "appId": "my.teamapna.tunnel",
+    "title": "APNA VPN",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.29,
+    "installs": 1000000,
+    "domains": [
+      "apnavpn.blogspot.com"
+    ]
+  },
+  {
+    "appId": "xyz.xrptunnelplus.vpn",
+    "title": "X-rp Tunnel Vpn",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.6666665,
+    "installs": 100000,
+    "domains": [
+      "aliavpn.xyz",
+      "xrpvpn.blogspot.com"
+    ]
+  },
+  {
+    "appId": "com.trendmicro.tmmspersonal",
+    "title": "Mobile Security & Antivirus",
+    "genre": "Tools",
+    "tag": "vpn",
+    "score": 4.6996617,
+    "installs": 5000000,
+    "domains": [
+      "trendmicro.com"
+    ]
+  },
+  {
+    "appId": "com.instabridge.android",
+    "title": "Instabridge: WiFi Hotspot Map",
+    "genre": "Travel & Local",
+    "tag": "vpn",
+    "score": 4.007926,
+    "installs": 100000000,
+    "domains": [
+      "degoo.com",
+      "instabridge.com"
+    ]
+  },
+  {
+    "appId": "sk.trupici.gwatch.wear",
+    "title": "G-Watch Wear App",
+    "genre": "Health & Fitness",
+    "tag": "health_fitness",
+    "score": 4.1666665,
+    "installs": 100000,
+    "domains": [
+      "facebook.com",
+      "freeprivacypolicy.com"
+    ]
+  }
+]
