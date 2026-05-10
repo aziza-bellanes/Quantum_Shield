@@ -1,4 +1,4 @@
-# QuantumShield 2.0 — Full-Stack TLS & PQC Security Platform
+# QuantumShield  — Full-Stack TLS & PQC Security Platform
 
 A full-stack cybersecurity dashboard for **TLS analysis** and **Post-Quantum Cryptography (PQC) readiness** scoring of Android applications.
 
@@ -41,7 +41,7 @@ A full-stack cybersecurity dashboard for **TLS analysis** and **Post-Quantum Cry
 
 ## 1. Project Overview
 
-QuantumShield 2.0 scans Android apps for TLS weaknesses and post-quantum cryptography (PQC) exposure, scores them using an ML pipeline, and surfaces results through a role-based React dashboard.
+QuantumShield  scans Android apps for TLS weaknesses and post-quantum cryptography (PQC) exposure, scores them using an ML pipeline, and surfaces results through a role-based React dashboard.
 
 **Core capabilities:**
 
